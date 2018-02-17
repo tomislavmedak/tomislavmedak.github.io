@@ -7,122 +7,122 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>http://localhost:8000/</loc>
-  <lastmod>2018-02-16T22:32:00Z</lastmod>
+  <lastmod>2018-02-16T23:57:00Z</lastmod>
  </url>
  <url>
   <loc>http://localhost:8000/archive.html</loc>
-  <lastmod>2018-02-16T22:51:00Z</lastmod>
+  <lastmod>2018-02-17T00:04:00Z</lastmod>
  </url>
  <url>
   <loc>http://localhost:8000/blog/</loc>
-  <lastmod>2018-02-16T22:15:00Z</lastmod>
+  <lastmod>2018-02-16T23:57:00Z</lastmod>
  </url>
  <url>
   <loc>http://localhost:8000/categories/</loc>
-  <lastmod>2018-02-16T21:37:00Z</lastmod>
+  <lastmod>2018-02-16T23:57:00Z</lastmod>
  </url>
  <url>
   <loc>http://localhost:8000/en/</loc>
-  <lastmod>2018-02-16T22:32:00Z</lastmod>
+  <lastmod>2018-02-16T23:57:00Z</lastmod>
  </url>
  <url>
   <loc>http://localhost:8000/en/amateur/</loc>
-  <lastmod>2018-02-16T21:39:00Z</lastmod>
+  <lastmod>2018-02-16T23:57:00Z</lastmod>
  </url>
  <url>
   <loc>http://localhost:8000/en/art/</loc>
-  <lastmod>2018-02-16T21:39:00Z</lastmod>
+  <lastmod>2018-02-16T23:57:00Z</lastmod>
  </url>
  <url>
   <loc>http://localhost:8000/en/bio/</loc>
-  <lastmod>2018-02-16T22:31:00Z</lastmod>
+  <lastmod>2018-02-16T23:57:00Z</lastmod>
  </url>
  <url>
   <loc>http://localhost:8000/en/bordering/</loc>
-  <lastmod>2018-02-16T21:39:00Z</lastmod>
+  <lastmod>2018-02-16T23:57:00Z</lastmod>
  </url>
  <url>
   <loc>http://localhost:8000/en/civil/</loc>
-  <lastmod>2018-02-16T21:39:00Z</lastmod>
+  <lastmod>2018-02-16T23:57:00Z</lastmod>
  </url>
  <url>
   <loc>http://localhost:8000/en/conjuncture/</loc>
-  <lastmod>2018-02-16T21:39:00Z</lastmod>
+  <lastmod>2018-02-16T23:57:00Z</lastmod>
  </url>
  <url>
   <loc>http://localhost:8000/en/ecotech/</loc>
-  <lastmod>2018-02-16T21:39:00Z</lastmod>
+  <lastmod>2018-02-16T23:57:00Z</lastmod>
  </url>
  <url>
   <loc>http://localhost:8000/en/future/</loc>
-  <lastmod>2018-02-16T21:39:00Z</lastmod>
+  <lastmod>2018-02-16T23:57:00Z</lastmod>
  </url>
  <url>
   <loc>http://localhost:8000/en/hacking/</loc>
-  <lastmod>2018-02-16T21:39:00Z</lastmod>
+  <lastmod>2018-02-16T23:57:00Z</lastmod>
  </url>
  <url>
   <loc>http://localhost:8000/en/txt/</loc>
-  <lastmod>2018-02-16T22:31:00Z</lastmod>
+  <lastmod>2018-02-16T23:57:00Z</lastmod>
  </url>
  <url>
   <loc>http://localhost:8000/galleries/</loc>
-  <lastmod>2018-02-16T21:37:00Z</lastmod>
+  <lastmod>2018-02-16T23:57:00Z</lastmod>
  </url>
  <url>
   <loc>http://localhost:8000/hr/</loc>
-  <lastmod>2018-02-16T22:45:00Z</lastmod>
+  <lastmod>2018-02-16T23:57:00Z</lastmod>
  </url>
  <url>
   <loc>http://localhost:8000/hr/.hr/</loc>
-  <lastmod>2018-02-16T22:34:00Z</lastmod>
+  <lastmod>2018-02-16T23:57:00Z</lastmod>
  </url>
  <url>
   <loc>http://localhost:8000/hr/art/</loc>
-  <lastmod>2018-02-16T22:45:00Z</lastmod>
+  <lastmod>2018-02-16T23:57:00Z</lastmod>
  </url>
  <url>
   <loc>http://localhost:8000/hr/bibliografija/</loc>
-  <lastmod>2018-02-16T21:39:00Z</lastmod>
+  <lastmod>2018-02-16T23:57:00Z</lastmod>
  </url>
  <url>
   <loc>http://localhost:8000/hr/bio/</loc>
-  <lastmod>2018-02-16T22:45:00Z</lastmod>
+  <lastmod>2018-02-16T23:57:00Z</lastmod>
  </url>
  <url>
   <loc>http://localhost:8000/hr/biografija/</loc>
-  <lastmod>2018-02-16T21:39:00Z</lastmod>
+  <lastmod>2018-02-16T23:57:00Z</lastmod>
  </url>
  <url>
   <loc>http://localhost:8000/hr/buducnost/</loc>
-  <lastmod>2018-02-16T21:39:00Z</lastmod>
+  <lastmod>2018-02-16T23:57:00Z</lastmod>
  </url>
  <url>
   <loc>http://localhost:8000/hr/civilno/</loc>
-  <lastmod>2018-02-16T21:39:00Z</lastmod>
+  <lastmod>2018-02-16T23:57:00Z</lastmod>
  </url>
  <url>
   <loc>http://localhost:8000/hr/eksploatacija/</loc>
-  <lastmod>2018-02-16T21:39:00Z</lastmod>
+  <lastmod>2018-02-16T23:57:00Z</lastmod>
  </url>
  <url>
   <loc>http://localhost:8000/hr/invaliditet/</loc>
-  <lastmod>2018-02-16T21:39:00Z</lastmod>
+  <lastmod>2018-02-16T23:57:00Z</lastmod>
  </url>
  <url>
   <loc>http://localhost:8000/hr/radovi/</loc>
-  <lastmod>2018-02-16T21:39:00Z</lastmod>
+  <lastmod>2018-02-16T23:57:00Z</lastmod>
  </url>
  <url>
   <loc>http://localhost:8000/hr/ritam/</loc>
-  <lastmod>2018-02-16T21:39:00Z</lastmod>
+  <lastmod>2018-02-16T23:57:00Z</lastmod>
  </url>
  <url>
   <loc>http://localhost:8000/hr/txt/</loc>
-  <lastmod>2018-02-16T22:45:00Z</lastmod>
+  <lastmod>2018-02-16T23:57:00Z</lastmod>
  </url>
  <url>
   <loc>http://localhost:8000/listings/</loc>
-  <lastmod>2018-02-16T21:39:00Z</lastmod>
+  <lastmod>2018-02-16T23:57:00Z</lastmod>
  </url>
 </urlset>
