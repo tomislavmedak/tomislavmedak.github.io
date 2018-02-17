@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
   <loc>http://localhost:8000/galleries/rss.xml</loc>
-  <lastmod>2018-02-17T00:45:00Z</lastmod>
+  <lastmod>2018-02-17T01:01:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://localhost:8000/rss.xml</loc>
@@ -15,6 +15,6 @@
  </sitemap>
  <sitemap>
   <loc>http://localhost:8000/sitemap.xml</loc>
-  <lastmod>2018-02-17T00:55:00Z</lastmod>
+  <lastmod>2018-02-17T01:01:00Z</lastmod>
  </sitemap>
 </sitemapindex>
