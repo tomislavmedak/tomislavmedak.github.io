@@ -24,7 +24,8 @@ Since 2001 I've been working with the Zagreb-based performative collective [BADc
 
 **[Nature Needs to be Constructed](http://badco.hr/en/work/1/all#!nature-needs-to-be-constructed)**,performative event, 2013
 
-![photo: Tomislav Medak](/images/nature.jpg){width=50%} ![photo: Tomislav Medak](/images/nature_2.jpg){width=50%}
+![photo: Tomislav Medak](/images/nature.jpg){width=50%}
+![photo: Tomislav Medak](/images/nature_2.jpg){width=50%}
 
 **[Is There Life on Stage - Exercises in Terraforming](http://badco.hr/en/work/1/all#!itlos)**, 2013
 
