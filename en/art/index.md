@@ -33,7 +33,8 @@ Since 2001 I've been working with the Zagreb-based performative collective [BADc
 
 **[Responsiblity for Things Seen](http://badco.hr/en/work/1/all#!responsiblity)**, interactive installation, 2011
 
-![photo: Dinko Rupčić](/images/responsiblity_1.jpg){width=50%} ![photo: Ivan Kuharić](/images/responsiblity_2.jpg){width=50%}
+![photo: Dinko Rupčić](/images/responsibility_1.jpg){width=50%}
+![photo: Ivan Kuharić](/images/responsibility_2.jpg){width=50%}
 
 
 **[The League of Time](http://badco.hr/en/work/1/Performance#!league-of-time)**, 2009
