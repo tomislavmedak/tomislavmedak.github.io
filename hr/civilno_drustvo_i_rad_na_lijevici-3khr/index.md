@@ -1,11 +1,9 @@
 <!--
 .. title: Civilno društvo i politički rad na ljevici
-.. slug: civilno
 -->
 
 ---
-lead: Članak objavljen u prvom broju časopisa zagrebačkog Centra za radničke studije [3k - kapital, klasa, kritika](http://www.rosalux.rs/sites/default/files/publications/3k_1_2014_WEB_FINAL.pdf). Nastao temeljm izlaganja na konferenciji *Predicaments of the Left - Conjunctures, Strategies, Perspectives*, održanoj 17.-19. oktobra 2013. u Zagrebu.
-
+lead: Članak objavljen u prvom broju časopisa zagrebačkog Centra za radničke studije [3k: kapital, klasa, kritika](http://www.rosalux.rs/sites/default/files/publications/3k_1_2014_WEB_FINAL.pdf). Nastao temeljm izlaganja na konferenciji *Predicaments of the Left: Conjunctures, Strategies, Perspectives*, održanoj 17.-19. oktobra 2013. u Zagrebu.
 ---
 
 ## Strukturni problemi ljevice, u retrospektivi

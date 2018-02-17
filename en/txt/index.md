@@ -30,7 +30,7 @@ Multimedia Institute, 2006.
 
 ###  Technology, ecology, capitalism
 
-‘Technologies for an Ecological Transition: A Faustian Bargain?’.
+[‘Technologies for an Ecological Transition: A Faustian Bargain?’](/en/ecotech/).
 *Materialism and the Critique of Energy*, edited by Brent Ryan Bellamy
 et al., M-C-M’ Press, forthcoming and also published as a working paper,
 Institute for Political Ecology, Nov. 2017. [🔗 PDF at IPE](http://ipe.hr/wp-content/uploads/2017/11/Technologies-for-an-Ecological-Transition-A-Faustian-Bargain-1.pdf)
@@ -44,8 +44,8 @@ Conversation with Marcell Mars and Tomislav Medak’. *Learning in the Age
 of Digital Reason*, edited by Petar Jandrić, SensePublishers, 2017, pp.
 243–269.
 
-Co-authored with Marcell Mars. ‘Amateur Librarian - A Course in Critical
-Pedagogy’. *Mondothèque :: A Radiated Book*, Constant, 2016, pp. 48–56.
+Co-authored with Marcell Mars. [‘Amateur Librarian - A Course in Critical
+Pedagogy‘](/en/amateur/). *Mondothèque :: A Radiated Book*, Constant, 2016, pp. 48–56.
 [🔗 Original post at the Mondothèque wiki](http://www.mondotheque.be/wiki/index.php/Amateur_Librarian_-_A_Course_in_Critical_Pedagogy)
 
 Co-authored with Marcell Mars and Dubravka Sekulić. ‘“We Need It–we Do
@@ -55,14 +55,14 @@ the 15th International Architecture Exhibition/La Biennale Di Venezia
 Centre for Independent Culture and Youth; Museum of Modern and
 Contemporary Art Rijeka, 2016, pp. 228–35.
 
-‘The Future After the Library: UbuWeb and Monoskop’s Radical Gestures’.
+[‘The Future After the Library: UbuWeb and Monoskop’s Radical Gestures’](/en/ubu_monoskop/).
 *Public Library*, What, How and for Whom/WHW & Multimedia Institute,
 2015, pp. 121–37. [🔗 PDF at Memory of the World](http://library.memoryoftheworld.org/b/Fs5CQa5xtzBrKZmI08Q41fQZOr4lAadL5_GsqfHiDgV4w-iC)
 
 ‘Death and Survival of Dead Labor’. *Akademie Schloss Solitude:
 Schlosspost*, 8 Jan. 2016. [🔗](https://schloss-post.com/death-survival-dead-labor/)
 
-‘Hacking’. *Truth Is Concrete: A Handbook for Artistic Strategies in
+[‘Hacking’](/en/hacking). *Truth Is Concrete: A Handbook for Artistic Strategies in
 Real Politics*, edited by Florian Malzacher, Sternberg Press, 2014, pp.
 267–68.
 
@@ -83,10 +83,10 @@ Interview: ‘From Independent Cultural Work to Political Subjectivity’.
 *The Art of Civil Action: Political Space and Cultural Dissent*, edited
 by Philipp Dietachmair and Pascal Gielen, Valiz, 2017, pp. 207–27.
 
-*The Art, the Political Conjuncture, and the Left*. 7 Sept. 2016. [🔗](https://schloss-post.com/art-political-conjuncture-left/)
+[‘The Art, the Political Conjuncture, and the Left‘](/en/conjuncture/). Schlosspost. 7 Sept. 2016. [🔗](https://schloss-post.com/art-political-conjuncture-left/)
 
-*Bordering, Social Choreography & Transmodernity : Dance beyond
-Capitalist Modernity],* Hannover, 2016.
+[‘Bordering, Social Choreography & Transmodernity : Dance beyond
+Capitalist Modernity‘](/en/bordering/). A talk delivered at the Tanzkongress in Hannover, 2016.
 
 ‘Open Institutions and the Reform of the Cultural System’. *Frakcija -
 Performing Arts Journal*, no. 60–61, 2011, pp. 55–58.
@@ -97,3 +97,7 @@ Contemporary Art, 2006, pp. 135–40.
 
 ‘Energy and Emergence: On Some Problems of Contemporary Artistic
 Strategies’. *Frakcija - Performing Arts Journal*, no. 19, 2001, p. 16.
+
+### Social movements and politics
+
+[‘Civil Society and Political Work on the Left‘](/en/the_left/). A talk delivered at the conference Predicaments of the Left in Zagreb, 2013.

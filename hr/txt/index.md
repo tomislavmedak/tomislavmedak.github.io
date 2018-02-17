@@ -24,7 +24,7 @@ Zajedno s Marcellom Marsom: *System.hack()*. Multimedijalni institut,
 
 „O čemu pričamo kada pričamo o bitcoinu?“ *Bilten*, 25. siječanj 2018. [🔗](http://www.bilten.org/?p=21983)
 
-„Od ekonomije dijeljenja do dijeljene eksploatacije“. *Bilten -
+[„Od ekonomije dijeljenja do dijeljene eksploatacije“](/hr/eksploatacija/). *Bilten -
 regionalni portal*, 24. ožujak 2017. [🔗](http://www.bilten.org/?p=17570)
 
 „Pa pa proleteri...: automatizacija i kriza rada“. *Kulturpunkt*,
@@ -32,6 +32,8 @@ ožujak 2017. [🔗](http://www.kulturpunkt.hr/content/pa-pa-proleteri-automatiz
 
 „Pa pa proleteri...: politička kriza i tehnološki razvoj“.
 *Kulturpunkt*, travanj 2017. [🔗](http://www.kulturpunkt.hr/content/pa-pa-proleteri-politicka-kriza-i-tehnoloski-razvoj)
+
+„Pa pa proleteri...: automatizacija i kriza rada“. *Kulturpunkt*, ožujak 2017., [🔗](http://www.kulturpunkt.hr/content/pa-pa-proleteri-automatizacija-i-kriza-rada).
 
 Intervju: "Tehnooptimizam na staklenim nogama", *Slobodni filozofski*. 21. prosinac 2016. [🔗](http://slobodnifilozofski.com/2016/12/tehnooptimizam-staklenim-nogama.html)
 
@@ -42,7 +44,7 @@ Intervju: "Tehnooptimizam na staklenim nogama", *Slobodni filozofski*. 21. prosi
 
 ### Knjižnice iz sjene, dostupnost znanja, haktivizam
 
-„Budućnosti iz knjižnice: Radikalne geste UbuWeba i Monoskopa“. *Javna
+[„Budućnosti iz knjižnice: Radikalne geste UbuWeba i Monoskopa“](/hr/ubu_monoskop/). *Javna
 knjižnica*, Što, kako i za koga/WHW & Multimedijalni institut, 2015,
 str. 51–66. [🔗 PDF na Memory of the World](http://library.memoryoftheworld.org/b/Fs5CQa5xtzBrKZmI08Q41fQZOr4lAadL5_GsqfHiDgV4w-iC)
 
@@ -51,9 +53,9 @@ str. 51–66. [🔗 PDF na Memory of the World](http://library.memoryoftheworld.
 
 ### Umjetnost, kultura, kulturni aktivizam
 
-„Narušeni ritam i analitička opsesija“. *BADco.: Ispravci ritma
+[„Narušeni ritam i analitička opsesija“](/hr/ritam/). *BADco.: Ispravci ritma
 (programska knjiga predstave)*, uredila Ivana Ivković, Hrvatsko narodno
-kazalište, 2017, str. 30–33.
+kazalište, 2017, str. 30–33. [🔗 PDF na stranicama BADco.](http://badco.hr/media/uploads/ispravci_ritma_tomislav_medak.pdf)
 
 „Pohvala birokracije“. *L.p,* Marko Ercegović / Ured za fotografiju,
 2017, str. 9–19.
@@ -71,8 +73,8 @@ Performing Arts Journal*, izd. 60–61, prosinac 2011., str. 50–54.
 
 ### Društvo, društveni pokreti, politika
 
-„Civilno društvo i politički rad na ljevici“. *3k: kapital, klasa,
+[„Civilno društvo i politički rad na ljevici“](/hr/ljevica/). *3k: kapital, klasa,
 kritika*, sv. 1, izd. 1, 2014., str. 133–38.
 
-"Invaliditet - inkluzija - kapitalizam". Grupa 22, 06. siječanj 2015.,
+[„Invaliditet - inkluzija - kapitalizam“](/hr/invaliditet/). Grupa 22, 06. siječanj 2015.,
 str. 5. [🔗 PDF na Grupi 22](http://www.grupa22.hr/invaliditet-inkluzija-kapitalizam/)

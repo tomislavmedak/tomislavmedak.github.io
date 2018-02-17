@@ -1,6 +1,6 @@
 <!--
 .. title: Civilno društvo i politički rad na ljevici
-.. slug: civilno
+.. slug: ljevica
 -->
 
 ---

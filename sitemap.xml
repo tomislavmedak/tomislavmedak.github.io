@@ -23,7 +23,7 @@
  </url>
  <url>
   <loc>http://localhost:8000/en/</loc>
-  <lastmod>2018-02-16T23:57:00Z</lastmod>
+  <lastmod>2018-02-17T20:48:00Z</lastmod>
  </url>
  <url>
   <loc>http://localhost:8000/en/amateur/</loc>
@@ -62,8 +62,16 @@
   <lastmod>2018-02-16T23:57:00Z</lastmod>
  </url>
  <url>
+  <loc>http://localhost:8000/en/the_left/</loc>
+  <lastmod>2018-02-17T20:34:00Z</lastmod>
+ </url>
+ <url>
   <loc>http://localhost:8000/en/txt/</loc>
   <lastmod>2018-02-16T23:57:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://localhost:8000/en/ubu_monoskop/</loc>
+  <lastmod>2018-02-17T20:48:00Z</lastmod>
  </url>
  <url>
   <loc>http://localhost:8000/galleries/</loc>
@@ -71,7 +79,7 @@
  </url>
  <url>
   <loc>http://localhost:8000/hr/</loc>
-  <lastmod>2018-02-17T00:54:00Z</lastmod>
+  <lastmod>2018-02-17T20:24:00Z</lastmod>
  </url>
  <url>
   <loc>http://localhost:8000/hr/art/</loc>
@@ -90,6 +98,14 @@
   <lastmod>2018-02-16T23:57:00Z</lastmod>
  </url>
  <url>
+  <loc>http://localhost:8000/hr/civilno_drustvo_i_rad_na_lijevici-3k/</loc>
+  <lastmod>2018-02-17T19:17:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://localhost:8000/hr/civilno_drustvo_i_rad_na_lijevici-3khr/</loc>
+  <lastmod>2018-02-17T19:11:00Z</lastmod>
+ </url>
+ <url>
   <loc>http://localhost:8000/hr/eksploatacija/</loc>
   <lastmod>2018-02-16T23:57:00Z</lastmod>
  </url>
@@ -98,12 +114,20 @@
   <lastmod>2018-02-16T23:57:00Z</lastmod>
  </url>
  <url>
+  <loc>http://localhost:8000/hr/ljevica/</loc>
+  <lastmod>2018-02-17T20:24:00Z</lastmod>
+ </url>
+ <url>
   <loc>http://localhost:8000/hr/ritam/</loc>
   <lastmod>2018-02-16T23:57:00Z</lastmod>
  </url>
  <url>
   <loc>http://localhost:8000/hr/txt/</loc>
   <lastmod>2018-02-16T23:57:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://localhost:8000/hr/ubu_monoskop/</loc>
+  <lastmod>2018-02-17T20:24:00Z</lastmod>
  </url>
  <url>
   <loc>http://localhost:8000/listings/</loc>
