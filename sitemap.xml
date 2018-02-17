@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>http://localhost:8000/</loc>
-  <lastmod>2018-02-17T00:57:00Z</lastmod>
+  <lastmod>2018-02-17T18:38:00Z</lastmod>
  </url>
  <url>
   <loc>http://localhost:8000/archive.html</loc>
