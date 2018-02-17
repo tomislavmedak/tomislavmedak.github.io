@@ -7,19 +7,19 @@ Since 2001 I've been working with the Zagreb-based performative collective [BADc
 
 **[Correcting Rhythm](http://badco.hr/en/work/1/all#!correcting-rhythm)**, 2017
 
-![photo: Marko Ercegović](/images/correcting_rhythm.jpg)
+![photo: Marko Ercegović](/images/correcting_rhythm.jpg){width=50%}
 
 **[Spores](http://badco.hr/en/work/1/all#!spore)**, 2016
 
-![photo: Damir Žižić](/images/spores.jpg)
+![photo: Damir Žižić](/images/spores.jpg){width=50%}
 
 **[A Pound of Hysteria, Acceleration... - melodrama](http://badco.hr/en/work/1/all#!melodrama)**, 2013
 
-![photo: Dinko Rupčić](/images/hysteria.jpg)
+![photo: Dinko Rupčić](/images/hysteria.jpg){width=50%}
 
 **[TVolution will not be Televised](http://badco.hr/en/work/1/all#!tvolution)**, interactive installation, 2013
 
-![photo: Tomislav Medak](/images/tvolution.jpg)
+![photo: Tomislav Medak](/images/tvolution.jpg){width=50%}
 
 
 **[Nature Needs to be Constructed](http://badco.hr/en/work/1/all#!nature-needs-to-be-constructed)**,performative event, 2013
@@ -28,7 +28,7 @@ Since 2001 I've been working with the Zagreb-based performative collective [BADc
 
 **[Is There Life on Stage - Exercises in Terraforming](http://badco.hr/en/work/1/all#!itlos)**, 2013
 
-![photo: Tomislav Medak](/images/scena.jpg)
+![photo: Tomislav Medak](/images/scena.jpg){width=50%}
 
 **[Responsiblity for Things Seen](http://badco.hr/en/work/1/all#!responsiblity)**, interactive installation, 2011
 
@@ -37,23 +37,23 @@ Since 2001 I've been working with the Zagreb-based performative collective [BADc
 
 **[The League of Time](http://badco.hr/en/work/1/Performance#!league-of-time)**, 2009
 
-![photo: Lovro Rumiha](/images/league.jpg)
+![photo: Lovro Rumiha](/images/league.jpg){width=50%}
 
 **[Whatever Dance Toolbox](http://badco.hr/en/work/1/all#!whatever-dance-toolbox)**, software for devising choreography, development: Daniel Turing, 2008
 
-![](/images/whatever.jpg)
+![](/images/whatever.jpg){width=50%}
 
 **[1 poor and one 0](http://badco.hr/en/work/1/all#!1-poor-and-one-0)**, 2008
 
-![](/images/1_poor.jpg)
+![](/images/1_poor.jpg){width=50%}
 
 **[Deleted Messages](http://badco.hr/en/work/1/all#!deleted-messages)**, 2004
 
-![](/images/deleted.jpg)
+![](/images/deleted_messages.jpg){width=50%}
 
 **[Ribcage](http://badco.hr/en/work/1/all#!ribcage)**, 2003
 
-![](/images/rebro.png)
+![](/images/ribcage.png){width=50%}
 
 **[Diderot’s Nephew, or Blood is Thicker than Water](http://badco.hr/en/work/1/all#!diderots-nephew)**, 2001
 
