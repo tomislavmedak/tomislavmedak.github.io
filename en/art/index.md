@@ -3,8 +3,6 @@
 .. slug: art
 -->
 
-whatever
-
 Since 2001 I've been working with the Zagreb-based performative collective [BADco.](http://badco.hr/) Our work is drawing from contemporary dance, choreography as expanded practices and experimental dramaturgy. Its defining characteristic is an insistent desabilization of the theatrical act as an act of performance, an act of spectating and an act of communication. Our works are aimed at the [production of problems](https://skogen.pm/archive/2013/evolution-wont-be-televised/text/give-me-a-problem/), rather than at unequivocal understanding, immersion and identification. Over years we have created over 20 performances, a number of installation works, films and videos, research projects and digital tools. Here's a selection of those works that I have helped create:
 
 **[Correcting Rhythm](http://badco.hr/en/work/1/all#!correcting-rhythm)**, 2017
