@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>http://localhost:8000/</loc>
-  <lastmod>2018-02-16T23:57:00Z</lastmod>
+  <lastmod>2018-02-17T00:54:00Z</lastmod>
  </url>
  <url>
   <loc>http://localhost:8000/archive.html</loc>
@@ -71,26 +71,14 @@
  </url>
  <url>
   <loc>http://localhost:8000/hr/</loc>
-  <lastmod>2018-02-16T23:57:00Z</lastmod>
- </url>
- <url>
-  <loc>http://localhost:8000/hr/.hr/</loc>
-  <lastmod>2018-02-16T23:57:00Z</lastmod>
+  <lastmod>2018-02-17T00:54:00Z</lastmod>
  </url>
  <url>
   <loc>http://localhost:8000/hr/art/</loc>
   <lastmod>2018-02-16T23:57:00Z</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/hr/bibliografija/</loc>
-  <lastmod>2018-02-16T23:57:00Z</lastmod>
- </url>
- <url>
   <loc>http://localhost:8000/hr/bio/</loc>
-  <lastmod>2018-02-16T23:57:00Z</lastmod>
- </url>
- <url>
-  <loc>http://localhost:8000/hr/biografija/</loc>
   <lastmod>2018-02-16T23:57:00Z</lastmod>
  </url>
  <url>
@@ -107,10 +95,6 @@
  </url>
  <url>
   <loc>http://localhost:8000/hr/invaliditet/</loc>
-  <lastmod>2018-02-16T23:57:00Z</lastmod>
- </url>
- <url>
-  <loc>http://localhost:8000/hr/radovi/</loc>
   <lastmod>2018-02-16T23:57:00Z</lastmod>
  </url>
  <url>
