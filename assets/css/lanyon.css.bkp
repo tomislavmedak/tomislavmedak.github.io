@@ -144,7 +144,7 @@ div.sidebar,.sidebar {
   position: fixed;
   top: 0;
   bottom: 0;
-  left: -5rem;
+  left: -14rem;
   width: 5rem;
   visibility: visible;
   overflow-y: auto;
@@ -293,9 +293,9 @@ a.sidebar-nav-item:focus {
 #sidebar-checkbox:checked ~ .sidebar,
 #sidebar-checkbox:checked ~ .wrap,
 #sidebar-checkbox:checked ~ .sidebar-toggle {
-  -webkit-transform: translateX(5rem);
-      -ms-transform: translateX(5rem);
-          transform: translateX(5rem);
+  -webkit-transform: translateX(14rem);
+      -ms-transform: translateX(14rem);
+          transform: translateX(14rem);
 }
 
 
@@ -737,10 +737,4 @@ a.pagination-item:hover {
 
 #footer {
 	padding-top: 2em;
-	font-size: 0.9em;
 }
-
-.small {
-	font-size: 1em;
-}
-

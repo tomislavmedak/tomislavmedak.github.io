@@ -59,8 +59,7 @@ Contemporary Art Rijeka, 2016, pp. 228–35.
 *Public Library*, What, How and for Whom/WHW & Multimedia Institute,
 2015, pp. 121–37. [🔗 PDF at Memory of the World](http://library.memoryoftheworld.org/b/Fs5CQa5xtzBrKZmI08Q41fQZOr4lAadL5_GsqfHiDgV4w-iC)
 
-‘Death and Survival of Dead Labor’. *Akademie Schloss Solitude:
-Schlosspost*, 8 Jan. 2016. [🔗](https://schloss-post.com/death-survival-dead-labor/)
+‘Death and Survival of Dead Labor’. *Schlosspost*, 8 Jan. 2016. [🔗](https://schloss-post.com/death-survival-dead-labor/)
 
 [‘Hacking’](/en/hacking). *Truth Is Concrete: A Handbook for Artistic Strategies in
 Real Politics*, edited by Florian Malzacher, Sternberg Press, 2014, pp.
@@ -83,7 +82,7 @@ Interview: ‘From Independent Cultural Work to Political Subjectivity’.
 *The Art of Civil Action: Political Space and Cultural Dissent*, edited
 by Philipp Dietachmair and Pascal Gielen, Valiz, 2017, pp. 207–27.
 
-[‘The Art, the Political Conjuncture, and the Left‘](/en/conjuncture/). Schlosspost. 7 Sept. 2016. [🔗](https://schloss-post.com/art-political-conjuncture-left/)
+[‘The Art, the Political Conjuncture, and the Left‘](/en/conjuncture/). *Schlosspost*, 7 Sept. 2016. [🔗](https://schloss-post.com/art-political-conjuncture-left/)
 
 [‘Bordering, Social Choreography & Transmodernity : Dance beyond
 Capitalist Modernity‘](/en/bordering/). A talk delivered at the Tanzkongress in Hannover, 2016.
