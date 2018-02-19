@@ -63,4 +63,4 @@ Od 2001. godine surađujem s izvedbenim kolektivom [BADco.](http://badco.hr/). N
 
 **[Diderot’s Nephew, or Blood is Thicker than Water](http://badco.hr/hr/work/1/all#!diderots-nephew)**, 2001.
 
-https://vimeo.com/132632159
+[https://vimeo.com/132632159](https://vimeo.com/132632159)

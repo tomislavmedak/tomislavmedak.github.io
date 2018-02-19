@@ -6,131 +6,135 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
-  <loc>http://localhost:8000/</loc>
+  <loc>http://tom.medak.click/</loc>
   <lastmod>2018-02-17T18:38:00Z</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/archive.html</loc>
-  <lastmod>2018-02-18T02:04:00Z</lastmod>
+  <loc>http://tom.medak.click/archive.html</loc>
+  <lastmod>2018-02-19T10:10:00Z</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/blog/</loc>
+  <loc>http://tom.medak.click/blog/</loc>
   <lastmod>2018-02-16T23:57:00Z</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/categories/</loc>
+  <loc>http://tom.medak.click/categories/</loc>
   <lastmod>2018-02-16T23:57:00Z</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/en/</loc>
-  <lastmod>2018-02-17T20:48:00Z</lastmod>
+  <loc>http://tom.medak.click/en/</loc>
+  <lastmod>2018-02-19T10:10:00Z</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/en/amateur/</loc>
+  <loc>http://tom.medak.click/en/amateur/</loc>
   <lastmod>2018-02-16T23:57:00Z</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/en/art/</loc>
+  <loc>http://tom.medak.click/en/art/</loc>
   <lastmod>2018-02-16T23:57:00Z</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/en/bio/</loc>
+  <loc>http://tom.medak.click/en/bio/</loc>
   <lastmod>2018-02-16T23:57:00Z</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/en/bordering/</loc>
+  <loc>http://tom.medak.click/en/bordering/</loc>
   <lastmod>2018-02-16T23:57:00Z</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/en/civil/</loc>
+  <loc>http://tom.medak.click/en/civil/</loc>
   <lastmod>2018-02-16T23:57:00Z</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/en/conjuncture/</loc>
+  <loc>http://tom.medak.click/en/conjuncture/</loc>
   <lastmod>2018-02-16T23:57:00Z</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/en/ecotech/</loc>
+  <loc>http://tom.medak.click/en/contact/</loc>
+  <lastmod>2018-02-19T10:10:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://tom.medak.click/en/ecotech/</loc>
   <lastmod>2018-02-16T23:57:00Z</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/en/future/</loc>
+  <loc>http://tom.medak.click/en/future/</loc>
   <lastmod>2018-02-16T23:57:00Z</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/en/hacking/</loc>
+  <loc>http://tom.medak.click/en/hacking/</loc>
   <lastmod>2018-02-16T23:57:00Z</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/en/the_left/</loc>
+  <loc>http://tom.medak.click/en/the_left/</loc>
   <lastmod>2018-02-17T20:34:00Z</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/en/txt/</loc>
+  <loc>http://tom.medak.click/en/txt/</loc>
   <lastmod>2018-02-16T23:57:00Z</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/en/ubu_monoskop/</loc>
+  <loc>http://tom.medak.click/en/ubu_monoskop/</loc>
   <lastmod>2018-02-17T20:48:00Z</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/galleries/</loc>
+  <loc>http://tom.medak.click/galleries/</loc>
   <lastmod>2018-02-16T23:57:00Z</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/hr/</loc>
+  <loc>http://tom.medak.click/hr/</loc>
   <lastmod>2018-02-17T20:24:00Z</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/hr/art/</loc>
+  <loc>http://tom.medak.click/hr/art/</loc>
   <lastmod>2018-02-16T23:57:00Z</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/hr/bio/</loc>
+  <loc>http://tom.medak.click/hr/bio/</loc>
   <lastmod>2018-02-16T23:57:00Z</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/hr/buducnost/</loc>
+  <loc>http://tom.medak.click/hr/buducnost/</loc>
   <lastmod>2018-02-16T23:57:00Z</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/hr/civilno/</loc>
+  <loc>http://tom.medak.click/hr/civilno/</loc>
   <lastmod>2018-02-16T23:57:00Z</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/hr/civilno_drustvo_i_rad_na_lijevici-3k/</loc>
+  <loc>http://tom.medak.click/hr/civilno_drustvo_i_rad_na_lijevici-3k/</loc>
   <lastmod>2018-02-17T19:17:00Z</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/hr/civilno_drustvo_i_rad_na_lijevici-3khr/</loc>
+  <loc>http://tom.medak.click/hr/civilno_drustvo_i_rad_na_lijevici-3khr/</loc>
   <lastmod>2018-02-17T19:11:00Z</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/hr/eksploatacija/</loc>
+  <loc>http://tom.medak.click/hr/eksploatacija/</loc>
   <lastmod>2018-02-16T23:57:00Z</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/hr/invaliditet/</loc>
+  <loc>http://tom.medak.click/hr/invaliditet/</loc>
   <lastmod>2018-02-16T23:57:00Z</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/hr/ljevica/</loc>
+  <loc>http://tom.medak.click/hr/ljevica/</loc>
   <lastmod>2018-02-17T20:24:00Z</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/hr/ritam/</loc>
+  <loc>http://tom.medak.click/hr/ritam/</loc>
   <lastmod>2018-02-16T23:57:00Z</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/hr/txt/</loc>
+  <loc>http://tom.medak.click/hr/txt/</loc>
   <lastmod>2018-02-16T23:57:00Z</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/hr/ubu_monoskop/</loc>
+  <loc>http://tom.medak.click/hr/ubu_monoskop/</loc>
   <lastmod>2018-02-17T20:24:00Z</lastmod>
  </url>
  <url>
-  <loc>http://localhost:8000/listings/</loc>
+  <loc>http://tom.medak.click/listings/</loc>
   <lastmod>2018-02-16T23:57:00Z</lastmod>
  </url>
 </urlset>

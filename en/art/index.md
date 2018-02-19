@@ -61,4 +61,4 @@ Since 2001 I've been working with the Zagreb-based performative collective [BADc
 
 **[Diderot’s Nephew, or Blood is Thicker than Water](http://badco.hr/en/work/1/all#!diderots-nephew)**, 2001
 
-https://vimeo.com/132632159
+[https://vimeo.com/132632159](https://vimeo.com/132632159)

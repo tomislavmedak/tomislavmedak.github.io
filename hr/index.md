@@ -7,4 +7,4 @@ Dobrodošli na moje stranice. Ja sam doktorant pri [Centru za postdigitalne kult
 
 U istraživačkom radu bavim se pitanjima tehnolgija, kapitalizma i postkapitalističke tranzicije, s posebnim fokusom na ekonomiji intelektualnog vlasništva i nejednakoj razvijenosti znanosti i tehnologija. Povremeno pišem i izlažem o kazalištu, plesu i politici. Na ovim stranicama naći ćete moje tekstove, informacije o umjetničkim djelima u čijem nastajanju sam sudjelovao i moju profesionalnu biografiju. Kliknite na meniju desno i prikazati će vam se linkovi.
 
-Ako me želite kontaktirati, moja adresa je moje ime i prezime @gmail.com.
+Ako me želite kontaktirati, moja podaci su na [ovoj stranici](/en/contact/).
