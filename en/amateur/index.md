@@ -78,7 +78,7 @@ The demand for a really useful knowledge encompassed a critique of 'all forms of
 
 ##Critical pedagogy
 
-This is the context of the emergence of public library. A historical
+This is the context of the emergence of public library. A historic
 compromise between a push for radical pedagogy and a response to dull its edge. And yet with the age of digitization, where one would think that the opportunities for access to knowledge have expanded immensely, public libraries find themselves increasingly limited in their ability to acquire and lend both digital and paper editions. It is a sign of our radically unequal times that the political emancipation finds itself on a defensive fighting again for this material base of pedagogy against the rising forces of privatization. Not only has the mass education become accessible only under the condition of high fees, student debt and adjunct peonage, but the useful knowledge that the labor market and reproduction of the neoliberal capitalism demands has become one and only rationale for the education.
 
 No wonder that over the last 6-7 years we have seen self-education, shadow libraries and amateur librarians again emerge to counter-act the contraction of spaces of exemption that have been shrunk by austerity and commodity.
