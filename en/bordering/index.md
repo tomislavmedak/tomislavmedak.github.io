@@ -159,7 +159,7 @@ integrate that complexity of social interplay.
 Starting from the analysis of Schiller's appreciation of English dances,
 where all social ranks are equally allowed to participate in the
 choreography and hence equally represent the totality of that movement,
-Hewitt detects a historical turning point in the late 18th century where
+Hewitt detects a historic turning point in the late 18th century where
 dance acquires a socially general character: it stops being either a
 representation of courtly decorum or an emphatic exercise of popular
 ritual, and becomes a vessel for spontaneous ideology of bourgeois

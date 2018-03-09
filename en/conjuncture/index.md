@@ -174,7 +174,7 @@ The immediate evidence that the political space has contracted – not
 only in terms of political imaginary but in terms of the effect
 political space of action – is the fact that winning the elections and
 seizing power matters little for reformist change, let alone for
-antisystemic politics. Historic reasons are obvious: the transformation
+antisystemic politics. Historical reasons are obvious: the transformation
 of global capitalist relations since the 1970s and in particular their
 deepening after the demise of the socialist project since 1989,
 resulting in a highly integrated capitalist world-system, have severed
@@ -263,7 +263,7 @@ middle class constituency in Greece over the last couple of years. Thus,
 fundamental to the political struggle against the general tendency
 toward structural adjustments and austerity programs becomes the
 capacity to seize upon the contradictions between the structural
-position of a class and its place in the present historic conjuncture.
+position of a class and its place in the present historical conjuncture.
 
 To this effect it is important to develop forms of organization of
 social forces that are responsive, that are not committed to what social
@@ -324,7 +324,7 @@ plausibility.
 There’s a deeper reason to this. As Pierre Macherey has noted in *A
 Theory of Literary Production*,[^8] the work of art
 does not simply reflect the intentions of the author. Rather it reflects
-the fact that it is produced under determinate historic and social
+the fact that it is produced under determinate historical and social
 conditions structuring both the position of the author and the position
 of the reader. The author is thus never in full command of the work nor
 do her intentions of this or that kind come off as intended with the

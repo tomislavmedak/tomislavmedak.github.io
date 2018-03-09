@@ -10,7 +10,7 @@ author:
   - name: Tomislav Medak
     affiliation:
 
-lead: 'A proposal for a curriculum in amateur librarianship, developed through the activities and exigencies of the Public Library project. Drawing from a historic genealogy of public library as the institution of access to knowledge, the proletarian tradition of really useful knowledge and the amateur agency driven by technological development, the curriculum covers a range of segments from immediately applicable workflows for scanning, sharing and using e-books, over politics and tactics around custodianship of online libraries, to applied media theory implicit in the practices of amateur librarianship. The proposal was originally written for the [Mondothèque](http://www.mondotheque.be/wiki/index.php/Main_Page), a wiki and a notebook of experiments with the legacy of the universalist and documentalist Paul Otlet, edited by [Constant](http://www.constantvzw.org/site/?lang=fr).'
+lead: 'A proposal for a curriculum in amateur librarianship, developed through the activities and exigencies of the Public Library project. Drawing from a historical genealogy of public library as the institution of access to knowledge, the proletarian tradition of really useful knowledge and the amateur agency driven by technological development, the curriculum covers a range of segments from immediately applicable workflows for scanning, sharing and using e-books, over politics and tactics around custodianship of online libraries, to applied media theory implicit in the practices of amateur librarianship. The proposal was originally written for the [Mondothèque](http://www.mondotheque.be/wiki/index.php/Main_Page), a wiki and a notebook of experiments with the legacy of the universalist and documentalist Paul Otlet, edited by [Constant](http://www.constantvzw.org/site/?lang=fr).'
 
 ---
 
@@ -30,7 +30,7 @@ however, did not develop before a series of transformations and social
 upheavals unfolded during the course of the 18th and 19th century. These
 developments brought about a flood of books and political demands
 pushing the library to become embedded in an egalitarian, free and
-democratizing political horizon. The historic backdrop for these
+democratizing political horizon. The historical backdrop for these
 developments was the rapid ascendancy of the book as a mass commodity
 and the growing importance of the reading culture in the aftermath of
 the invention of the movable type print. Having emerged almost in

@@ -45,7 +45,7 @@ battlefield where their own, and modernity's, ambivalent epistemic and
 social character was constantly re-examined and ripped asunder. It is
 this ambivalent character that has been a potent motor for critical
 theory, artistic and political subversion – from Marx's critique of
-political economy, psychoanalysis and historic avant-gardes, to
+political economy, psychoanalysis and historical avant-gardes, to
 revolutionary politics. Here we will examine the formation of the
 library as an epistemic and social institution of modernity and the
 forms of critical engagement that continue to challenge the totalizing
@@ -234,8 +234,8 @@ culture and the commodification of cultural consumption. This precarious
 position is presently being made evident by the third big flood – after
 those unleashed by movable type printing and the social context of
 industrial book production – that is unfolding with the transition of
-the book into the digital realm. Both the historic mode of the
-institutional regulation of access and the historic form of epistemic
+the book into the digital realm. Both the historical mode of the
+institutional regulation of access and the historical form of epistemic
 classification are swept up in this transformation. While the internet
 has made possible a radically expanded access to digitized culture and
 knowledge, the vested interests of cultural industries reliant on
@@ -354,7 +354,7 @@ classification that the institutions of modernity used to construct a
 linear historical narrative of evolutions and breaks in the 19th and
 20th century. Genealogical tables, events, artifacts and discourses of
 the past were re-enacted, over-affirmed and displaced to open up the
-historic past relegated to the archives to an understanding that
+historical past relegated to the archives to an understanding that
 transformed the present into something radically uncertain. The efforts
 of Monoskop.org in digitizing of the artifacts of the 20th century
 avant-gardes and playing with the epistemic tools of early book culture
@@ -388,7 +388,7 @@ can be made radically open.
 
 [^2]: The metaphor of the information flood, here incanted in the words
     of Peter Gabriel’s song with apocalyptic overtones, as well as a
-    good part of the historic background of the development of index
+    good part of the historical background of the development of index
     card catalog in the following paragraphs are based on Markus
     Krajewski, *Paper Machines: About Cards & Catalogs, 1548-1929* (MIT
     Press, 2011). The organizing idea of Krajewski's historical account,
@@ -412,7 +412,7 @@ can be made radically open.
     for all”.
 
 [^7]: Sven Spieker, *The Big Archive: Art from Bureaucracy* (MIT Press,
-    2008) provides a detailed account of strategies that the historic
+    2008) provides a detailed account of strategies that the historical
     avant-gardes and the post-war art have developed toward the
     classificatory and ordering regime of the archive.
 
