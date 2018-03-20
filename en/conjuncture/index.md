@@ -1,6 +1,7 @@
 <!--
 .. title: The Art, the Political Conjuncture, and the Left
 .. slug: conjuncture
+-->
 
 ---
 lead: This is a text that was originally written for the symposium titled »Perfect Harmony« within the Transitions festival, Athens, November 27–28, 2015, and later re-worked as a response to the [Schlossghost](https://schloss-post.com/art-political-conjuncture-left/) survey on art and politics that the Akademie Schloss Solitude conducted among its fellows.

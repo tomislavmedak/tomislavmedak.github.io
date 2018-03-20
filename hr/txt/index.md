@@ -33,8 +33,6 @@ ožujak 2017. [🔗](http://www.kulturpunkt.hr/content/pa-pa-proleteri-automatiz
 „Pa pa proleteri...: politička kriza i tehnološki razvoj“.
 *Kulturpunkt*, travanj 2017. [🔗](http://www.kulturpunkt.hr/content/pa-pa-proleteri-politicka-kriza-i-tehnoloski-razvoj)
 
-„Pa pa proleteri...: automatizacija i kriza rada“. *Kulturpunkt*, ožujak 2017., [🔗](http://www.kulturpunkt.hr/content/pa-pa-proleteri-automatizacija-i-kriza-rada).
-
 Intervju: "Tehnooptimizam na staklenim nogama", *Slobodni filozofski*. 21. prosinac 2016. [🔗](http://slobodnifilozofski.com/2016/12/tehnooptimizam-staklenim-nogama.html)
 
 „Neutralnost interneta: što se to mene tiče?“ *Bilten*, 23. studeni
