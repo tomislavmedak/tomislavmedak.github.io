@@ -47,19 +47,19 @@ Od 2001. godine surađujem s izvedbenim kolektivom [BADco.](http://badco.hr/). N
 
 **[Whatever Dance Toolbox](http://badco.hr/hr/work/1/all#!whatever-dance-toolbox)**, softer za razvoj koreografije, programer: Daniel Turing, 2008.
 
-![](/images/whatever.jpg){width=50%}
+![.](/images/whatever.jpg){width=50%}
 
 **[1 poor and one 0](http://badco.hr/hr/work/1/all#!1-poor-and-one-0)**, 2008.
 
-![](/images/1_poor.jpg){width=50%}
+![.](/images/1_poor.jpg){width=50%}
 
 **[Deleted Messages](http://badco.hr/hr/work/1/all#!deleted-messages)**, 2004.
 
-![](/images/deleted.jpg){width=50%}
+![.](/images/deleted.jpg){width=50%}
 
 **[Ribcage](http://badco.hr/hr/work/1/all#!ribcage)**, 2003.
 
-![](/images/rebro.png){width=50%}
+![.](/images/rebro.png){width=50%}
 
 **[Diderot’s Nephew, or Blood is Thicker than Water](http://badco.hr/hr/work/1/all#!diderots-nephew)**, 2001.
 
