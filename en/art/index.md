@@ -45,19 +45,19 @@ Since 2001 I've been working with the Zagreb-based performative collective [BADc
 
 **[Whatever Dance Toolbox](http://badco.hr/en/work/1/all#!whatever-dance-toolbox)**, software for devising choreography, development: Daniel Turing, 2008
 
-![](/images/whatever.jpg){width=50%}
+![.](/images/whatever.jpg){width=50%}
 
 **[1 poor and one 0](http://badco.hr/en/work/1/all#!1-poor-and-one-0)**, 2008
 
-![](/images/1_poor.jpg){width=50%}
+![.](/images/1_poor.jpg){width=50%}
 
 **[Deleted Messages](http://badco.hr/en/work/1/all#!deleted-messages)**, 2004
 
-![](/images/deleted_messages.jpg){width=50%}
+![.](/images/deleted_messages.jpg){width=50%}
 
 **[Ribcage](http://badco.hr/en/work/1/all#!ribcage)**, 2003
 
-![](/images/ribcage.png){width=50%}
+![.](/images/ribcage.png){width=50%}
 
 **[Diderot’s Nephew, or Blood is Thicker than Water](http://badco.hr/en/work/1/all#!diderots-nephew)**, 2001
 
