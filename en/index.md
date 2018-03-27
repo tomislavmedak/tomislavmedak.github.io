@@ -1,5 +1,6 @@
 <!--
 .. title: >
+.. description: personal website of Tomislav Medak
 -->
 
 Welcome to my website. I'm a PhD researcher at the Coventry Unversity's [Centre for Postdigital Cultures](http://www.coventry.ac.uk/research/areas-of-research/postdigital-cultures/), part of the theory and publishing team of [Multimedia Institute/MAMA](http://www.mi2.hr/en/), amateur librarian for the [Memory of the World/Public library](https://memoryoftheworld.org/) project and member of the performative collective [BADco](http://badco.hr/). My work is primarily driven by the activities of those collective endeavors.
