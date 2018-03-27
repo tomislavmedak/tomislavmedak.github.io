@@ -1,5 +1,6 @@
 <!--
 .. title: >
+.. description: Tomislav Medak, web stranice
 -->
 
 Dobrodošli na moje web stranice. Ja sam doktorant pri [Centru za postdigitalne kulture](http://www.coventry.ac.uk/research/areas-of-research/postdigital-cultures/) na Sveučilišta u Coventryju, član teorijskog i izdavačkog tima
