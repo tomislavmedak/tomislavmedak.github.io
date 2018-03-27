@@ -1,6 +1,7 @@
 <!--
 .. title: Biografija
 .. slug: bio
+.. description: Tomislav Medak, biografija
 -->
 
 Tomislav Medak je doktorand pri [Centru za postdigitalne kulture](http://www.coventry.ac.uk/research/areas-of-research/postdigital-cultures/) Sveučilišta u Coventryju. Član je teorijskog i izdavačkog tima

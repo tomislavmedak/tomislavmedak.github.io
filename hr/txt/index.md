@@ -1,6 +1,7 @@
 <!--
 .. title: Bibliografija
 .. slug: txt
+.. description: Tomislav Medak, bibliografija, tekstovi
 -->
 
 ## Knjige:
