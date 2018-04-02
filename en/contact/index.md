@@ -1,15 +1,17 @@
 <!--
 .. title: .
 .. slug: contact
+.. description: contact, email, address
 -->
 
-E:
+Email:
    tomislavmedak[at]gmail.com <br>
    medakt[at]uni.coventry.ac.uk <br>
    tom[at]mi2.hr <br>
    tom[at]badco.hr <br> <br>
 
-A: Centre for Postdigital Cultures <br>
+Address:
+   Centre for Postdigital Cultures <br>
    Coventry University <br>
    Priory Street <br>
    Coventry, United Kingdom <br>
