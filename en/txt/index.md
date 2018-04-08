@@ -1,7 +1,9 @@
 <!--
 .. title: Bibliography
 .. slug: txt
-.. description: Tomislav Medak, bibliography, texts
+.. author: Tomislav Medak
+.. date: 2018-02-05 19:52:05 UTC
+.. description: A page with the texts of Tomislav Medak on technology, post-capitalist transition, environmental crisis, art and disability.
 -->
 
 ## Books:

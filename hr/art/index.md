@@ -1,6 +1,9 @@
 <!--
 .. title: Umjetnički radovi
 .. slug: art
+.. author: Tomislav Medak
+.. date: 2018-02-05 19:52:05 UTC
+.. description: Umjetnički radovi Tomislava Medak u suradnji s izvedbenim kolektivom BADco.
 -->
 
 Od 2001. godine surađujem s izvedbenim kolektivom [BADco.](http://badco.hr/). Naš rad spaja plesnu umjetnost, koreografiju kao proširenu praksu i eksperimentalnu dramaturgiju. Karakteristika naših radova je stalna destabilizacija teatarskog čina kao čina izvedbe, čina gledanja i čina komunikacije. Oni su orijentirani prema [kreiranju problema](https://skogen.pm/archive/2013/evolution-wont-be-televised/text/give-me-a-problem/), a ne jednoznačnom razumijevanju, uživljavanju i identifikaciji. Tijekom godina producirali smo preko 20 predstava, niz instalacija, filmova i vide, istraživačkih projekata i digitalnih alatki. Ovo je izbor radova u čijem sam nastajanju sudjelovao:

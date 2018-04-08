@@ -1,7 +1,9 @@
 <!--
 .. title: Biography
 .. slug: bio
-.. description: Tomislav Medak, bio, biography, CV
+.. author: Tomislav Medak
+.. date: 2018-02-05 19:52:05 UTC
+.. description: Short bio, CV i photograph of Tomislav Medak.
 -->
 
 Tomislav Medak is a doctoral student at the [Centre for Postdigital

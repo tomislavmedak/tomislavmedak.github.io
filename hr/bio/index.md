@@ -1,7 +1,9 @@
 <!--
 .. title: Biografija
 .. slug: bio
-.. description: Tomislav Medak, biografija
+.. author: Tomislav Medak
+.. date: 2018-02-05 19:52:05 UTC
+.. description: Kratka biografija, curriculum vitae (CV) i fotografija Tomislava Medaka.
 -->
 
 Tomislav Medak je doktorand pri [Centru za postdigitalne kulture](http://www.coventry.ac.uk/research/areas-of-research/postdigital-cultures/) Sveučilišta u Coventryju. Član je teorijskog i izdavačkog tima

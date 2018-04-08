@@ -1,7 +1,9 @@
 <!--
 .. title: Bibliografija
 .. slug: txt
-.. description: Tomislav Medak, bibliografija, tekstovi
+.. author: Tomislav Medak
+.. date: 2018-02-05 19:52:05 UTC
+.. description: Stranica s tekstovima Tomislava Medaka o tehnologijama, postkapitalističkoj tranziciji, ekološkoj krizi, umjetnosti i invaliditetu.
 -->
 
 ## Knjige:
@@ -60,7 +62,7 @@ kazalište, 2017, str. 30–33. [🔗 PDF na stranicama BADco.](http://badco.hr/
 2017, str. 9–19.
 
 „Work Every Day - Izvod o plesu i radu“. *O plesu i iz(a) plesa*, uredio
-Andrej Mirčev, Sodaberg koreografski laboratorij, 2016, str. 183–91.
+Andrej Mirčev, Sodaberg koreografski laboratorij, 2016, str. 183–91. [🔗 PDF na Monoskopu](https://monoskop.org/images/9/99/Mircev_Andrej_Krajac_Marjana_Toth_Valentina_eds_O_plesu_i_iza_plesa_2016.pdf)
 
 „Politički teatar i društveni totalitet“. *Pobunjena estetika? - Četiri
 reakcije iz Hrvatske na izlaganje „Estetika pobune? Novi društveni
