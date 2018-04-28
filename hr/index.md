@@ -2,7 +2,7 @@
 .. title: Dobrodošli na moje web stranice.
 .. author: Tomislav Medak
 .. date: 2018-02-05 19:52:05 UTC
-.. description: Ovo su mrežne stranice Tomislava Medaka. Ovdje ćete naći njegove tekstove, umjetničke radove, biografiju i kontakt.
+.. description: Tomislav Medak, osobne mrežne stranice s tekstovima, umjetničkim radovima, biografijom i kontaktom.
 -->
 
  Ja sam doktorant pri [Centru za postdigitalne kulture](http://www.coventry.ac.uk/research/areas-of-research/postdigital-cultures/) na Sveučilišta u Coventryju, član teorijskog i izdavačkog tima
