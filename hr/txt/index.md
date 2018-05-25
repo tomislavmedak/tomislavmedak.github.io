@@ -3,7 +3,7 @@
 .. slug: txt
 .. author: Tomislav Medak
 .. date: 2018-02-05 19:52:05 UTC
-.. description: Stranica s tekstovima Tomislava Medaka o tehnologijama, postkapitalističkoj tranziciji, ekološkoj krizi, umjetnosti i invaliditetu.
+.. description: Tekstovi, članci, knjige i poglavlja Tomislava Medaka o tehnologijama, postkapitalističkoj tranziciji, ekološkoj krizi, umjetnosti i invaliditetu.
 -->
 
 ## Knjige:
