@@ -15,7 +15,13 @@ Abstraction*. Organon 1, [V\_\_\_\_\_erlag für Handbücher](http://www.verlagf�
 
 ## Edited Volumes:
 
-Co-edited with Goran Sergej Pristaš. *Time and Incompletion: Images and
+Co-edited with Marcell Mars: *Guerrilla Open Access*. Post Office Press & Memory of the World, 2018. [🔗 PDF and source files at Humanities Commons](https://hcommons.org/deposits/item/hc:19825/)
+
+Co-edited with Marcell Mars: *Public Library*.
+What, How and for Whom/WHW & Multimedia Institute, 2015.
+[🔗 PDF at Memory of the World](http://library.memoryoftheworld.org/b/VG3cDMIz71e2XFDqYEBSat1erDCbmCz9cv2xuitazr_oJsRX)
+
+Co-edited with Goran Sergej Pristaš: *Time and Incompletion: Images and
 Performances of Time in Late Capitalism*. BADco., 2014. [🔗 PDF at BADco.](http://badco.hr/hr/news-item/download-time-and-incompletion)
 
 Co-edited with Petar Milat: *Idea of Radical Media*. Multimedia
