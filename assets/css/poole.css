@@ -48,7 +48,7 @@ body {
 }
 
 html {
-  font-family: 'K2D', sans-serif;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.5;
 }
@@ -88,18 +88,18 @@ h1, h2, h3, h4, h5, h6 {
   text-rendering: optimizeLegibility;
 }
 h1 {
-  font-size: 2rem;
+  font-size: 1.1rem;
 }
 h2 {
   margin-top: 1rem;
-  font-size: 1.5rem;
+  font-size: 1.1rem;
 }
 h3 {
-  margin-top: 1.5rem;
-  font-size: 1.25rem;
+  margin-top: 1.1rem;
+  font-size: 1.12rem;
 }
 h4, h5, h6 {
-  margin-top: 1rem;
+  margin-top: 1.2rem;
   font-size: 1rem;
 }
 
@@ -258,10 +258,10 @@ tbody tr:nth-child(odd) th {
  * Extend paragraphs with `.lead` for larger introductory text.
  */
 
-.lead {
+/*.lead {
   font-size: 1.25rem;
   font-weight: 300;
-}
+}*/
 
 
 /*

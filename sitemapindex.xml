@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
   <loc>http://tom.medak.click/galleries/rss.xml</loc>
-  <lastmod>2018-09-30T13:16:00Z</lastmod>
+  <lastmod>2018-09-30T13:37:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://tom.medak.click/rss.xml</loc>
@@ -15,6 +15,6 @@
  </sitemap>
  <sitemap>
   <loc>http://tom.medak.click/sitemap.xml</loc>
-  <lastmod>2018-09-30T13:16:00Z</lastmod>
+  <lastmod>2018-09-30T13:37:00Z</lastmod>
  </sitemap>
 </sitemapindex>
