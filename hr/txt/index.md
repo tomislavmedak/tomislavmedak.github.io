@@ -23,7 +23,7 @@ Zajedno s Marcellom Marsom: *System.hack()*. Multimedijalni institut,
 
 ## Ogledi, članci i predavanja:
 
-### Tehnologija, ekologija, kapitalizam
+***Tehnologija, ekologija, kapitalizam***
 
 Zajedno s Mladenom Domazetom: ["Povijest koja nam diše za vratom", pogovor hrvatskom prijevodu knjige Andreasa Malma *Fosilni kapital*, Fraktura, Zagreb, 2018.](http://ipe.hr/aktivnosti/povijest-koja-nam-dise-za-vratom/()
 
@@ -45,7 +45,7 @@ Intervju: "Tehnooptimizam na staklenim nogama", *Slobodni filozofski*. 21. prosi
 
 "Novi mediji, stari kapitalizam", *Bilten*. 18. travanj 2014. [🔗](http://www.bilten.org/?p=514)
 
-### Knjižnice iz sjene, dostupnost znanja, haktivizam
+***Knjižnice iz sjene, dostupnost znanja, haktivizam***
 
 [„Budućnosti iz knjižnice: Radikalne geste UbuWeba i Monoskopa“](/hr/ubu_monoskop/). *Javna
 knjižnica*, Što, kako i za koga/WHW & Multimedijalni institut, 2015,
@@ -54,7 +54,7 @@ str. 51–66. [🔗 PDF na Memory of the World](http://library.memoryoftheworld.
 „System.hack(1,“elektronski mediji”,“Orson Welles - Rat svjetova”)“.
 *System.hack()*, Multimedijalni institut, 2006, str. 3–8. [🔗 PDF na Monoskopu](https://monoskop.org/images/f/fd/System.hack_catalogue.pdf/)
 
-### Umjetnost, kultura, kulturni aktivizam
+***Umjetnost, kultura, kulturni aktivizam***
 
 [„Narušeni ritam i analitička opsesija“](/hr/ritam/). *BADco.: Ispravci ritma
 (programska knjiga predstave)*, uredila Ivana Ivković, Hrvatsko narodno
@@ -74,7 +74,7 @@ Mirand Jakiša, Drugo more, 2013, str. 44–50.
 „Otvorene institucije i reforma kulturnog sistema“. *Frakcija -
 Performing Arts Journal*, izd. 60–61, prosinac 2011., str. 50–54.
 
-### Društvo, društveni pokreti, politika
+***Društvo, društveni pokreti, politika***
 
 [„Civilno društvo i politički rad na ljevici“](/hr/ljevica/). *3k: kapital, klasa,
 kritika*, sv. 1, izd. 1, 2014., str. 133–38.

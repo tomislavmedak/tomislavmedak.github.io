@@ -37,7 +37,7 @@ Multimedia Institute, 2006.
 
 ##  Book chapters, articles & talks:
 
-###  Technology, ecology, capitalism
+***Technology, ecology, capitalism***
 
 [‘Technologies for an Ecological Transition: A Faustian Bargain?’](/en/ecotech/).
 *Materialism and the Critique of Energy*, edited by Brent Ryan Bellamy
@@ -45,7 +45,7 @@ et al., M-C-M’ Press, 2018., [🔗 PDF at M-C-M’ Press](http://www.mcmprime.
 Institute for Political Ecology, 2017. [🔗 PDF at IPE](http://ipe.hr/wp-content/uploads/2017/11/Technologies-for-an-Ecological-Transition-A-Faustian-Bargain-1.pdf)
 
 
-### Shadow libraries, access to knowledge, hacktivism
+***Shadow libraries, access to knowledge, hacktivism***
 
 Interview with Petar Jandrić and Ana Kuzmanić. ‘Knowledge Commons and
 Activist Pedagogies: From Idealist Positions to Collective Actions -
@@ -81,8 +81,7 @@ Festival / Steirischer Herbst, 2007, pp. 87–89.
 *System.Hack() - Table of Contents*, Multimedia Institute, 2006, str.
 49–54.
 
-
-### Theatre, art, cultural activism
+***Theatre, art, cultural activism***
 
 ‘In Praise of Bureaucracy’. *L.P,* Marko Ercegović / Office for
 Photography, 2017, pp. 55–58.
@@ -106,6 +105,6 @@ Contemporary Art, 2006, pp. 135–40.
 ‘Energy and Emergence: On Some Problems of Contemporary Artistic
 Strategies’. *Frakcija - Performing Arts Journal*, no. 19, 2001, p. 16.
 
-### Social movements and politics
+***Social movements and politics***
 
 [‘Civil Society and Political Work on the Left‘](/en/the_left/). A talk delivered at the conference Predicaments of the Left in Zagreb, 2013.
