@@ -44,7 +44,7 @@ Multimedia Institute, 2006.
 [‘Technologies for an Ecological Transition: A Faustian Bargain?’](/en/ecotech/).
 *Materialism and the Critique of Energy*, edited by Brent Ryan Bellamy
 et al., M-C-M’ Press, 2018., [🔗 PDF at M-C-M’ Press](http://www.mcmprime.com/books/marxism-and-energy) previously published as a working paper,
-Institute for Political Ecology, 2017. [🔗 PDF at IPE](http://ipe.hr/wp-content/uploads/2017/11/Technologies-for-an-Ecological-Transition-A-Faustian-Bargain-1.pdf)
+Institute for Political Ecology, 2017. [🔗 PDF at IPE](http://ipe.hr/wp-content/uploads/2017/11/Technologies-for-an-Ecological-Transition-A-Faustian-Bargain-1.pdf).
 
 
 ***Shadow libraries, access to knowledge, hacktivism***
