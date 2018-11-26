@@ -39,6 +39,8 @@ Multimedia Institute, 2006.
 
 ***Technology, ecology, capitalism***
 
+[‘Aesthetisation of Technopolitics: Accelerated Instrumental Rationality and the Three Figures of the Far-Right‘](/en/aestetisation/), notes of the presentation at the 15th Historical Materialism conference in London, 8-11 November, 2018.
+
 [‘Technologies for an Ecological Transition: A Faustian Bargain?’](/en/ecotech/).
 *Materialism and the Critique of Energy*, edited by Brent Ryan Bellamy
 et al., M-C-M’ Press, 2018., [🔗 PDF at M-C-M’ Press](http://www.mcmprime.com/books/marxism-and-energy) previously published as a working paper,
