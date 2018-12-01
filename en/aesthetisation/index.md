@@ -1,6 +1,7 @@
 <!--
 .. title: Aesthetisation of Technopolitics: Accelerated Instrumental Rationality and the Three Responses of the Far-Right
 .. slug: aesthetisation
+.. previewimage: /images/make_globalisation_work_again_preview.png
 -->
 
 ---
