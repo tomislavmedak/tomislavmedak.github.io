@@ -7,7 +7,7 @@
 ![Screenshot taken from the website of ATKearney, a leading global management consulting firm](/images/make_globalisation_work_again.png)
 
 ---
-lead: This is a revised version of the presentation delivered at the 15th Historical Materialism conference, 10 November 2018, SOAS, London. The presentation is a thoroughly revised version of a text I contributed to the Festschrift of my professor of aesthetics and diploma work supervisor Nadežda Čačinovič, delivered at the School of Arts and Humanities in Zagreb in 2017.
+lead: This is a revised version of the presentation delivered at the 15th Historical Materialism conference, 10 November 2018, SOAS, London. The presentation is a thoroughly revised version of a text I contributed to the Festschrift of my professor of aesthetics and former supervisor Nadežda Čačinovič, delivered at the School of Arts and Humanities in Zagreb in 2017.
 ---
 
 ## Internet as a Means of Communication, Internet as a Means of Capitalist Transformation
