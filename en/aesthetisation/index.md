@@ -4,7 +4,7 @@
 -->
 
 ---
-lead: This is a revised version of the presentation delivered at the 15th Historical Materialism conference, 10 November 2018, SOAS, London. The presentation is a thoroughly revised version of a text I contributed to the Festschrift of my aesthetics professor and former supervisor Nadežda Čačinovič, forthcoming from Zagreb in 2019. I wish to thank Marcell Mars and Anthony Iles for the conversations that helped me formulate some of the ideas here.
+lead: This is a revised version of the presentation delivered at the 15th Historical Materialism conference, 10 November 2018, SOAS, London. The presentation is a thoroughly revised version of a text I contributed to the Festschrift of my aesthetics professor and former supervisor Nadežda Čačinovič, forthcoming from Zagreb Faculty of Arts and Humanities Pess in 2019. I wish to thank Marcell Mars and Anthony Iles for the conversations that helped me formulate some of the ideas here.
 ---
 
 
