@@ -1,13 +1,15 @@
 <!--
-.. title: Aesthetisation of Technopolitics: Accelerated Instrumental Rationality and the Three Figures of the Far-Right
+.. title: Aesthetisation of Technopolitics: Accelerated Instrumental Rationality and the Three Responses of the Far-Right
 .. slug: aesthetisation
 -->
 
 ---
-lead: This is a revised version of the presentation delivered at the 15th Historical Materialism conference, 10 November 2018, SOAS, London. The presentation is a thorough revision of a text I contributed to the Festschrift of my professor of aesthetics and diploma work supervisor Nadežda Čačinovič, delivered at the School of Arts and Humanities in Zagreb in 2017.
+lead: This is a revised version of the presentation delivered at the 15th Historical Materialism conference, 10 November 2018, SOAS, London. The presentation is a thoroughly revised version of a text I contributed to the Festschrift of my professor of aesthetics and diploma work supervisor Nadežda Čačinovič, delivered at the School of Arts and Humanities in Zagreb in 2017.
 ---
 
-## Internet as a Means of Communication, Internet as a Means of Socio-Economic Transformation
+![Screenshot taken from the website of ATKearney, a leading global management consulting firm](/images/make_globalisation_work_again.png){width=50%}
+
+## Internet as a Means of Communication, Internet as a Means of Capitalist Transformation
 
 In the Epilogue of *The Work of Art in the Age of its Mechanical Reproduction*, Benjamin famously writes: 'Fascism attempts to organize the newly created proletarian masses without affecting the property structure which the masses strive to eliminate. Fascism sees its salvation in giving these masses not their right, but instead a chance to express themselves.'[^0] Writing in the 1930s, Benjamin was analyzing how the emerging mass medium of cinema - the first mass medium to represent proletarian masses - was being co-opted for the purposes of fascist propaganda. To the extent that cinema represented masses through the mass rituals celebrating the Führer cult and the carnage of war, it helped fascism aestheticize the 'political life' and imposed on the masses 'cult values' and it effectively contributed to preventing the proletarian masses from becoming the force of their own emancipation.
 
@@ -41,7 +43,7 @@ Now, bringing these broad-sweep analyses of the interlocking development of the 
 
 This acceleration of instrumental rationality and challenges it brings to the socialisation of its effects requires a proper theorisation, one that for reasons of length I can't go into here, but can be found, for instance, in the work of Hartmut Rosa.[^18] The gist is that it presents a challenge not only for the liberal democratic order, but for the fundamental structure of socialising capitalist markets and technological change into nation-states. It thus forms a background against which it becomes possible to think the specificity of the contemporary far-right - in so far as the far-right has traditionally defended the order, yet it is now defending an order it itself has to think in other terms than the status quo. The dis-embedding of instrumental rationality has elicited three modes of response on the far-right that I find interesting and that I'll discuss in the remainder of this text: exodus, sovereignist control and passage to the act, all of which are both imaginaries and forms of actions emerging in response to the process I have described.
 
-## Spontaneous Ideology of Technocapital: Exodus
+## Spontaneous Ideology of the Technocapital: Exodus
 
 The disintegration of the liberal consensus is epitomised in the tweeting presidency of Donald Trump. Although Trump has played on the insecurities unleashed by the globalisation, his victory was primarily based on having successfully re-articulated these insecurities as a threat to the existing economic, gender and race privileges, which - to no one's surprise - has particularly resonated with the middle-class exurban conservative constituencies.[^19] However, this re-articulation also conjured up the racialised and gendered trope of the left-behind white industrial worker, thus attempting to re-align the interests of certain segments of the American working class with the overt protectionism for certain factions of American capital - that can only be secured under the decisive leadership he himself could offer.
 
