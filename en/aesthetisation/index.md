@@ -1,15 +1,15 @@
 <!--
 .. title: Aesthetisation of Technopolitics: Accelerated Instrumental Rationality and the Three Responses of the Far-Right
 .. slug: aesthetisation
-.. previewimage: /images/make_globalisation_work_again_preview.png
+.. previewimage: /images/make_globalisation_great_again.png
 -->
 
 ---
-lead: This is a revised version of the presentation delivered at the 15th Historical Materialism conference, 10 November 2018, SOAS, London. The presentation is a thoroughly revised version of a text I contributed to the Festschrift of my aesthetics professor and former supervisor Nadežda Čačinovič, forthcoming from Zagreb Faculty of Arts and Humanities Pess in 2019. I wish to thank Marcell Mars and Anthony Iles for the conversations that helped me formulate some of the ideas here.
+lead: This is a revised version of the presentation delivered at the 15th Historical Materialism conference, 10 November 2018, SOAS, London. The presentation is a thoroughly revised version of a text I contributed to the Festschrift of my aesthetics professor and former supervisor Nadežda Čačinovič, forthcoming from the Zagreb Faculty of Arts and Humanities Pess in 2019. Big thank you goes to Marcell Mars and Anthony Iles for the conversations that helped me formulate some of the ideas here.
 ---
 
 
-![Screenshot taken from the website of ATKearney, a leading global management consulting firm](/images/make_globalisation_work_again.png){width=70%}
+![Screenshot taken from the website of ATKearney, a leading global management consulting firm](/images/make_globalisation_great_again.png)
 
 
 ## Internet as a Means of Communication, Internet as a Means of Capitalist Transformation
