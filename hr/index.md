@@ -5,9 +5,17 @@
 .. description: Tomislav Medak, osobne mrežne stranice s tekstovima, umjetničkim radovima, biografijom i kontaktom.
 -->
 
-Odnedavno sam doktorand pri [Centru za postdigitalne kulture](http://www.coventry.ac.uk/research/areas-of-research/postdigital-cultures/) na Sveučilišta u Coventryju, član sam teorijskog i izdavačkog tima
-[Multimedijalnog instituta](http://www.mi2.hr/), knjižničar-amater projekta [Memory of the World/Javna knjižnica](https://memoryoftheworld.org/) i dio izvedbenog kolektiva [BADco](http://badco.hr/). Moje djelovanje je primarno vođeno radom tih organizacija.
+Odnedavno sam doktorand pri [Centru za postdigitalne kulture](http://www.coventry.ac.uk/research/areas-of-research/postdigital-cultures/) na Sveučilištu u Coventryju. Član sam teorijskog i izdavačkog tima
+[Multimedijalnog instituta](http://www.mi2.hr/), knjižničar-amater projekta [Memory of the World/Javna knjižnica](https://memoryoftheworld.org/) i dio izvedbene skupine [BADco](http://badco.hr/). Moje djelovanje je primarno vođeno radom tih kolektiva.
 
-U istraživačkom radu bavim se pitanjima tehnologija, kapitalizma i postkapitalističke tranzicije, s posebnim fokusom na ekonomiji intelektualnog vlasništva i nejednakoj razvijenosti znanosti i tehnologija. Povremeno pišem i izlažem o kazalištu, plesu i politici. Na ovim stranicama naći ćete moje tekstove, informacije o umjetničkom radu s BADco. i profesionalnu biografiju.
+U istraživačkom radu bavim se pitanjima tehnologija, kapitalističkog razvoja i postkapitalističke tranzicije, s posebnim fokusom na pitanjima intelektualnog vlasništva, znansosti i klimatskih promjena. Povremeno pišem i držim izlaganja o kazalištu, plesu i politici. Na ovim stranicama naći ćete moje tekstove, informacije o umjetničkom radu s BADco. i profesionalnu biografiju.
 
 Ako me želite kontaktirati, moji podaci su na [ovoj stranici](/en/contact/).
+
+<br>
+
+***Recentni radovi:***
+
+'Na ulicama Francuske povijest anticipira budućnost', [*Novi plamen*, 20.12.2018.](http://www.noviplamen.net/glavna/na-ulicama-francuske-povijest-anticipira-buducnost/)
+
+[‘Aesthetisation of Technopolitics: Accelerated Instrumental Rationality and the Three Figures of the Far-Right‘](/en/aestetisation/), notes of the presentation at the 15th Historical Materialism conference in London, 8-11 November, 2018.
