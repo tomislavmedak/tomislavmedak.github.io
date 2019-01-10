@@ -15,6 +15,6 @@ If you want to get in touch, my details can be found on the [contact page](/en/c
 
 ***Recent work:***
 
-[‘Aesthetisation of Technopolitics: Accelerated Instrumental Rationality and the Three Figures of the Far-Right‘](/en/aestetisation/), notes of the presentation at the 15th Historical Materialism conference in London, 8-11 November, 2018.
+[‘Aesthetisation of Technopolitics: Accelerated Instrumental Rationality and the Three Figures of the Far-Right‘](http://tom.medak.click/en/aesthetisation/), notes of the presentation at the 15th Historical Materialism conference in London, 8-11 November, 2018.
 
 'Na ulicama Francuske povijest anticipira budućnost', [*Novi plamen*, 20.12.2018.](http://www.noviplamen.net/glavna/na-ulicama-francuske-povijest-anticipira-buducnost/).
