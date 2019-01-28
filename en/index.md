@@ -19,4 +19,4 @@ If you want to get in touch, my details can be found on the [contact page](/en/c
 
 [‘Aesthetisation of Technopolitics: Accelerated Instrumental Rationality and the Three Figures of the Far-Right‘](http://tom.medak.click/en/aesthetisation/), notes of the presentation at the 15th Historical Materialism conference in London, 8-11 November, 2018.
 
-[‘Disrupting automation: Capitalism, Technological Change and the Post-work Society‘](http://tom.medak.click/en/automation/), talk at the annual conference of the Institute of Labor Studies in Ljublja, 6 November, 2017.
+[‘Disrupting Automation: Capitalism, Technology and the Post-work Society‘](http://tom.medak.click/en/automation/), talk at the annual conference of the Institute of Labor Studies in Ljublja, 6 November, 2017.

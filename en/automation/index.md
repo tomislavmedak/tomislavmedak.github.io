@@ -1,5 +1,5 @@
 <!--
-.. title: Disrupting automation: Capitalism, Technological Change and the Post-work Society
+.. title: Disrupting Automation: Capitalism, Technology and the Post-work Society
 .. slug: automation
 .. previewimage: /images/rationalisation_neurath.jpg
 -->
