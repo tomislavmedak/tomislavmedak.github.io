@@ -18,6 +18,4 @@ Ako me želite kontaktirati, moji podaci su na [ovoj stranici](/en/contact/).
 
 'Na ulicama Francuske povijest anticipira budućnost', [*Novi plamen*, 20.12.2018.](http://www.noviplamen.net/glavna/na-ulicama-francuske-povijest-anticipira-buducnost/)
 
-[‘Aesthetisation of Technopolitics: Accelerated Instrumental Rationality and the Three Figures of the Far-Right‘](http://tom.medak.click/en/aesthetisation/), notes of the presentation at the 15th Historical Materialism conference in London, 8-11 November, 2018.
-
 [‘Disrupting Automation: Capitalism, Technology and the Post-work Society‘](http://tom.medak.click/en/automation/), talk at the annual conference of the Institute of Labor Studies in Ljublja, 6 November, 2017.

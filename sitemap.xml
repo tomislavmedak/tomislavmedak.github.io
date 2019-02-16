@@ -7,7 +7,11 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>http://tom.medak.click/</loc>
-  <lastmod>2018-11-29T23:28:00Z</lastmod>
+  <lastmod>2019-02-16T06:06:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://tom.medak.click/accelerated/</loc>
+  <lastmod>2019-02-16T06:06:00Z</lastmod>
  </url>
  <url>
   <loc>http://tom.medak.click/archive.html</loc>
