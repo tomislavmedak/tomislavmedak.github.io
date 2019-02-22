@@ -7,6 +7,16 @@
 lead: Tekst o usponu platformskog kapitalizma i *gig* ekonomiji izvorno je objavljen 24. ožujka 2017. na regionalnom portalu [Bilten](http://www.bilten.org/?p=17570).
 ---
 
+<script type="application/json" class="js-hypothesis-config">
+
+{"showHighlights": false}
+
+</script>
+
+<script src="https://hypothes.is/embed.js" async></script>
+
+
+
 Sve učestalijim iskustvima rada preko internetskih burzi kao što su
 Amazonov [Mechanical Turk](https://www.mturk.com/mturk/welcome),
 [Upwork](https://www.upwork.com/) ili

@@ -14,6 +14,14 @@ lead: 'A proposal for a curriculum in amateur librarianship, developed through t
 
 ---
 
+<script type="application/json" class="js-hypothesis-config">
+
+{"showHighlights": false}
+
+</script>
+
+<script src="https://hypothes.is/embed.js" async></script>
+
 ##Public library, a political genealogy
 
 Public libraries were historically won as an institutional space of

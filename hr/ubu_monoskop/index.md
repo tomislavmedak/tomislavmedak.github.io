@@ -3,13 +3,21 @@
 .. slug: ubu_monoskop
 -->
 
+<script type="application/json" class="js-hypothesis-config">
+
+{"showHighlights": false}
+
+</script>
+
+<script src="https://hypothes.is/embed.js" async></script>
+
+
+
 Institucija javne knjižnice kristalizirala se, razvijala i napredovala
 kroz velike historijske prijelomnice uzrokovane epohalnim ekonomskim,
 tehnološkim i političkim promjenama. Niz kriza doveo je do formiranja
 specifičnog institucionalnog sklopa[^1] javne knjižnice kakvog ga danas
-poznajemo: zbirka smještena u javnoj zgradi, javno dostupna, indeksirana
-i pretraživa pomoću javnoga kataloga, održavana radom obučenih
-knjižničara i financirana iz javnih sredstava. Knjižnice danas
+poznajemo: zbirka smještena u javnoj zgradi, javno dostupna, indeksirana i pretraživa pomoću javnoga kataloga, održavana radom obučenih knjižničara i financirana iz javnih sredstava. Knjižnice danas
 utjelovljuju ideju dostupnosti svega znanja svima, njeguju kulturu
 čitanju, arhiviraju materijalna i efemerna kulturna dobra, posreduju
 informacije i znanje u širem smislu. One su, međutim, prigrlile i širi

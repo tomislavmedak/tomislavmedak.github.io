@@ -7,6 +7,13 @@
 lead: This is a text that was originally written for the symposium titled »Perfect Harmony« within the Transitions festival, Athens, November 27–28, 2015, and later re-worked as a response to the [Schlossghost](https://schloss-post.com/art-political-conjuncture-left/) survey on art and politics that the Akademie Schloss Solitude conducted among its fellows.
 ---
 
+<script type="application/json" class="js-hypothesis-config">
+
+{"showHighlights": false}
+
+</script>
+
+<script src="https://hypothes.is/embed.js" async></script>
 
 ## 1. Do I consider my work political?
 

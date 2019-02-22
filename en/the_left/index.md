@@ -7,17 +7,23 @@
 lead: A talk delivered at the conference *Predicaments of the Left - Conjunctures, Strategies, Perspectives* organized by the [Centre for Labour Studies](http://radnickistudiji.org), 17-19 October 2013, Goethe-Institut, Zagreb.
 ---
 
-Let me begin by looking at the history of the predicament on the left in
-Croatia and voicing an opinion that some in this round probably won't
-agree with. And I'm happy to discuss, as my arguments here are
+<script type="application/json" class="js-hypothesis-config">
+
+{"showHighlights": false}
+
+</script>
+
+<script src="https://hypothes.is/embed.js" async></script>
+
+
+Let me begin by looking at the history of the predicament on the left in Croatia and voicing an opinion that some in this round probably won't agree with. And I'm happy to discuss, as my arguments here are
 admittedly more of an experiential character and crudely pragmatical
 rather than well researched or scholarly. I'm neither expert in matters
 of organizational form of the left, nor in matters of understanding the
 civil society, nor in matters recent history. I was asked by the
 organizers, whom I thank for their invitation and friendly
 encouragement, to present on this topic as a continuation of some
-previous informal discussions. Therefore, please take the arguments that
-follow as potentially mistaken and hopefully polemical.
+previous informal discussions. Therefore, please take the arguments that follow as potentially mistaken and hopefully polemical.
 
 ## Understanding the predicament of the left, in retrospect
 

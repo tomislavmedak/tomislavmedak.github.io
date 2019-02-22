@@ -4,20 +4,17 @@
 -->
 
 
+<script type="application/json" class="js-hypothesis-config">
+
+{"showHighlights": false}
+
+</script>
+
+<script src="https://hypothes.is/embed.js" async></script>
+
 The institution of the public library has crystallized, developed and
 advanced around historical junctures unleashed by epochal economic,
-technological and political changes. A series of crises since the advent
-of print have contributed to the configuration of the institutional
-entanglement of the public library as we know it today:[^1] defined by a
-publicly available collection, housed in a public building, indexed and
-made accessible with a help of a public catalog, serviced by trained
-librarians and supported through public financing. Libraries today
-embody the idea of universal access to all knowledge, acting as
-custodians of a culture of reading, archivists of material and ephemeral
-cultural production, go-betweens of information and knowledge. However, libraries have also embraced a broader spirit of public service and
-infrastructure: providing information, education, skills, assistance
-and, ultimately, shelter to their communities – particularly their most
-vulnerable members.
+technological and political changes. A series of crises since the advent of print have contributed to the configuration of the institutional entanglement of the public library as we know it today:[^1] defined by a publicly available collection, housed in a public building, indexed and made accessible with a help of a public catalog, serviced by trained librarians and supported through public financing. Libraries today embody the idea of universal access to all knowledge, acting as custodians of a culture of reading, archivists of material and ephemeral cultural production, go-betweens of information and knowledge. However, libraries have also embraced a broader spirit of public service and infrastructure: providing information, education, skills, assistance and, ultimately, shelter to their communities – particularly their most vulnerable members.
 
 This institutional entanglement, consisting in a comprehensive
 organization of knowledge, universally accessible cultural goods and

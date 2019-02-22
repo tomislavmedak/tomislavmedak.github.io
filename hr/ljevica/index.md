@@ -8,6 +8,16 @@ lead: Članak objavljen u prvom broju časopisa zagrebačkog Centra za radničke
 
 ---
 
+<script type="application/json" class="js-hypothesis-config">
+
+{"showHighlights": false}
+
+</script>
+
+<script src="https://hypothes.is/embed.js" async></script>
+
+
+
 ## Strukturni problemi ljevice, u retrospektivi
 
 Posljednjih godina u više prilika mogli smo čuti oštre kritike, dapače
@@ -16,8 +26,7 @@ njihove uloge u procesima društvene transformacije u Hrvatskoj u
 protekla dva-tri desetljeća. Riječ je o sudovima koji su djelomično
 točni, ali i djelomično krivi. Točni su utoliko što točno detektiraju
 strukturna ograničenja djelovanja unutar okvira civilnog društva, krivi
-su jer uklanjaju iz vidika specifičnu historijsku institucionalnu genezu
-te strukturne pozicije unutar hrvatskog konteksta.
+su jer uklanjaju iz vidika specifičnu historijsku institucionalnu genezu te strukturne pozicije unutar hrvatskog konteksta.
 
 Te kritike glase približno ovako: inicijative i organizacije civilnog
 društva iz perioda 1990-ih i pogotovo 2000-ih legitimirale su proces

@@ -7,11 +7,19 @@
 lead: Text originally commissioned by steirischer herbst and Florian Malzacher for the edited volume *Truth is Concrete: A Handbook for Artistic Strategies in Real Politics* (Sternberg Press, 2014) - a collection of 99 short entries written by artists and theorists 'mapping the broad field of engaged art and artistic activism in our times'.
 ---
 
+<script type="application/json" class="js-hypothesis-config">
+
+{"showHighlights": false}
+
+</script>
+
+<script src="https://hypothes.is/embed.js" async></script>
+
+
 Hacking is a practice of disruption of communication systems and
 information flows, their re-purposing against their intended or legal
 use. When discussing technology we tend to perceive it as an enabler.
-Tools that help us master the world around us at ever smaller expense of
-energy. Frequently still, but less so, we think of technology as war
+Tools that help us master the world around us at ever smaller expense of energy. Frequently still, but less so, we think of technology as war
 machines, surveillance machines, propaganda machines.
 
 But technology is linked at a more fundamental level to the social

@@ -8,6 +8,14 @@
 lead: This is an extended version of the talk "Disrupting Technological Change", delivered on October 2017 at the annual conference of the Institute for Labor Studies in Ljubljana.
 ---
 
+<script type="application/json" class="js-hypothesis-config">
+
+{"showHighlights": false}
+
+</script>
+
+<script src="https://hypothes.is/embed.js" async></script>
+
 <br>
 
 ![Isotype created by Otto and Marie Neurath in 1930s, from the The Otto and Marie Neurath Isotype Collection at the Reading University (http://isotyperevisited.org)](/images/rationalisation_neurath.jpg)

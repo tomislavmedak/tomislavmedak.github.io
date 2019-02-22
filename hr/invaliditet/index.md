@@ -7,6 +7,16 @@
 lead: Ovaj *working paper* nastao je na poticaj [Grupe 22](http://www.grupa22.hr/invaliditet-inkluzija-kapitalizam/), progresivne zeleno-lijeve istraživačke i zagovaračke organizacije. Tekst polazi od činjenice da je Hrvatska na začelju EU ljestvice po radnoj uključenosti invalida. Tvorci politika tvrde da će uključivanje u tržište rada omogućiti realiziranje njenog “punog radnog i osobnog potencijala”. Međutim, to poistovjećivanje tržišta rada i samoozbiljenja potiskuje nepomirivost politika radne inkluzije i natjecateljskog tržišta rada. Analizirajući razloge te nepomirivosti, članak pokazuje da je invaliditet kao društvena kategorija strukturni i povijesni ishod uspona kapitalističkog načina proizvodnje.
 ---
 
+<script type="application/json" class="js-hypothesis-config">
+
+{"showHighlights": false}
+
+</script>
+
+<script src="https://hypothes.is/embed.js" async></script>
+
+
+
 Sa 1. siječnjom 2015. u Hrvatskoj na snagu stupa Zakon o profesionalnoj
 rehabilitaciji i zapošljavanju osoba s invaliditetom koji bi trebao
 proširiti kvote zapošljavanja invalida s javnog na privatni sektor.

@@ -7,21 +7,21 @@
 lead: This is a revised version of a talk delivered at the Tanzkongress in Hannover, 18 June 2016.
 ---
 
+<script type="application/json" class="js-hypothesis-config">
+
+{"showHighlights": false}
+
+</script>
+
+<script src="https://hypothes.is/embed.js" async></script>
+
 ## Argument in brief
 
 In this analysis I’ll situate the emergence of dance as an art form
 within the geo-historical trajectory of political bordering process in
 the 18th and 19th century Europe. I'll suggest that with the rise of
 capitalist modernity, which ushered in both the bourgeois nation-states
-as a form of internal social regulation and the imperialism as a form of
-global economic expansion, the dance gradually differentiated itself out
-as a separate artistic field. In its evolving focus on composing
-collective movement of freely expressive bodies, it reflected four
-structural aspects of the rapidly maturing capitalism: nominal equality
-of all members of the society, subjection of bodies to the industrial
-process of production, abstract mediation of social relations through
-commodity exchange, and gradual exclusion of pre-modern routines,
-gestures and rituals from the capitalist organization of life.
+as a form of internal social regulation and the imperialism as a form of global economic expansion, the dance gradually differentiated itself out as a separate artistic field. In its evolving focus on composing collective movement of freely expressive bodies, it reflected four structural aspects of the rapidly maturing capitalism: nominal equality of all members of the society, subjection of bodies to the industrial process of production, abstract mediation of social relations through commodity exchange, and gradual exclusion of pre-modern routines, gestures and rituals from the capitalist organization of life.
 
 These four aspects would become both emphatically encapsulated in
 popular social dances and, relevant for the analysis here,

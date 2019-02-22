@@ -7,6 +7,17 @@
 lead: Dramaturški ogled uz predstavu *Ispravci ritma* koju je BADco. praizveo u novembru 2017. u Zagrebačkom HNK. Tekst je izvorno objavljen u knjižici predstave.
 ---
 
+
+<script type="application/json" class="js-hypothesis-config">
+
+{"showHighlights": false}
+
+</script>
+
+<script src="https://hypothes.is/embed.js" async></script>
+
+
+
 ## Komunikacijske mreže i rastakanje osobe
 
 Rasprostranjeno je mišljenje da su nas mogućnosti demokratske participacije u javnoj komunikaciji internetskog doba dovele do eksplozije spektakla narcisoidnog samopredstavljanja. Internetska komunikacija omogućila je svakome da se minimalnim sredstvima obraća globalnoj umreženoj javnosti. Časopis *Time* 2006. je kao osobu godine odabrao nas. Nas koji proizvodimo te sadržaje - tekstove, fotografije, glazbu, videa, znalačku selekciju tuđih tekstova, tuđih fotografija, tuđe glazbe, tuđih videa. Nas koji te sadržaje predano dijelimo u internetskoj infosferi. Nas koji konačno postajemo tvorci infosfere. Međutim, uspon društvenih mreža poput Facebooka, Twittera i Instagrama od te 2006. naovamo u fokus tog sadržaja gurnuo je nas. U središtu komunikacijskog procesa našli smo se mi osobno kao stjecište mreže interpersonalnih odnosa na kojima se temelji funkcioniranje društvenih mreža. Ono što njih održava na životu naša je osobnost i sadržaji koji drugima omogućuju da tu našu osobnost prepoznaju i potvrđuju. Društvene mreže tako proizvode mehanizam koji današnju generaciju vičnu mrežnim komunikacijskim platformama nuka u predstavljanje i izvođenje vlastite osobnosti, narcisoidnu igru sebstva u kojoj dijeljenje i posve neosobnih sadržaja poput političkih analiza postaje dijelom procesa povratne potvrde vlastite pozicije.

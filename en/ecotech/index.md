@@ -3,6 +3,14 @@
 .. slug: ecotech
 -->
 
+<script type="application/json" class="js-hypothesis-config">
+
+{"showHighlights": false}
+
+</script>
+
+<script src="https://hypothes.is/embed.js" async></script>
+
 > “Neither tales of progress nor of ruin tell us how to think about
 > collaborative survival.” — Anna Tsing[^1]
 
