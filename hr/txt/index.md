@@ -25,7 +25,7 @@ Zajedno s Marcellom Marsom: *System.hack()*. Multimedijalni institut,
 
 ***Tehnologija, ekologija, kapitalizam***
 
-Zajedno s Mladenom Domazetom: ["Povijest koja nam diše za vratom", pogovor hrvatskom prijevodu knjige Andreasa Malma *Fosilni kapital*, Fraktura, Zagreb, 2018.](http://ipe.hr/aktivnosti/povijest-koja-nam-dise-za-vratom/()
+Zajedno s Mladenom Domazetom: ["Povijest koja nam diše za vratom", pogovor hrvatskom prijevodu knjige Andreasa Malma *Fosilni kapital*, Fraktura, Zagreb, 2018.](http://ipe.hr/aktivnosti/povijest-koja-nam-dise-za-vratom/)
 
 „O čemu pričamo kada pričamo o bitcoinu?“ *Bilten*, 25. siječanj 2018. [🔗](http://www.bilten.org/?p=21983)
 
