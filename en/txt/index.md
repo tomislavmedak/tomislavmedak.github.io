@@ -49,10 +49,11 @@ Institute for Political Ecology, 2017. [🔗 PDF at IPE](http://ipe.hr/wp-conten
 
 ***Shadow libraries, access to knowledge, hacktivism***
 
+Co-authored with Valeria Graziano and Marcell Mars ['Learning from #Syllabus'](https://issuu.com/instituteofnetworkcultures/docs/statemachines_v14_zondermarks/115). In *State Machines: Reflections and Actions at the Edge of Digital Citizenship, Finance, and Art*, edited by Yiannis Colakides, Mark Garrett, and Inte Gloerich, Institute for Network Cultures, 2019, pp. 115-128.
+
 Interview with Petar Jandrić and Ana Kuzmanić. ‘Knowledge Commons and
 Activist Pedagogies: From Idealist Positions to Collective Actions -
-Conversation with Marcell Mars and Tomislav Medak’. *Learning in the Age
-of Digital Reason*, edited by Petar Jandrić, SensePublishers, 2017, pp.
+Conversation with Marcell Mars and Tomislav Medak’. *Learning in the Age of Digital Reason*, edited by Petar Jandrić, SensePublishers, 2017, pp.
 243–269.
 
 Co-authored with Marcell Mars. [‘Amateur Librarian - A Course in Critical

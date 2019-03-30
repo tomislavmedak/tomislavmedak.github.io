@@ -16,6 +16,8 @@ Ako me želite kontaktirati, moji podaci su na [ovoj stranici](/en/contact/).
 
 ***Recentni tekstovi:***
 
+U suautorstvu s Valerijom Graziano and Marcellom Marsom ['Learning from #Syllabus'](https://issuu.com/instituteofnetworkcultures/docs/statemachines_v14_zondermarks/115). U *State Machines: Reflections and Actions at the Edge of Digital Citizenship, Finance, and Art*, uredili Yiannis Colakides, Mark Garrett i Inte Gloerich, Institute for Network Cultures, 2019, str. 115-128.
+
 'Na ulicama Francuske povijest anticipira budućnost', [*Novi plamen*, 20.12.2018.](http://www.noviplamen.net/glavna/na-ulicama-francuske-povijest-anticipira-buducnost/)
 
-[‘Disrupting Automation: Capitalism, Technology and the Post-work Society‘](http://tom.medak.click/en/automation/), talk at the annual conference of the Institute of Labor Studies in Ljublja, 6 November, 2017.
+[‘Disrupting Automation: Capitalism, Technology and the Post-work Society‘](http://tom.medak.click/en/automation/), predavanje na godišnjoj konferenciji ljubljanskog Instituta za radničke studije, 6. novembra, 2017.
