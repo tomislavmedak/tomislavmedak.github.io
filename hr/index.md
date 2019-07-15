@@ -16,8 +16,8 @@ Ako me želite kontaktirati, moji podaci su na [ovoj stranici](/en/contact/).
 
 ***Recentni tekstovi:***
 
-U suautorstvu s Valerijom Graziano and Marcellom Marsom ['Learning from #Syllabus'](https://issuu.com/instituteofnetworkcultures/docs/statemachines_v14_zondermarks/115). U *State Machines: Reflections and Actions at the Edge of Digital Citizenship, Finance, and Art*, uredili Yiannis Colakides, Mark Garrett i Inte Gloerich, Institute for Network Cultures, 2019, str. 115-128.
+U suautorstvu s Marcellmom Marsom: ['Against innovation: Compromised institutional agency and acts of custodianship'](http://www.ephemerajournal.org/contribution/against-innovation-compromised-institutional-agency-and-acts-custodianship). u *Ephemera - Theory and Politics in Organisation* 19 (2), 345–368, tematski broj 'Repair matters', uredile Valeria Graziano and Kim Torgal.
+
+U suautorstvu s Valerijom Graziano and Marcellom Marsom: ['Learning from #Syllabus'](https://issuu.com/instituteofnetworkcultures/docs/statemachines_v14_zondermarks/115). U *State Machines: Reflections and Actions at the Edge of Digital Citizenship, Finance, and Art*, uredili Yiannis Colakides, Mark Garrett i Inte Gloerich, Institute for Network Cultures, 2019, str. 115-128.
 
 'Na ulicama Francuske povijest anticipira budućnost', [*Novi plamen*, 20.12.2018.](http://www.noviplamen.net/glavna/na-ulicama-francuske-povijest-anticipira-buducnost/)
-
-[‘Disrupting Automation: Capitalism, Technology and the Post-work Society‘](http://tom.medak.click/en/automation/), predavanje na godišnjoj konferenciji ljubljanskog Instituta za radničke studije, 6. novembra, 2017.

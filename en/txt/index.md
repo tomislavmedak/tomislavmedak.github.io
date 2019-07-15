@@ -39,28 +39,27 @@ Multimedia Institute, 2006.
 
 ***Technology, ecology, capitalism***
 
-[‘Aesthetisation of Technopolitics: Accelerated Instrumental Rationality and the Three Figures of the Far-Right‘](/en/aestetisation/), notes of the presentation at the 15th Historical Materialism conference in London, 8-11 November, 2018.
-
 [‘Technologies for an Ecological Transition: A Faustian Bargain?’](/en/ecotech/).
 *Materialism and the Critique of Energy*, edited by Brent Ryan Bellamy
 et al., M-C-M’ Press, 2018., [🔗 PDF at M-C-M’ Press](http://www.mcmprime.com/books/marxism-and-energy) previously published as a working paper,
 Institute for Political Ecology, 2017. [🔗 PDF at IPE](http://ipe.hr/wp-content/uploads/2017/11/Technologies-for-an-Ecological-Transition-A-Faustian-Bargain-1.pdf).
 
-
 ***Shadow libraries, access to knowledge, hacktivism***
 
-Co-authored with Valeria Graziano and Marcell Mars ['Learning from #Syllabus'](https://issuu.com/instituteofnetworkcultures/docs/statemachines_v14_zondermarks/115). In *State Machines: Reflections and Actions at the Edge of Digital Citizenship, Finance, and Art*, edited by Yiannis Colakides, Mark Garrett, and Inte Gloerich, Institute for Network Cultures, 2019, pp. 115-128.
+Co-authored with Marcell Mars: ['Against innovation: Compromised institutional agency and acts of custodianship'](http://www.ephemerajournal.org/contribution/against-innovation-compromised-institutional-agency-and-acts-custodianship). In *Ephemera - Theory and Politics in Organisation* 19 (2), 345–368, special issue on 'Repair matters', edited by Valeria Graziano and Kim Torgal.
 
-Interview with Petar Jandrić and Ana Kuzmanić. ‘Knowledge Commons and
+Co-authored with Valeria Graziano and Marcell Mars: ['Learning from #Syllabus'](https://issuu.com/instituteofnetworkcultures/docs/statemachines_v14_zondermarks/115). In *State Machines: Reflections and Actions at the Edge of Digital Citizenship, Finance, and Art*, edited by Yiannis Colakides, Mark Garrett, and Inte Gloerich, Institute for Network Cultures, 2019, pp. 115-128.
+
+Interview with Petar Jandrić and Ana Kuzmanić: ‘Knowledge Commons and
 Activist Pedagogies: From Idealist Positions to Collective Actions -
 Conversation with Marcell Mars and Tomislav Medak’. *Learning in the Age of Digital Reason*, edited by Petar Jandrić, SensePublishers, 2017, pp.
 243–269.
 
-Co-authored with Marcell Mars. [‘Amateur Librarian - A Course in Critical
+Co-authored with Marcell Mars: [‘Amateur Librarian - A Course in Critical
 Pedagogy‘](/en/amateur/). *Mondothèque :: A Radiated Book*, Constant, 2016, pp. 48–56.
 [🔗 Original post at the Mondothèque wiki](http://www.mondotheque.be/wiki/index.php/Amateur_Librarian_-_A_Course_in_Critical_Pedagogy)
 
-Co-authored with Marcell Mars and Dubravka Sekulić. ‘“We Need It–we Do
+Co-authored with Marcell Mars and Dubravka Sekulić: ‘“We Need It–we Do
 It”–policy Pragmatics and Utopias’. *We Need It - We Do It: Croatia at
 the 15th International Architecture Exhibition/La Biennale Di Venezia
 2016*, edited by Dinko Peračić et al., Platforma 9,81; POGON–Zagreb
