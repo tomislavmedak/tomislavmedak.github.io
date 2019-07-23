@@ -24,4 +24,4 @@ Co-authored with Valeria Graziano and Marcell Mars: ['Learning from #Syllabus'](
 
 ***Digital scholarship workflows***:
 
-[Overview of digital tools and workflows]() I use in my scholarly work, covering activities ranging from digitisation, annotation, referencing, plaintext authorship, storage and backup, to presentation and web presence. It includes workflows with ScanTailor, OCR-ing, Zotero, Diigo, Hypothesis, Markdown, Atom, Pandoc, Git, Reveal.js and Nikola.
+[Overview of digital tools and workflows](/en/workflows/) I use in my scholarly work, covering activities ranging from digitisation, annotation, referencing, plaintext authorship, storage and backup, to presentation and web presence. It includes workflows with ScanTailor, OCR-ing, Zotero, Diigo, Hypothesis, Markdown, Atom, Pandoc, Git, Reveal.js and Nikola.

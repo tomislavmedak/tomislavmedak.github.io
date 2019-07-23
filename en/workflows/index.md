@@ -320,7 +320,7 @@ PANDOC_OPTIONS = ['--toc', '--template=/home/<user>/.pandoc/templates/html_nikol
 
 ~~~~
 
-Pandoc here uses a custom template created by my collaborator Marcell Mars to deal with some of my additional front matter. Nikola already offers a number of [metadata entries](https://getnikola.com/handbook.html#id18). Nikola uses by default reST comments, but you can [easily change that setting into YAML](https://getnikola.com/listings/conf.py.html#listingsconfpy-317) in the `conf.py` file. My template file adds to existing metadata affiliation for the authors, article abstract, and article lead. The file is available [here](/files/html_nikola.template).
+Pandoc here uses a custom template created by my collaborator Marcell Mars to deal with some of my additional front matter. Nikola already offers a number of [metadata entries](https://getnikola.com/handbook.html#id18). Nikola uses by default reST comments, but you can [easily change that setting into YAML](https://getnikola.com/listings/conf.py.html#listingsconfpy-317) in the `conf.py` file. My template file adds to existing metadata affiliation for the authors, article abstract, and article lead. The file is available [here](/html_nikola.template).
 
 On some of the pages on my website, including this one, I have Hypothesis installed. To add Hypothesis script to a page, you need to add the following code after your metadata entry:
 
@@ -358,4 +358,4 @@ BODY_END = """
 
 For more customisations and tweaks, [Nikola docmentation](https://getnikola.com/documentation.html) offer a plenitude of resources, but you can find also find on the web examples of Nikola-powered website customisations such as this highly resourceful [Lois Tiao's blog post](http://louistiao.me/posts/how-i-customized-my-nikola-powered-site/).
 
-Further reading:
+**Further reading:**
