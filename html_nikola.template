@@ -1,0 +1,23 @@
+<p class="before_authors"></p>
+
+$for(author)$
+    <div class="small authors"><strong><em>$author.name$</em></strong>, <span class="affiliation"><em>$author.affiliation$</em></span></div>
+$endfor$
+
+<p class="after_authors"></p>
+
+$if(abstract)$
+  <p class="small abstract"><strong>Abstract: </strong><em>$abstract$</em></p>
+$endif$
+
+$if(lead)$
+  <p class="small lead"><em>$lead$</em></p>
+$endif$
+
+$if(toc-title)$
+  <strong>$toc-title$</strong>
+  <nav id="$idprefix$TOC">$toc$</nav>
+  <p class="after_toc"></p>
+$endif$
+
+$body$

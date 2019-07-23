@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>http://tom.medak.click/</loc>
-  <lastmod>2019-02-16T06:06:00Z</lastmod>
+  <lastmod>2019-07-21T13:10:00Z</lastmod>
  </url>
  <url>
   <loc>http://tom.medak.click/accelerated/</loc>
@@ -27,7 +27,7 @@
  </url>
  <url>
   <loc>http://tom.medak.click/en/</loc>
-  <lastmod>2019-03-13T20:39:00Z</lastmod>
+  <lastmod>2019-07-21T13:10:00Z</lastmod>
  </url>
  <url>
   <loc>http://tom.medak.click/en/accelerated/</loc>
@@ -92,6 +92,10 @@
  <url>
   <loc>http://tom.medak.click/en/ubu_monoskop/</loc>
   <lastmod>2018-02-17T20:48:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://tom.medak.click/en/workflows/</loc>
+  <lastmod>2019-07-21T13:10:00Z</lastmod>
  </url>
  <url>
   <loc>http://tom.medak.click/galleries/</loc>

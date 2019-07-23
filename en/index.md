@@ -20,3 +20,8 @@ Co-authored with Marcell Mars: ['Against innovation: Compromised institutional a
 Co-authored with Valeria Graziano and Marcell Mars: ['Learning from #Syllabus'](https://issuu.com/instituteofnetworkcultures/docs/statemachines_v14_zondermarks/115). In *State Machines: Reflections and Actions at the Edge of Digital Citizenship, Finance, and Art*, edited by Yiannis Colakides, Mark Garrett, and Inte Gloerich, Institute for Network Cultures, 2019, pp. 115-128.
 
 'Na ulicama Francuske povijest anticipira budućnost', [*Novi plamen*, 20.12.2018.](http://www.noviplamen.net/glavna/na-ulicama-francuske-povijest-anticipira-buducnost/).
+
+
+***Digital scholarship workflows***:
+
+[Overview of digital tools and workflows]() I use in my scholarly work, covering activities ranging from digitisation, annotation, referencing, plaintext authorship, storage and backup, to presentation and web presence. It includes workflows with ScanTailor, OCR-ing, Zotero, Diigo, Hypothesis, Markdown, Atom, Pandoc, Git, Reveal.js and Nikola.

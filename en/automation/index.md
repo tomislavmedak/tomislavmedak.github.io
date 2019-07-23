@@ -144,7 +144,7 @@ Orientation of technological development is largely overdetermined by social ant
 
 [^6]: Braverman, Harry, *Labor and Monopoly Capital: The Degradation of Work in the Twentieth Century*. Monthly Review Press, 1974, p. 115.
 
-[^5]: Marx, Karl. *The Grundrisse*, ibid.
+[^7]: Marx, Karl. *The Grundrisse*, ibid.
 
 [^8]: For an analysis of contemporary processes of standardization of working knowledge see Huws, Ursula. *Labor in the Global Digital Economy*. Monthly Review Press, 2014, ch. 4.
 

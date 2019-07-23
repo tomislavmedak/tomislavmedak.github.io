@@ -4,7 +4,7 @@
 -->
 
 ---
-lead: Text originally commissioned by steirischer herbst and Florian Malzacher for the edited volume *Truth is Concrete: A Handbook for Artistic Strategies in Real Politics* (Sternberg Press, 2014) - a collection of 99 short entries written by artists and theorists 'mapping the broad field of engaged art and artistic activism in our times'.
+lead: Text originally commissioned by steirischer herbst and Florian Malzacher for the edited volume *Truth is Concrete - A Handbook for Artistic Strategies in Real Politics* (Sternberg Press, 2014), a collection of 99 short entries written by artists and theorists 'mapping the broad field of engaged art and artistic activism in our times'.
 ---
 
 <script type="application/json" class="js-hypothesis-config">
