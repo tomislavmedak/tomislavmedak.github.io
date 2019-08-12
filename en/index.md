@@ -15,11 +15,13 @@ If you want to get in touch, my details can be found on the [contact page](/en/c
 
 ***Recent texts:***
 
+Co-authored with Marcell Mars: ['System of a Takedown: Control and De-Commodification in the Circuits of Academic Publishing'](https://meson.press/books/archives/). In *Archives*, edited by Lison, A., University of Minnesota Press & meson.press, 2019, pp. 47–68.
+
+Co-authored with Marcell Mars: ['Amazon.com: anatomija jedne dominacije'](https://www.bilten.org/?p=28562), *Bilten*, July 31, 2019.
+
 Co-authored with Marcell Mars: ['Against innovation: Compromised institutional agency and acts of custodianship'](http://www.ephemerajournal.org/contribution/against-innovation-compromised-institutional-agency-and-acts-custodianship). In *Ephemera - Theory and Politics in Organisation* 19 (2), 345–368, special issue on 'Repair matters', edited by Valeria Graziano and Kim Torgal.
 
 Co-authored with Valeria Graziano and Marcell Mars: ['Learning from #Syllabus'](https://issuu.com/instituteofnetworkcultures/docs/statemachines_v14_zondermarks/115). In *State Machines: Reflections and Actions at the Edge of Digital Citizenship, Finance, and Art*, edited by Yiannis Colakides, Mark Garrett, and Inte Gloerich, Institute for Network Cultures, 2019, pp. 115-128.
-
-'Na ulicama Francuske povijest anticipira budućnost', [*Novi plamen*, 20.12.2018.](http://www.noviplamen.net/glavna/na-ulicama-francuske-povijest-anticipira-buducnost/).
 
 
 ***Digital scholarship workflows***:

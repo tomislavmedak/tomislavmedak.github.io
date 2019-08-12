@@ -16,8 +16,10 @@ Ako me želite kontaktirati, moji podaci su na [ovoj stranici](/en/contact/).
 
 ***Recentni tekstovi:***
 
-U suautorstvu s Marcellmom Marsom: ['Against innovation: Compromised institutional agency and acts of custodianship'](http://www.ephemerajournal.org/contribution/against-innovation-compromised-institutional-agency-and-acts-custodianship). u *Ephemera - Theory and Politics in Organisation* 19 (2), 345–368, tematski broj 'Repair matters', uredile Valeria Graziano and Kim Torgal.
+Zajedno s Marcellom Marsom: ["System of a Takedown: Control and De-Commodification in the Circuits of Academic Publishing"](https://meson.press/books/archives/). U *Archives*, uredio Andrew Lison, University of Minnesota Press & meson.press, 2019, pp. 47–68.
 
-U suautorstvu s Valerijom Graziano and Marcellom Marsom: ['Learning from #Syllabus'](https://issuu.com/instituteofnetworkcultures/docs/statemachines_v14_zondermarks/115). U *State Machines: Reflections and Actions at the Edge of Digital Citizenship, Finance, and Art*, uredili Yiannis Colakides, Mark Garrett i Inte Gloerich, Institute for Network Cultures, 2019, str. 115-128.
+Zajedno s Marcellom Marsom: ["Amazon.com: anatomija jedne dominacije"](https://www.bilten.org/?p=28562), *Bilten*, 31. srpnja 2019.
 
-'Na ulicama Francuske povijest anticipira budućnost', [*Novi plamen*, 20.12.2018.](http://www.noviplamen.net/glavna/na-ulicama-francuske-povijest-anticipira-buducnost/)
+Zajedno s Marcellom Marsom: ["Against innovation: Compromised institutional agency and acts of custodianship"](http://www.ephemerajournal.org/contribution/against-innovation-compromised-institutional-agency-and-acts-custodianship). U *Ephemera - Theory and Politics in Organisation* 19 (2), 345–368, tematski broj 'Repair matters', uredile Valeria Graziano and Kim Torgal.
+
+Zajedno s Valerijom Graziano and Marcellom Marsom: ["Learning from #Syllabus"](https://issuu.com/instituteofnetworkcultures/docs/statemachines_v14_zondermarks/115). U *State Machines: Reflections and Actions at the Edge of Digital Citizenship, Finance, and Art*, uredili Yiannis Colakides, Mark Garrett i Inte Gloerich, Institute for Network Cultures, 2019, str. 115-128.

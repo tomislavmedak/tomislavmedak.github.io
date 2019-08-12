@@ -1,5 +1,5 @@
 <!--
-.. title: Digital scholarship workflows
+.. title: 'Digital scholarship workflows'
 .. slug: workflows
 .. author: Tomislav Medak
 .. date: 2019-07-22 19:52:05 UTC
@@ -37,6 +37,7 @@ lead: This page covers digital tools and workflows that I use in my scholarly wo
 - [Revising](#revising)
 - [Naming, storing and backing-up files](#naming-storing-and-backing-up-files)
     - [Git, Gitlab and SparkleShare](#git-gitlab-and-sparkleshare)
+    - [Backing-up the Zotero library][#backing-up-the-zotero-library]
 - [Presentations and website](#presentations-and-website)
     - [Reveal.js](#revealjs)
     - [Nikola](#nikola)
@@ -256,6 +257,10 @@ git clone https://gitlab.com/USERNAME/PROJECT-NAME.git
 ~~~~
 
 You can automate this process by using [SparkeShare](https://www.sparkleshare.org/), a git-based file-sharing application, that acts in a similar way to cloud storage applications like Dropbox or Google Drive. After you have set up [SparkleShare](https://opensource.com/article/19/4/file-sharing-git), it runs as a daemon in your system tray keeping your .git directories synced locally and remotely.
+
+### Backing-up the Zotero library
+
+Zotero is central to my reading workflow and the Zotero library directory contains annotated PDFs for almost for everything I read. It's directory is both large and precious to me. Zotero.org account will back-up your references, but given the limited amount of storage offered by Zotero.org (300mb for free, up to 6GB under an inexpensive payment plan), I store a back-up of my Zotero library backed up in the cloud.
 
 ## Presentations and website
 

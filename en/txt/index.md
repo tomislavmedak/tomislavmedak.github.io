@@ -46,6 +46,8 @@ Institute for Political Ecology, 2017. [🔗 PDF at IPE](http://ipe.hr/wp-conten
 
 ***Shadow libraries, access to knowledge, hacktivism***
 
+Co-authored with Marcell Mars: [‘System of a Takedown: Control and De-Commodification in the Circuits of Academic Publishing’](https://meson.press/books/archives/). In *Archives*, edited Andrew Lison, University of Minnesota Press & meson.press, 2019, pp. 47–68.
+
 Co-authored with Marcell Mars: ['Against innovation: Compromised institutional agency and acts of custodianship'](http://www.ephemerajournal.org/contribution/against-innovation-compromised-institutional-agency-and-acts-custodianship). In *Ephemera - Theory and Politics in Organisation* 19 (2), 345–368, special issue on 'Repair matters', edited by Valeria Graziano and Kim Torgal.
 
 Co-authored with Valeria Graziano and Marcell Mars: ['Learning from #Syllabus'](https://issuu.com/instituteofnetworkcultures/docs/statemachines_v14_zondermarks/115). In *State Machines: Reflections and Actions at the Edge of Digital Citizenship, Finance, and Art*, edited by Yiannis Colakides, Mark Garrett, and Inte Gloerich, Institute for Network Cultures, 2019, pp. 115-128.
@@ -57,12 +59,10 @@ Conversation with Marcell Mars and Tomislav Medak’. *Learning in the Age of Di
 
 Co-authored with Marcell Mars: [‘Amateur Librarian - A Course in Critical
 Pedagogy‘](/en/amateur/). *Mondothèque :: A Radiated Book*, Constant, 2016, pp. 48–56.
-[🔗 Original post at the Mondothèque wiki](http://www.mondotheque.be/wiki/index.php/Amateur_Librarian_-_A_Course_in_Critical_Pedagogy)
 
-Co-authored with Marcell Mars and Dubravka Sekulić: ‘“We Need It–we Do
-It”–policy Pragmatics and Utopias’. *We Need It - We Do It: Croatia at
+Co-authored with Marcell Mars and Dubravka Sekulić: 'Taken Literally'. In [*We Need It - We Do It: Croatia at
 the 15th International Architecture Exhibition/La Biennale Di Venezia
-2016*, edited by Dinko Peračić et al., Platforma 9,81; POGON–Zagreb
+2016*](https://we-need-it-we-do-it.org/wp-content/uploads/2016/06/WNIWDI_.pdf), edited by Dinko Peračić et al., Platforma 9,81; POGON–Zagreb
 Centre for Independent Culture and Youth; Museum of Modern and
 Contemporary Art Rijeka, 2016, pp. 228–35.
 

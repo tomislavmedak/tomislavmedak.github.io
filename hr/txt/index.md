@@ -25,12 +25,13 @@ Zajedno s Marcellom Marsom: *System.hack()*. Multimedijalni institut,
 
 ***Tehnologija, ekologija, kapitalizam***
 
+Zajedno s Marcellom Marsom: ["Amazon.com: anatomija jedne dominacije"](https://www.bilten.org/?p=28562), *Bilten*, 31. srpnja 2019.
+
 Zajedno s Mladenom Domazetom: ["Povijest koja nam diše za vratom", pogovor hrvatskom prijevodu knjige Andreasa Malma *Fosilni kapital*, Fraktura, Zagreb, 2018.](http://ipe.hr/aktivnosti/povijest-koja-nam-dise-za-vratom/)
 
-„O čemu pričamo kada pričamo o bitcoinu?“ *Bilten*, 25. siječanj 2018. [🔗](http://www.bilten.org/?p=21983)
+„O čemu pričamo kada pričamo o bitcoinu?“, *Bilten*, 25. siječanj 2018. [🔗](http://www.bilten.org/?p=21983)
 
-[„Od ekonomije dijeljenja do dijeljene eksploatacije“](/hr/eksploatacija/). *Bilten -
-regionalni portal*, 24. ožujak 2017. [🔗](http://www.bilten.org/?p=17570)
+[„Od ekonomije dijeljenja do dijeljene eksploatacije“](/hr/eksploatacija/). *Bilten*, 24. ožujak 2017. [🔗](http://www.bilten.org/?p=17570)
 
 „Pa pa proleteri...: automatizacija i kriza rada“. *Kulturpunkt*,
 ožujak 2017. [🔗](http://www.kulturpunkt.hr/content/pa-pa-proleteri-automatizacija-i-kriza-rada)
@@ -75,6 +76,8 @@ Mirand Jakiša, Drugo more, 2013, str. 44–50.
 Performing Arts Journal*, izd. 60–61, prosinac 2011., str. 50–54.
 
 ***Društvo, društveni pokreti, politika***
+
+['Na ulicama Francuske povijest anticipira budućnost']((http://www.noviplamen.net/glavna/na-ulicama-francuske-povijest-anticipira-buducnost/), *Novi plamen*, 20. prosinca 2018.]
 
 [„Civilno društvo i politički rad na ljevici“](/hr/ljevica/). *3k: kapital, klasa,
 kritika*, sv. 1, izd. 1, 2014., str. 133–38.
