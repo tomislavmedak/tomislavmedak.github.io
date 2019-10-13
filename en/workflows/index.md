@@ -283,6 +283,7 @@ By defining a vertical separator (in my case, two line breaks around two dashes)
 My presentation I have written in the `technologies_and_eclogical_transition.md` file. A typical slide segment has the following structure:
 
 ~~~~
+
 ---
 
 # modeling the human needs within planetary boundaries
@@ -294,9 +295,10 @@ My presentation I have written in the `technologies_and_eclogical_transition.md`
 Note: all economic processes are drawing on living matter, materials and energy from nature, transforming them from a more ordered state into a less ordered state, from a more usable condition to a less usable condition.
 
 --
+
 ~~~~
 
-Here `---` is the default separator for horizontal slides and `--` for vertical, i.e. nested slides that I have defined when executing my command. `#` defines the heading, `Note:` my slide note. Slide segments typically combine Markdown and HTML syntax, particularly when better control over the size of fonts and images is called for.
+Here `---` surrounded by line breaks is the default separator for horizontal slides and `--` surrounded by line breaks for vertical, i.e. nested slides. `#` is a heading, `Note:` my slide note. Slide segments typically combine Markdown and HTML syntax, particularly when better control over the size of fonts and images is called for.
 
 Reveal-md can also print slides to PDF:
 

@@ -272,7 +272,8 @@ reveal-md technologies_and_eclogical_transition.md --vertical-separator "\n--\n"
 </code></pre>
 <p>By defining a vertical separator (in my case, two line breaks around two dashes), I enable nested slides. I also indicate a custom CSS file built from one of Reveal.js themes, but if you omit this option, it will use the default black theme - or you can use the option <code>--theme</code> to chose one of the other themes provided in the installation.</p>
 <p>My presentation I have written in the <code>technologies_and_eclogical_transition.md</code> file. A typical slide segment has the following structure:</p>
-<pre><code>---
+<pre><code>
+---
 
 # modeling the human needs within planetary boundaries
 
@@ -282,8 +283,9 @@ reveal-md technologies_and_eclogical_transition.md --vertical-separator "\n--\n"
 
 Note: all economic processes are drawing on living matter, materials and energy from nature, transforming them from a more ordered state into a less ordered state, from a more usable condition to a less usable condition.
 
---</code></pre>
-<p>Here <code>---</code> is the default separator for horizontal slides and <code>--</code> for vertical, i.e. nested slides that I have defined when executing my command. <code>#</code> defines the heading, <code>Note:</code> my slide note. Slide segments typically combine Markdown and HTML syntax, particularly when better control over the size of fonts and images is called for.</p>
+--
+</code></pre>
+<p>Here <code>---</code> surrounded by line breaks is the default separator for horizontal slides and <code>--</code> surrounded by line breaks for vertical, i.e. nested slides. <code>#</code> is a heading, <code>Note:</code> my slide note. Slide segments typically combine Markdown and HTML syntax, particularly when better control over the size of fonts and images is called for.</p>
 <p>Reveal-md can also print slides to PDF:</p>
 <pre><code>
 reveal-md technologies_and_eclogical_transition.md --vertical-separator "\n--\n" --css black_custom.css --print /tmp/test.pdf
