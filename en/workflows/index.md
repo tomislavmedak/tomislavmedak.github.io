@@ -4,11 +4,11 @@
 .. author: Tomislav Medak
 .. date: 2019-07-22 19:52:05 UTC
 .. previewimage: /images/digital_scholarship.png
-.. description: Overview of digital tools and workflows I use in my scholarly work, covering a range of actions from digitisation, annotation, referencing, plaintext authorship, storage and backup, to presentation and web presence. It includes workflows based on ScanTailor, OCR tools, Zotero, Diigo, Hypothesis, Markdown, Atom, Pandoc, Git, Reveal.js and Nikola.
+.. description: Overview of digital tools and workflows I use in my scholarly work, covering a range of actions from digitisation, annotation, referencing, plaintext authorship, storage and backup, to presentation and web presence. It includes workflows based on ScanTailor, OCR tools, Zotero, Diigo, Hypothesis, Markdown, Atom, Pandoc, Git, Reveal.js, reveal-md and Nikola.
 -->
 
 ---
-lead: This page covers digital tools and workflows that I use in my scholarly work, covering a range of actions from digitisation, annotation, referencing, plaintext authorship, storage and backup, to presentation and web presence. It includes workflows based on ScanTailor, OCR tools, Zotero, Diigo, Hypothesis, Markdown, Atom, Pandoc, Git, Reveal.js and Nikola. The approach builds on practices of shadow librarianship, plain text authorship and autonomy from platforms. While these workflows are particularly useful to scholars, they can be practical for anyone doing a lot of reading and writing.
+lead: This page covers digital tools and workflows that I use in my scholarly work, covering a range of actions from digitisation, annotation, referencing, plaintext authorship, storage and backup, to presentation and web presence. It includes workflows based on ScanTailor, OCR tools, Zotero, Diigo, Hypothesis, Markdown, Atom, Pandoc, Git, Reveal.js, reveal-md and Nikola. The approach builds on practices of shadow librarianship, plain text authorship and autonomy from platforms. While these workflows are particularly useful to scholars, they can be practical for anyone doing a lot of reading and writing.
 ---
 
 <script type="application/json" class="js-hypothesis-config">
@@ -40,11 +40,10 @@ lead: This page covers digital tools and workflows that I use in my scholarly wo
     - [Git, Gitlab and SparkleShare](#git-gitlab-and-sparkleshare)
     - [Backing-up the Zotero library](#backing-up-the-zotero-library)
 - [7) Presentations and website](#7-presentations-and-website)
-    - [Reveal.js](#revealjs)
+    - [Reveal.js and reveal-md](#reveal-js-and-reveal-md)
     - [Nikola](#nikola)
 
 <!-- /TOC -->
-
 
 When I started my PhD in early 2018, I decided to re-organise how I digitise, read, annotate and reference other people's texts - and how I write, revise and publish my own. Three reasons motivated me to do so. First, living now between two countries with a disability that limits my capacity to move around heavy loads of books, I decided to shift entirely to reading text on the screen. Second, I wanted to systematise my reading and writing workflows around simple standards that would be technologically maintainable over years and decades. Third, I needed a workflow that would allow me to easily re-format my texts for publishing in a variety of academic venues and on my own website.
 
@@ -161,7 +160,7 @@ A text written in Markdown plain text can be converted into a variety of formats
 
 ~~~~
 
-pandoc <document>.md --metadata-file=metadata.yml --bibliography=/home/<user>/.pandoc/bibliography/zotero_library.bib --csl=/home/<user>/.pandoc/csl/harvard.csl --reference-doc=/home/coyu3/.pandoc/custom-reference.docx -s -o <document>.docx
+pandoc <document>.md --metadata-file=metadata.yml --bibliography=/home/<user>/.pandoc/bibliography/zotero_library.bib --csl=/home/<user>/.pandoc/csl/harvard.csl --reference-doc=/home/<user>/.pandoc/custom-reference.docx -s -o <document>.docx
 
 ~~~~
 
@@ -265,31 +264,26 @@ Zotero is central to my reading workflow, and the Zotero library directory conta
 
 ## 7) Presentations and website
 
-To create slide presentations with Markdown, I use [Reveal.js](https://github.com/hakimel/reveal.js/) - a highly capable framework for creating presentations in HTML, developed initially by [Hakim el Hattab](https://hakim.se/), and offering slick features such as nested slides, fragments, speaker notes and PDF export. To create my website with Markdown, I use [Nikola](https://getnikola.com/) static web generator, developed by Roberto Alsina.
+To create slide presentations with Markdown, I use [reveal-md](https://github.com/webpro/reveal-md) - a Markdown-oriented fork of [Reveal.js](https://github.com/hakimel/reveal.js/). Reveal.js is a highly capable framework for creating presentations in HTML, developed initially by [Hakim el Hattab](https://hakim.se/), and offering slick features such as nested slides, fragments, speaker notes and PDF export. To create my website with Markdown, I use [Nikola](https://getnikola.com/) static web generator, developed by Roberto Alsina.
 
-#### Reveal.js
+#### Reveal-js and reveal-md
 
 You can download and install Reveal.js from its [GitHub repository](https://github.com/hakimel/reveal.js/). Reveal.js slides can be written directly into the `index.html` file, either using HTML markup or Markdown. However, Reveal.js can load external Markdown files, a feature I find much more convenient for my workflow. It allows me to quickly transform the text of my talk that I have already written in Markdown into a slide show or conversely write my text as slide notes.
 
-To create a presentation, in the `index.html` file I first enter metadata such as author and title, paths to stylesheets that will be used to render the presentation (Reveal.js comes with a number of nice themes), and most importantly the path to the Markdown file and the separators that I will use for horizontal and vertical slides:
+Reveal-md streamlines the integration of Reveal.js and external Markdown files. To install reveal-md follow the instructions on its [Github page](https://github.com/webpro/reveal-md). To create a presentation from my Markdown presentation document, I typically execute the following line from the folder where I hold my Markdown presentation file, the images it links to and my custom style-sheet files:
 
 ~~~~
 
-<div class="slides">
-  <!-- Use external markdown resource, separate slides by three newlines; vertical slides by two newlines -->
-  <section data-markdown="technologies_and_ecological_transition.md"
-           data-separator="!---!"
-           data-separator-vertical="!--!"
-           data-notes="Note:">
-  </section>
-</div>
+reveal-md technologies_and_eclogical_transition.md --vertical-separator "\n--\n" --css black_custom.css
 
 ~~~~
 
-Now I can write my presentation in the `technologies_and_eclogical_transition.md` file. A typical slide segment has the following structure:
+By defining a vertical separator (in my case, two line breaks around two dashes), I enable nested slides. I also indicate a custom CSS file built from one of Reveal.js themes, but if you omit this option, it will use the default black theme - or you can use the option `--theme` to chose one of the other themes provided in the installation.
+
+My presentation I have written in the `technologies_and_eclogical_transition.md` file. A typical slide segment has the following structure:
 
 ~~~~
-!---!
+---
 
 # modeling the human needs within planetary boundaries
 
@@ -299,12 +293,20 @@ Now I can write my presentation in the `technologies_and_eclogical_transition.md
 
 Note: all economic processes are drawing on living matter, materials and energy from nature, transforming them from a more ordered state into a less ordered state, from a more usable condition to a less usable condition.
 
-!--!
+--
 ~~~~
 
-In this example, `!---!` is a separator for vertical slides and `!--!` for horizontal slides. `#` defines the heading, `Note:` my slide note. Slide segments typically combine Markdown and HTML syntax, at least to link to images, which I place into the presentation directory.
+Here `---` is the default separator for horizontal slides and `--` for vertical, i.e. nested slides that I have defined when executing my command. `#` defines the heading, `Note:` my slide note. Slide segments typically combine Markdown and HTML syntax, particularly when better control over the size of fonts and images is called for.
 
-I also tend to tweak the existing behaviour and themes to suit my preferences, for instance, by assigning in the `index.html` file an absolute position on the slide for Heading 1 content.
+Reveal-md can also print slides to PDF:
+
+~~~~
+
+reveal-md technologies_and_eclogical_transition.md --vertical-separator "\n--\n" --css black_custom.css --print /tmp/test.pdf
+
+~~~~
+
+Reveal-md can be run from a Docker, generate a static website, and do a number of other things that are best explored on its [Github page](https://github.com/webpro/reveal-md).  
 
 #### Nikola
 
