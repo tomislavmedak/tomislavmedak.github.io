@@ -116,6 +116,7 @@
 <a href="#4-formatting-and-publishing">4) Formatting and publishing</a>
 <ul>
 <li><a href="#pandoc">Pandoc</a></li>
+<li><a href="#pandoc-graphic-user-interface">Pandoc graphic user interface</a></li>
 <li><a href="#citation-style-language-files">Citation style language files</a></li>
 </ul>
 </li>
@@ -229,6 +230,8 @@ abstract: |
 &lt;span custom-style=“Keywords”&gt;**Keywords:** postdigital, digital economy, technocapitalism, liberal capitalist hegemony, the far-right&lt;/span&gt;
 </code></pre>
 <p>Pandoc generates PDF files using LaTeX and depends on a PDF engine installed on your system. The default LaTeX template produces beautiful PDFs. Plain HTML output, however, will be bare-bones and will require CSS or HTML5 templates to define the layout of the webpage. For more complex documents and uses, a good starting point is a repository with <a href="https://github.com/jgm/pandoc/wiki/User-contributed-templates">user-contributed Pandoc templates</a>.</p>
+<h4 id="pandoc-graphic-user-interface">Pandoc graphic user interface</h4>
+<p>Pandoc is a command line tool. However, very few computer users nowadays know their way around command line. To make Pandoc to a wider range of users <a href="https://github.com/jgm/pandoc/wiki/Pandoc-wrappers-and-interfaces">a number of GUIs for Pandoc</a> were developed. The most robust graphic user interface as of this writing seems to be the web-based <a href="https://typademic.ch/">Typademic</a> created by Moritz Mähr. In order to convert your Markdown writing into another format, you just need to upload your Markdown text files, your images, your <code>.bib</code> file and your <code>.csl</code> (see the next section), and Typademic will output your text into either a <code>.docx</code> or <code>.pdf</code> format, using Pandoc’s default templates.</p>
 <h4 id="citation-style-language-files">Citation style language files</h4>
 <p>Markdown syntax for citation is <code>[@citationkey]</code>. Pandoc-citeproc will use the specified <code>.bib</code> file and citation format file to output citations and a bibliography in the desired form. Almost 10.000 <code>.csl</code> files for various referencing standards and publications-specific styles can be downloaded from the <a href="https://www.zotero.org/styles">Zotero Style Repository</a>. If your book or journal editor doesn’t have a <code>.csl</code> file, you can try to detect what style the publication uses at the <a href="https://editor.citationstyles.org/">Citation Style Language project</a>. If it only approximates a style, you can edit an existing style to build a <code>.csl</code> file that matches the publication’s style.</p>
 <h2 id="revising">5) Revising</h2>
