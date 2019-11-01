@@ -90,14 +90,14 @@
 
 </script><script src="https://hypothes.is/embed.js" async></script><!-- TOC --><ul>
 <li>
-<a href="#1-digitising">1) Digitising</a>
+<a href="#digitising">1) Digitising</a>
 <ul>
 <li><a href="#scanning-and-creating-an-ocr-ed-pdf">Scanning and creating an OCR-ed PDF</a></li>
 <li><a href="#ocr-ing-a-non-ocr-ed-pdf">OCR-ing a non-OCR-ed PDF</a></li>
 </ul>
 </li>
 <li>
-<a href="#2-reference-management-and-annotation">2) Reference management and annotation</a>
+<a href="#reference-management-and-annotation">2) Reference management and annotation</a>
 <ul>
 <li><a href="#zotero">Zotero</a></li>
 <li><a href="#diigo-and-hypothesis">Diigo and Hypothesis</a></li>
@@ -105,7 +105,7 @@
 </ul>
 </li>
 <li>
-<a href="#3-writing">3) Writing</a>
+<a href="#writing">3) Writing</a>
 <ul>
 <li><a href="#markdown">Markdown</a></li>
 <li><a href="#atom">Atom</a></li>
@@ -113,23 +113,23 @@
 </ul>
 </li>
 <li>
-<a href="#4-formatting-and-publishing">4) Formatting and publishing</a>
+<a href="#formatting-and-publishing">4) Formatting and publishing</a>
 <ul>
 <li><a href="#pandoc">Pandoc</a></li>
 <li><a href="#pandoc-graphic-user-interface">Pandoc graphic user interface</a></li>
 <li><a href="#citation-style-language-files">Citation style language files</a></li>
 </ul>
 </li>
-<li><a href="#5-revising">5) Revising</a></li>
+<li><a href="#revising">5) Revising</a></li>
 <li>
-<a href="#6-naming-storing-and-backing-up-files">6) Naming, storing and backing-up files</a>
+<a href="#naming-storing-and-backing-up-files">6) Naming, storing and backing-up files</a>
 <ul>
 <li><a href="#git-gitlab-and-sparkleshare">Git, Gitlab and SparkleShare</a></li>
 <li><a href="#backing-up-the-zotero-library">Backing-up the Zotero library</a></li>
 </ul>
 </li>
 <li>
-<a href="#7-presentations-and-website">7) Presentations and website</a>
+<a href="#presentations-and-website">7) Presentations and website</a>
 <ul>
 <li><a href="#reveal-js-and-reveal-md">Reveal.js and reveal-md</a></li>
 <li><a href="#nikola">Nikola</a></li>
@@ -205,7 +205,7 @@
 <p><a href="https://pandoc.org/">Pandoc</a>, a free software tool developed by the philosopher of science <a href="https://johnmacfarlane.net/">John MacFarlane</a>, is a universal document converter that can translate between a large number of formats, including from Markdown plain text to fully formatted <code>.html</code>, <code>.docx</code> or <code>.pdf</code> documents - and back to Markdown. Pandoc can read syntax for front matter metadata, links, footnotes, tables, ordered lists, mathematical formulas and many other structural elements, and render them into beautifully styled documents. It also includes the <a href="http://hackage.haskell.org/package/pandoc-citeproc">pandoc-citeproc library</a>, which can automatically generate citations and a bibliography in Pandoc-rendered documents using the Citation Style Language (CSL) files.</p>
 <p><a href="https://pandoc.org/MANUAL.html">Pandoc manual</a> provides a detailed guide on how to use Pandoc. My baseline Pandoc command for conversion from an <code>.md</code> file to <code>.docx</code> file has the following structure:</p>
 <pre><code>
-pandoc &lt;document&gt;.md --metadata-file=metadata.yml --bibliography=/home/&lt;user&gt;/.pandoc/bibliography/zotero_library.bib --csl=/home/&lt;user&gt;/.pandoc/csl/harvard.csl --reference-doc=/home/&lt;user&gt;/.pandoc/custom-reference.docx -s -o &lt;document&gt;.docx
+pandoc &lt;document&gt;.md --metadata-file "/path/to/metadata.yml --bibliography "/path/to/zotero_library.bib" --csl "/path/to/harvard.csl" --reference-doc "/home/&lt;user&gt;/.pandoc/custom-reference.docx" -s -o &lt;document&gt;.docx
 </code></pre>
 <p>This will convert the <code>document.md</code> file, using my metadata YAML file, my Zotero library <code>.bib</code>, Harvard referencing style file and <code>custom-reference.docx</code> template, into a <code>document.docx</code> file (make sure to replace placeholder paths to files and file names with your own). Flag -s (or –standalone) produces an output that includes an appropriate header and footer, but the header and footer is already automatically included for some formats (including <code>.pdf</code>, <code>.docx</code> and <code>.odt</code>) and not for others (including HTML, LaTeX or <code>.rtf</code>). Flag -o indicates the output file.</p>
 <p>A separate YAML metadata file is a relatively recent feature and might not work in older versions of Pandoc. Instead, you can write a YAML metadata block at the top of your text Markdown file. In fact, this is what I tend to do. In a YAML block, you can define many items, such as the font family, <code>.csl</code> style file and <code>.bib</code> file that will be used with the document. I tend to include only the front matter and retain flexibility with format elements by specifying them only when outputting in Pandoc. A typical YAML block of my article has the following structure:</p>

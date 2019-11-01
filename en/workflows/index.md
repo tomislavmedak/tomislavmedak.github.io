@@ -21,26 +21,26 @@ lead: This page covers digital tools and workflows that I use in my scholarly wo
 
 <!-- TOC -->
 
-- [1) Digitising](#1-digitising)
+- [1) Digitising](#digitising)
     - [Scanning and creating an OCR-ed PDF](#scanning-and-creating-an-ocr-ed-pdf)
     - [OCR-ing a non-OCR-ed PDF](#ocr-ing-a-non-ocr-ed-pdf)
-- [2) Reference management and annotation](#2-reference-management-and-annotation)
+- [2) Reference management and annotation](#reference-management-and-annotation)
     - [Zotero](#zotero)
     - [Diigo and Hypothesis](#diigo-and-hypothesis)
     - [Annotated bibliography](#annotated-bibliography)
-- [3) Writing](#3-writing)
+- [3) Writing](#writing)
     - [Markdown](#markdown)
     - [Atom](#atom)
     - [Spell-checking, grammar and style](#spell-checking-grammar-and-style)
-- [4) Formatting and publishing](#4-formatting-and-publishing)
+- [4) Formatting and publishing](#formatting-and-publishing)
     - [Pandoc](#pandoc)
     - [Pandoc graphic user interface](#pandoc-graphic-user-interface)
     - [Citation style language files](#citation-style-language-files)
-- [5) Revising](#5-revising)
-- [6) Naming, storing and backing-up files](#6-naming-storing-and-backing-up-files)
+- [5) Revising](#revising)
+- [6) Naming, storing and backing-up files](#naming-storing-and-backing-up-files)
     - [Git, Gitlab and SparkleShare](#git-gitlab-and-sparkleshare)
     - [Backing-up the Zotero library](#backing-up-the-zotero-library)
-- [7) Presentations and website](#7-presentations-and-website)
+- [7) Presentations and website](#presentations-and-website)
     - [Reveal.js and reveal-md](#reveal-js-and-reveal-md)
     - [Nikola](#nikola)
 
@@ -161,7 +161,7 @@ A text written in Markdown plain text can be converted into a variety of formats
 
 ~~~~
 
-pandoc <document>.md --metadata-file=metadata.yml --bibliography=/home/<user>/.pandoc/bibliography/zotero_library.bib --csl=/home/<user>/.pandoc/csl/harvard.csl --reference-doc=/home/<user>/.pandoc/custom-reference.docx -s -o <document>.docx
+pandoc <document>.md --metadata-file "/path/to/metadata.yml --bibliography "/path/to/zotero_library.bib" --csl "/path/to/harvard.csl" --reference-doc "/home/<user>/.pandoc/custom-reference.docx" -s -o <document>.docx
 
 ~~~~
 

@@ -8,6 +8,14 @@
 
 Od 2001. godine surađujem s izvedbenim kolektivom [BADco.](http://badco.hr/). Naš rad spaja plesnu umjetnost, koreografiju kao proširenu praksu i eksperimentalnu dramaturgiju. Karakteristika naših radova je stalna destabilizacija teatarskog čina kao čina izvedbe, čina gledanja i čina komunikacije. Oni su orijentirani prema [kreiranju problema](https://skogen.pm/archive/2013/evolution-wont-be-televised/text/give-me-a-problem/), a ne jednoznačnom razumijevanju, uživljavanju i identifikaciji. Tijekom godina producirali smo preko 20 predstava, niz instalacija, filmova i vide, istraživačkih projekata i digitalnih alatki. Ovo je izbor radova u čijem sam nastajanju sudjelovao:
 
+**[rePUBLIKA U ORKESTRU](http://www.badco.hr/en/work/1/all#!republic)**, 2019
+
+![.](/images/republika_plakat.jpg){width=50%}
+
+**[Nemogući plesovi](http://www.badco.hr/en/work/1/all#!impossible-dances)**, 2019
+
+![photo: Tomislav Sporiš](/images/impossible_dances.jpg){width=50%}
+
 **[Ispravci ritma](http://badco.hr/hr/work/1/all#!correcting-rhythm)**, 2017.
 
 ![photo: Marko Ercegović](/images/correcting_rhythm.jpg){width=50%}

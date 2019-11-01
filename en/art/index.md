@@ -8,6 +8,14 @@
 
 Since 2001 I've been working with the Zagreb-based performative collective [BADco.](http://badco.hr/) Our work is drawing from contemporary dance, choreography as expanded practices and experimental dramaturgy. Its defining characteristic is an insistent desabilization of the theatrical act as an act of performance, an act of spectating and an act of communication. Our works are aimed at the [production of problems](https://skogen.pm/archive/2013/evolution-wont-be-televised/text/give-me-a-problem/), rather than at unequivocal understanding, immersion and identification. Over years we have created over 20 performances, a number of installation works, films and videos, research projects and digital tools. Here's a selection of those works that I have helped create:
 
+**[rePUBLIC IN THE ORCHESTRA PIT](http://www.badco.hr/en/work/1/all#!republic)**, 2019
+
+![.](/images/republika_plakat.jpg){width=50%}
+
+**[Impossible Dances](http://www.badco.hr/en/work/1/all#!impossible-dances)**, 2019
+
+![photo: Tomislav Sporiš](/images/impossible_dances.jpg){width=50%}
+
 **[Correcting Rhythm](http://badco.hr/en/work/1/all#!correcting-rhythm)**, 2017
 
 ![photo: Marko Ercegović](/images/correcting_rhythm.jpg){width=50%}
@@ -23,7 +31,6 @@ Since 2001 I've been working with the Zagreb-based performative collective [BADc
 **[TVolution will not be Televised](http://badco.hr/en/work/1/all#!tvolution)**, interactive installation, 2013
 
 ![photo: Tomislav Medak](/images/tvolution.jpg){width=50%}
-
 
 **[Nature Needs to be Constructed](http://badco.hr/en/work/1/all#!nature-needs-to-be-constructed)**,performative event, 2013
 
