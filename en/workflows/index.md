@@ -8,7 +8,7 @@
 -->
 
 ---
-lead: This page covers digital tools and workflows that I use in my scholarly work, covering a range of actions from digitisation, annotation, referencing, plaintext authorship, storage and backup, to presentation and web presence. It includes workflows based on ScanTailor, OCR tools, Zotero, Diigo, Hypothesis, Markdown, Atom, Pandoc, Git, Reveal.js, reveal-md and Nikola. The approach builds on practices of shadow librarianship, plain text authorship and autonomy from platforms. While these workflows are particularly useful to scholars, they can be practical for anyone doing a lot of reading and writing.
+lead: This document covers digital tools and workflows that I use in my scholarly work, covering a range of actions from digitisation, annotation, referencing, plaintext authorship, storage and backup, to presentation and web presence. It includes workflows based on ScanTailor, OCR tools, Zotero, Diigo, Hypothesis, Markdown, Atom, Pandoc, Git, Reveal.js, reveal-md and Nikola. The approach builds on practices of shadow librarianship, plain text authorship and autonomy from platforms. While these workflows are particularly useful to scholars, they can be practical for anyone doing a lot of reading and writing.
 ---
 
 <script type="application/json" class="js-hypothesis-config">
@@ -263,7 +263,7 @@ git clone https://gitlab.com/USERNAME/PROJECT-NAME.git
 
 You can automate this process by using [SparkeShare](https://www.sparkleshare.org/), a git-based file-sharing application, that acts in a similar way to cloud storage applications like Dropbox or Google Drive, but uses a version repository of your choice for storage. After you have set up [SparkleShare](https://opensource.com/article/19/4/file-sharing-git), it runs as a daemon in your system tray keeping your .git directories synced locally and remotely. Note that version repositories are not good for storing large files and directories, but plain text and images that I use in my work are small enough.
 
-### Backing-up the Zotero library
+#### Backing-up the Zotero library
 
 Zotero is central to my reading workflow, and the Zotero library directory contains annotated PDFs of almost everything I read. Its directory is both large and precious to me. Zotero.org account will back-up your references, but given the limited amount of storage offered by Zotero.org (300mb for free, up to 6GB under an inexpensive payment plan), I store a back-up of my Zotero library in the cloud using [rclone](https://rclone.org/), a command-line tool that lets you sync your local files and directories with a remote cloud destination. Although rclone has excellent documentation and assists in the setup through command line dialogues, there's also the [RcloneBrowser](https://martins.ninja/RcloneBrowser/) (a recent Ubuntu build can be found [here](https://www.ubuntuupdates.org/package/webupd8/bionic/main/base/rclone-browser)) that provides a graphical frontend for rclone.
 
