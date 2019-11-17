@@ -25,6 +25,8 @@ Zajedno s Marcellom Marsom: *System.hack()*. Multimedijalni institut,
 
 ***Tehnologija, ekologija, kapitalizam***
 
+[„Estetizacija tehnopolitike“](http://library.memoryoftheworld.org/#/book/369db1a9-d6f7-4d7e-8c92-0b4f4c37682c). u Filozofija je ženskog roda : Zbornik u čast Nadeždi Čačinovič. Zagreb: Filozofski fakultete Sveučilišta u Zagrebu, str. 67–87.
+
 Zajedno s Marcellom Marsom: ["Amazon.com: anatomija jedne dominacije"](https://www.bilten.org/?p=28562), *Bilten*, 31. srpnja 2019.
 
 Zajedno s Mladenom Domazetom: ["Povijest koja nam diše za vratom", pogovor hrvatskom prijevodu knjige Andreasa Malma *Fosilni kapital*, Fraktura, Zagreb, 2018.](http://ipe.hr/aktivnosti/povijest-koja-nam-dise-za-vratom/)

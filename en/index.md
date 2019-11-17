@@ -13,7 +13,9 @@ If you want to get in touch, my details can be found on the [contact page](/en/c
 
 <br>
 
-***Recent texts:***
+***Recent writing:***
+
+[„Estetizacija tehnopolitike“](http://library.memoryoftheworld.org/#/book/369db1a9-d6f7-4d7e-8c92-0b4f4c37682c). in Filozofija je ženskog roda : Zbornik u čast Nadeždi Čačinovič. Zagreb: Filozofski fakultet Sveučilišta u Zagrebu, pp. 67–87.
 
 Co-authored with Marcell Mars: ['System of a Takedown: Control and De-Commodification in the Circuits of Academic Publishing'](https://meson.press/books/archives/). In *Archives*, edited by Lison, A., University of Minnesota Press & meson.press, 2019, pp. 47–68.
 

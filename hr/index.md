@@ -16,7 +16,9 @@ Ako me želite kontaktirati, moji podaci su na [ovoj stranici](/en/contact/).
 
 ***Recentni tekstovi:***
 
-Zajedno s Marcellom Marsom: ["System of a Takedown: Control and De-Commodification in the Circuits of Academic Publishing"](https://meson.press/books/archives/). U *Archives*, uredio Andrew Lison, University of Minnesota Press & meson.press, 2019, pp. 47–68.
+[„Estetizacija tehnopolitike“](http://library.memoryoftheworld.org/#/book/369db1a9-d6f7-4d7e-8c92-0b4f4c37682c). u Filozofija je ženskog roda : Zbornik u čast Nadeždi Čačinovič. Zagreb: Filozofski fakultet Sveučilišta u Zagrebu, str. 67–87.
+
+Zajedno s Marcellom Marsom: ["System of a Takedown: Control and De-Commodification in the Circuits of Academic Publishing"](https://meson.press/books/archives/). U *Archives*, uredio Andrew Lison, University of Minnesota Press & meson.press, 2019, str. 47–68.
 
 Zajedno s Marcellom Marsom: ["Amazon.com: anatomija jedne dominacije"](https://www.bilten.org/?p=28562), *Bilten*, 31. srpnja 2019.
 
