@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tomislav Medak</title><link>http://tom.medak.click/</link><description>This website features some of Tomislav Medak's work.</description><atom:link href="http://tom.medak.click/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2019 &lt;a href="mailto:tomislavmedak@gmail.com"&gt;Tomislav Medak&lt;/a&gt; </copyright><lastBuildDate>Wed, 04 Dec 2019 19:25:15 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Izboriti se za vrijeme slobodno od proizvodnje</title><link>http://tom.medak.click/posts/kulturpunkt/</link><dc:creator>Tomislav Medak</dc:creator><description>&lt;p class="before_authors"&gt;&lt;/p&gt;
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tomislav Medak</title><link>http://tom.medak.click/</link><description>This website features some of Tomislav Medak's work.</description><atom:link href="http://tom.medak.click/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2019 &lt;a href="mailto:tomislavmedak@gmail.com"&gt;Tomislav Medak&lt;/a&gt; </copyright><lastBuildDate>Wed, 04 Dec 2019 19:30:04 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Izboriti se za vrijeme slobodno od proizvodnje</title><link>http://tom.medak.click/posts/kulturpunkt/</link><dc:creator>Tomislav Medak</dc:creator><description>&lt;p class="before_authors"&gt;&lt;/p&gt;
 
 
 &lt;p class="after_authors"&gt;&lt;/p&gt;
@@ -12,7 +12,7 @@
 .. layout: post
 .. date: 2019-12-04 17:48:00 UTC
 .. previewimage: /images/standing_rock.jpg
-.. description: Intervju koji je Petra Ivšić vodila s Tomislavom Medakom za portal Kulturpunkt na temu planetarne ekološke krize, tehnologija, odrasta i održivog društva budućnosti.
+.. description: Intervju koji je Petra Ivšić vodila s Tomislavom Medakom za portal Kulturpunkt.hr na temu planetarne ekološke krize, tehnologija, odrasta i održivog društva budućnosti.
 --&gt;
 &lt;figure&gt;
 &lt;img src="http://tom.medak.click/images/standing_rock.jpg" alt=""&gt;&lt;figcaption&gt;Otpor projektu izgradnje naftovoda Dakota Access Pipeline na Standing Rock rezervatu Lakota Oyate i Dakota Oyate naroda&lt;/figcaption&gt;

@@ -25,3 +25,7 @@ Zajedno s Marcellom Marsom: ["Amazon.com: anatomija jedne dominacije"](https://w
 Zajedno s Marcellom Marsom: ["Against innovation: Compromised institutional agency and acts of custodianship"](http://www.ephemerajournal.org/contribution/against-innovation-compromised-institutional-agency-and-acts-custodianship). U *Ephemera - Theory and Politics in Organisation* 19 (2), 345–368, tematski broj 'Repair matters', uredile Valeria Graziano and Kim Torgal.
 
 Zajedno s Valerijom Graziano and Marcellom Marsom: ["Learning from #Syllabus"](https://issuu.com/instituteofnetworkcultures/docs/statemachines_v14_zondermarks/115). U *State Machines: Reflections and Actions at the Edge of Digital Citizenship, Finance, and Art*, uredili Yiannis Colakides, Mark Garrett i Inte Gloerich, Institute for Network Cultures, 2019, str. 115-128.
+
+***Blog:***
+
+[Izboriti se za vrijeme slobodno od proizvodnje](/posts/kulturpunkt/), intervju za Kulturpunkt.hr, 29. studenog 2019.

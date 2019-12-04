@@ -3,7 +3,7 @@
 .. layout: post
 .. date: 2019-12-04 17:48:00 UTC
 .. previewimage: /images/standing_rock.jpg
-.. description: Intervju koji je Petra Ivšić vodila s Tomislavom Medakom za portal Kulturpunkt na temu planetarne ekološke krize, tehnologija, odrasta i održivog društva budućnosti.
+.. description: Intervju koji je Petra Ivšić vodila s Tomislavom Medakom za portal Kulturpunkt.hr na temu planetarne ekološke krize, tehnologija, odrasta i održivog društva budućnosti.
 -->
 
 ![Otpor projektu izgradnje naftovoda Dakota Access Pipeline na Standing Rock rezervatu Lakota Oyate i Dakota Oyate naroda](/images/standing_rock.jpg)
