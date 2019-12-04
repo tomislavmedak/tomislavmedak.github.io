@@ -19,7 +19,7 @@
  </url>
  <url>
   <loc>http://tom.medak.click/archive.html</loc>
-  <lastmod>2019-10-29T13:41:00Z</lastmod>
+  <lastmod>2019-12-04T18:21:00Z</lastmod>
  </url>
  <url>
   <loc>http://tom.medak.click/blog/</loc>
@@ -168,5 +168,17 @@
  <url>
   <loc>http://tom.medak.click/posts/amazonia/</loc>
   <lastmod>2019-08-24T15:16:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://tom.medak.click/posts/kulturpunkt/</loc>
+  <lastmod>2019-12-04T18:19:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://tom.medak.click/posts/paper-struggles/</loc>
+  <lastmod>2019-11-27T16:09:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://tom.medak.click/posts/paper_struggles_public_library/</loc>
+  <lastmod>2019-11-27T16:13:00Z</lastmod>
  </url>
 </urlset>
