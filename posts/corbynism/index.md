@@ -1,5 +1,5 @@
 <!--
-.. title: The Legacy of Corbynism, from
+.. title: The Legacy of Corbynism, from a Croatian Perspective
 .. layout: post
 .. date: 2019-12-31 18:48:00 UTC
 .. previewimage: /images/labour.png
