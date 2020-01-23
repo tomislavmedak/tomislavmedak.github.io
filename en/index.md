@@ -13,6 +13,10 @@ If you want to get in touch, my details can be found on the [contact page](/en/c
 
 <br>
 
+***Digital scholarship workflows:***
+
+[Overview of digital tools and workflows](/en/workflows/) I use in my scholarly work, covering activities ranging from digitisation, annotation, referencing, plaintext authorship, storage and backup, to presentation and web presence. It includes workflows with ScanTailor, OCR-ing, Zotero, Diigo, Hypothesis, Markdown, Atom, Pandoc, Git, Reveal.js and Nikola.
+
 ***Recent writing:***
 
 [„Estetizacija tehnopolitike“](http://library.memoryoftheworld.org/#/book/369db1a9-d6f7-4d7e-8c92-0b4f4c37682c). in Filozofija je ženskog roda : Zbornik u čast Nadeždi Čačinovič. Zagreb: Filozofski fakultet Sveučilišta u Zagrebu, pp. 67–87.
@@ -25,11 +29,6 @@ Co-authored with Marcell Mars: ['Against innovation: Compromised institutional a
 
 Co-authored with Valeria Graziano and Marcell Mars: ['Learning from #Syllabus'](https://issuu.com/instituteofnetworkcultures/docs/statemachines_v14_zondermarks/115). In *State Machines: Reflections and Actions at the Edge of Digital Citizenship, Finance, and Art*, edited by Yiannis Colakides, Mark Garrett, and Inte Gloerich, Institute for Network Cultures, 2019, pp. 115-128.
 
-
-***Digital scholarship workflows***:
-
-[Overview of digital tools and workflows](/en/workflows/) I use in my scholarly work, covering activities ranging from digitisation, annotation, referencing, plaintext authorship, storage and backup, to presentation and web presence. It includes workflows with ScanTailor, OCR-ing, Zotero, Diigo, Hypothesis, Markdown, Atom, Pandoc, Git, Reveal.js and Nikola.
-
-***Blog posts***:
+***Blog posts:***
 
 ['Amazonia on Fire: Extractive Frontierism & Armed Lifeboat Politics'](/posts/amazonia/), August 8th, 2019.
