@@ -19,16 +19,16 @@ If you want to get in touch, my details can be found on the [contact page](/en/c
 
 ***Recent writing:***
 
-[„Estetizacija tehnopolitike“](http://library.memoryoftheworld.org/#/book/369db1a9-d6f7-4d7e-8c92-0b4f4c37682c). in Filozofija je ženskog roda : Zbornik u čast Nadeždi Čačinovič. Zagreb: Filozofski fakultet Sveučilišta u Zagrebu, pp. 67–87.
+Co-authored with Mladen Domazet and Andro Rilović: [‘Degrowth’](http://www.sciencedirect.com/science/article/pii/B9780124095489120810). In *Reference Module in Earth Systems and Environmental Sciences*, Elsevier, 2019.
 
 Co-authored with Marcell Mars: ['System of a Takedown: Control and De-Commodification in the Circuits of Academic Publishing'](https://meson.press/books/archives/). In *Archives*, edited by Lison, A., University of Minnesota Press & meson.press, 2019, pp. 47–68.
-
-Co-authored with Marcell Mars: ['Amazon.com: anatomija jedne dominacije'](https://www.bilten.org/?p=28562), *Bilten*, July 31, 2019.
 
 Co-authored with Marcell Mars: ['Against innovation: Compromised institutional agency and acts of custodianship'](http://www.ephemerajournal.org/contribution/against-innovation-compromised-institutional-agency-and-acts-custodianship). In *Ephemera - Theory and Politics in Organisation* 19 (2), 345–368, special issue on 'Repair matters', edited by Valeria Graziano and Kim Torgal.
 
 Co-authored with Valeria Graziano and Marcell Mars: ['Learning from #Syllabus'](https://issuu.com/instituteofnetworkcultures/docs/statemachines_v14_zondermarks/115). In *State Machines: Reflections and Actions at the Edge of Digital Citizenship, Finance, and Art*, edited by Yiannis Colakides, Mark Garrett, and Inte Gloerich, Institute for Network Cultures, 2019, pp. 115-128.
 
 ***Blog posts:***
+
+['The Legacy of Corbynism, from a Croatian Perspective'](/posts/corbynism/), December 31, 2019.
 
 ['Amazonia on Fire: Extractive Frontierism & Armed Lifeboat Politics'](/posts/amazonia/), August 8th, 2019.
