@@ -19,7 +19,7 @@
  </url>
  <url>
   <loc>http://tom.medak.click/archive.html</loc>
-  <lastmod>2019-12-31T19:04:00Z</lastmod>
+  <lastmod>2020-02-24T11:20:00Z</lastmod>
  </url>
  <url>
   <loc>http://tom.medak.click/blog/</loc>
@@ -27,7 +27,11 @@
  </url>
  <url>
   <loc>http://tom.medak.click/categories/</loc>
-  <lastmod>2018-02-16T23:57:00Z</lastmod>
+  <lastmod>2020-02-24T11:20:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://tom.medak.click/categories/cat_posts/</loc>
+  <lastmod>2020-02-24T11:20:00Z</lastmod>
  </url>
  <url>
   <loc>http://tom.medak.click/en/</loc>
@@ -172,6 +176,10 @@
  <url>
   <loc>http://tom.medak.click/posts/corbynism/</loc>
   <lastmod>2019-12-31T19:04:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://tom.medak.click/posts/disability/</loc>
+  <lastmod>2020-02-24T11:20:00Z</lastmod>
  </url>
  <url>
   <loc>http://tom.medak.click/posts/kulturpunkt/</loc>
