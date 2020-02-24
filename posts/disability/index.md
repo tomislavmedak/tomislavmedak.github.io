@@ -8,7 +8,7 @@
 
 *A reflection in response to the harrowing [video of Quaden Bayles](https://www.youtube.com/watch?v=VgCjJmdYNIE), a nine year old aboriginal boy with achondroplasia dwarfism, who has been repeatedly subject to bullying at school and wants to kill himself.*
 
-![A photo of me at the age of 7 or 8, my congenital condition similar to Quaden's](/images/pseudoachondroplasia.jpg)
+![A photo of me at the age of 7 or 8, I have a congenital condition similar to Quaden's.](/images/pseudoachondroplasia.jpg)
 
 It's pseudo achondroplasia dwarfism in my case. I can't recall ever being bullied in school on account of my dwarfism (or for any other reason). I always had one or more designate classmates to help me out, classes were organised in accessible classrooms, and schools did their best to accommodate my impairments in many different ways, ways that in some respects seem unthinkable today -- most radically the socialist social and disability security system provided dedicated private transport to take me to school and back (luxury communism, eh?). A lot was done to socialise my condition both institutionally and among my peers.
 
