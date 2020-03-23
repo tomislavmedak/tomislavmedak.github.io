@@ -1,7 +1,7 @@
 <!--
-.. title: Breaking the Camel's Back: When an Earthquake and a Pandemic Converge
+.. title: "Breaking the Camel's Back: When an Earthquake and a Pandemic Converge"
 .. layout: post
-.. date: 2020-03-23 09:07:00 UTC
+.. date: 2020-03-23 08:07:00 UTC
 .. previewimage: /images/earthquake_zagreb.png
 .. description: On March 22nd Zagreb was hit by a major earthquake amid the Cornavirus lockdown. Here are my thoughts to make sense of it. Of both the earthquake and the pandemic.
 -->
