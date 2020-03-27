@@ -6,14 +6,25 @@
 .. description: Texts, journal articles, books and chapters authored by Tomislav Medak on technology, post-capitalist transition, environmental crisis, art and disability.
 -->
 
-## Books:
+<!-- TOC -->
+
+- [Books](#books)
+- [Edited Volumes](#edited-volumes)
+- [Book chapters, peer-reviewed articles and interviews](#book-chapters-peer-reviewed-articles-and-interviews)
+  - [Technology, ecology, capitalism](#technology-ecology-capitalism)
+  - [Shadow libraries, access to knowledge, hacktivism](#shadow-libraries-access-to-knowledge-hacktivism)
+  - [Social movements and politics](#social-movements-and-politics)
+
+<!-- /TOC -->
+
+## Books
 
 *The Hard Matter of Abstraction - A Guidebook to Domination by
 Abstraction*. Organon 1, [V\_\_\_\_\_erlag für Handbücher](http://www.verlagfürhandbücher.de/thehardmatterofabstraction/index.php?1110), 2016.
 
 *Shit Tech for a Shitty World*. Aksioma - Institute for Contemporary Art, 2016. [🔗 PDF at Aksioma](http://aksioma.org/Tomislav-Medak-Shit-Tech-for-a)
 
-## Edited Volumes:
+## Edited Volumes
 
 Co-edited with Marcell Mars: *Guerrilla Open Access*. Post Office Press & Memory of the World, 2018. [🔗 PDF and source files at Humanities Commons](https://hcommons.org/deposits/item/hc:19825/)
 
@@ -35,15 +46,17 @@ Co-edited with Marcell Mars: *System.Hack() - Table of Contents*.
 Multimedia Institute, 2006.
 [🔗 PDF at Monoskop](https://monoskop.org/images/f/fd/System.hack_catalogue.pdf/)
 
-##  Book chapters, articles, interviews & talks:
+##  Book chapters, peer-reviewed articles and interviews
 
-***Technology, ecology, capitalism***
+### Technology, ecology, capitalism
+
+Co-authored with Mladen Domazet and Andro Rilović: [‘Degrowth’](http://www.sciencedirect.com/science/article/pii/B9780124095489120810). In *Reference Module in Earth Systems and Environmental Sciences*, Elsevier, 2019.
 
 [‘Technologies for an Ecological Transition: A Faustian Bargain?’](/en/ecotech/). *Materialism and the Critique of Energy*, edited by Brent Ryan Bellamy
 et al., M-C-M’ Press, 2018., [🔗 PDF at M-C-M’ Press](http://www.mcmprime.com/books/marxism-and-energy) previously published as a working paper,
 Institute for Political Ecology, 2017. [🔗 PDF at IPE](http://ipe.hr/wp-content/uploads/2017/11/Technologies-for-an-Ecological-Transition-A-Faustian-Bargain-1.pdf).
 
-***Shadow libraries, access to knowledge, hacktivism***
+### Shadow libraries, access to knowledge, hacktivism
 
 Co-authored with Marcell Mars: [‘System of a Takedown: Control and De-Commodification in the Circuits of Academic Publishing’](https://meson.press/books/archives/). In *Archives*, edited Andrew Lison, University of Minnesota Press & meson.press, 2019, pp. 47–68.
 
@@ -97,6 +110,6 @@ Contemporary Art, 2006, pp. 135–40.
 ‘Energy and Emergence: On Some Problems of Contemporary Artistic
 Strategies’. *Frakcija - Performing Arts Journal*, no. 19, 2001, p. 16.
 
-***Social movements and politics***
+### Social movements and politics
 
 [‘Civil Society and Political Work on the Left‘](/en/the_left/). A talk delivered at the conference Predicaments of the Left in Zagreb, 2013.

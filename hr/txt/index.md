@@ -6,6 +6,18 @@
 .. description: Tekstovi, članci, knjige i poglavlja Tomislava Medaka o tehnologijama, postkapitalističkoj tranziciji, ekološkoj krizi, umjetnosti i invaliditetu.
 -->
 
+<!-- TOC -->
+
+- [Knjige:](#knjige)
+- [Urednički rad:](#uredni%C4%8Dki-rad)
+- [Poglavlja, ogledi i članci:](#poglavlja-ogledi-i-%C4%8Dlanci)
+  - [Tehnologija, ekologija, kapitalizam](#tehnologija-ekologija-kapitalizam)
+  - [Knjižnice iz sjene, dostupnost znanja, haktivizam](#knji%C5%BEnice-iz-sjene-dostupnost-znanja-haktivizam)
+  - [Umjetnost, kultura, kulturni aktivizam](#umjetnost-kultura-kulturni-aktivizam)
+  - [Društvo, društveni pokreti, politika](#dru%C5%A1tvo-dru%C5%A1tveni-pokreti-politika)
+
+<!-- /TOC -->
+
 ## Knjige:
 
 *The Hard Matter of Abstraction - A Guidebook to Domination by
@@ -21,9 +33,9 @@ institut & Arkzin, 2013. [🔗 PDF na Monoskopu](https://monoskop.org/images/0/0
 Zajedno s Marcellom Marsom: *System.hack()*. Multimedijalni institut,
 2006. [🔗 PDF na Monoskopu](https://monoskop.org/images/f/fd/System.hack_catalogue.pdf/)
 
-## Ogledi, članci i predavanja:
+## Poglavlja, ogledi i članci:
 
-***Tehnologija, ekologija, kapitalizam***
+### Tehnologija, ekologija, kapitalizam
 
 [„Estetizacija tehnopolitike“](http://library.memoryoftheworld.org/#/book/369db1a9-d6f7-4d7e-8c92-0b4f4c37682c). u Filozofija je ženskog roda : Zbornik u čast Nadeždi Čačinovič. Zagreb: Filozofski fakultete Sveučilišta u Zagrebu, str. 67–87.
 
@@ -48,7 +60,7 @@ Intervju: "Tehnooptimizam na staklenim nogama", *Slobodni filozofski*. 21. prosi
 
 "Novi mediji, stari kapitalizam", *Bilten*. 18. travanj 2014. [🔗](http://www.bilten.org/?p=514)
 
-***Knjižnice iz sjene, dostupnost znanja, haktivizam***
+### Knjižnice iz sjene, dostupnost znanja, haktivizam
 
 [„Budućnosti iz knjižnice: Radikalne geste UbuWeba i Monoskopa“](/hr/ubu_monoskop/). *Javna
 knjižnica*, Što, kako i za koga/WHW & Multimedijalni institut, 2015,
@@ -57,7 +69,7 @@ str. 51–66. [🔗 PDF na Memory of the World](http://library.memoryoftheworld.
 „System.hack(1,“elektronski mediji”,“Orson Welles - Rat svjetova”)“.
 *System.hack()*, Multimedijalni institut, 2006, str. 3–8. [🔗 PDF na Monoskopu](https://monoskop.org/images/f/fd/System.hack_catalogue.pdf/)
 
-***Umjetnost, kultura, kulturni aktivizam***
+### Umjetnost, kultura, kulturni aktivizam
 
 [„Narušeni ritam i analitička opsesija“](/hr/ritam/). *BADco.: Ispravci ritma
 (programska knjiga predstave)*, uredila Ivana Ivković, Hrvatsko narodno
@@ -77,7 +89,7 @@ Mirand Jakiša, Drugo more, 2013, str. 44–50.
 „Otvorene institucije i reforma kulturnog sistema“. *Frakcija -
 Performing Arts Journal*, izd. 60–61, prosinac 2011., str. 50–54.
 
-***Društvo, društveni pokreti, politika***
+### Društvo, društveni pokreti, politika
 
 ['Na ulicama Francuske povijest anticipira budućnost']((http://www.noviplamen.net/glavna/na-ulicama-francuske-povijest-anticipira-buducnost/), *Novi plamen*, 20. prosinca 2018.]
 

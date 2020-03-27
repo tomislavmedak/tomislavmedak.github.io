@@ -2,15 +2,15 @@
 .. title: Dobrodošli na moje web stranice.
 .. author: Tomislav Medak
 .. date: 2018-02-05 19:52:05 UTC
-.. description: Tomislav Medak, osobne mrežne stranice s tekstovima, umjetničkim radovima, biografijom i kontaktom.
+.. description: Tomislav Medak, osobne mrežne stranice s tekstovima, umjetničkim radovima, biografijom, blogom i kontaktom.
 -->
 
-Odnedavno sam doktorand pri [Centru za postdigitalne kulture](http://www.coventry.ac.uk/research/areas-of-research/postdigital-cultures/) na Sveučilištu u Coventryju. Član sam teorijskog i izdavačkog tima
-[Multimedijalnog instituta](http://www.mi2.hr/), knjižničar-amater projekata [Memory of the World/Javna knjižnica](https://memoryoftheworld.org/) i [Piratska skrb](https://pirate.care) te dio izvedbene skupine [BADco](http://badco.hr/). Moje djelovanje je primarno vođeno radom tih kolektiva.
+Doktorand sam pri [Centru za postdigitalne kulture](http://www.coventry.ac.uk/research/areas-of-research/postdigital-cultures/) na Sveučilištu u Coventryju. Član sam teorijskog i izdavačkog tima
+[Multimedijalnog instituta](http://www.mi2.hr/), knjižničar-amater projekata [Memory of the World](https://memoryoftheworld.org/) i [Piratska skrb](https://pirate.care), te umjetnik u izvedbene skupine [BADco](http://badco.hr/). Moje djelovanje je primarno vođeno radom tih kolektiva.
 
-U istraživačkom radu bavim se pitanjima tehnologija, kapitalističkog razvoja i postkapitalističke tranzicije, s posebnim fokusom na pitanjima intelektualnog vlasništva, znansosti i klimatskih promjena. Povremeno pišem i držim izlaganja o kazalištu, plesu i politici. Na ovim stranicama naći ćete moje tekstove, informacije o umjetničkom radu s BADco. i profesionalnu biografiju.
+U istraživačkom radu bavim se pitanjima tehnologija, kapitalističkog razvoja i postkapitalističke tranzicije, s posebnim fokusom na temama planetarne ekološke krize, tehnologije i znanosti te intelektualnog vlasništva. Povremeno pišem i držim izlaganja o kazalištu, plesu, invaliditetu i politici. Na ovim stranicama naći ćete moje tekstove, informacije o umjetničkom radu s BADco., profesionalnu biografiju i blog. Linkovi na lijevoj strani vode na njih, a niže je izbor najrecentnijeg i najvažnijeg.
 
-Ako me želite kontaktirati, moji podaci su na [ovoj stranici](/en/contact/).
+Ako me želite kontaktirati, moji podaci su na [kontaktnoj stranici](/en/contact/).
 
 <br>
 
@@ -26,7 +26,7 @@ Zajedno s Marcellom Marsom: ["Against innovation: Compromised institutional agen
 
 Zajedno s Valerijom Graziano and Marcellom Marsom: ["Learning from #Syllabus"](https://issuu.com/instituteofnetworkcultures/docs/statemachines_v14_zondermarks/115). U *State Machines: Reflections and Actions at the Edge of Digital Citizenship, Finance, and Art*, uredili Yiannis Colakides, Mark Garrett i Inte Gloerich, Institute for Network Cultures, 2019, str. 115-128.
 
-***Recentne objave na blogu:***
+***Recentni intervjui i objave na blogu:***
 
 [Čemu nas uči pandemija koronavirusa?](/posts/h-alter/), intervju za H-alter, 26. ožujka 2020.
 

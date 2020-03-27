@@ -7,18 +7,18 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
   <loc>http://tom.medak.click/categories/cat_posts.xml</loc>
-  <lastmod>2020-03-27T08:05:00Z</lastmod>
+  <lastmod>2020-03-27T08:08:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://tom.medak.click/galleries/rss.xml</loc>
-  <lastmod>2020-02-24T11:20:00Z</lastmod>
+  <lastmod>2020-03-27T22:26:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://tom.medak.click/rss.xml</loc>
-  <lastmod>2020-03-27T08:05:00Z</lastmod>
+  <lastmod>2020-03-27T08:08:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://tom.medak.click/sitemap.xml</loc>
-  <lastmod>2020-03-27T08:05:00Z</lastmod>
+  <lastmod>2020-03-27T22:26:00Z</lastmod>
  </sitemap>
 </sitemapindex>

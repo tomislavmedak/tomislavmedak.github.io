@@ -2,12 +2,12 @@
 .. title: ¡Hola compañera/-o!
 .. author: Tomislav Medak
 .. date: 2018-02-05 19:52:05 UTC
-.. description: This is Tomislav Medak's website. Here you'll find his writing, artistic work, biography and contact.
+.. description: This is Tomislav Medak's website. Here you'll find his writing, artistic work, biography, blog and contact.
 -->
 
-I am a PhD researcher at the Coventry Unversity's [Centre for Postdigital Cultures](http://www.coventry.ac.uk/research/areas-of-research/postdigital-cultures/). I am also a part of the theory and publishing team of [Multimedia Institute/MAMA](http://www.mi2.hr/en/), a member of the performing arts collective [BADco](http://badco.hr/), and an amateur librarian for the [Memory of the World/Public library](https://memoryoftheworld.org/) & [Pirate Care](https://pirate.care) projects. What I do is mostly defined by the activities of those collective endeavors.
+I am a PhD researcher at the Coventry Unversity's [Centre for Postdigital Cultures](http://www.coventry.ac.uk/research/areas-of-research/postdigital-cultures/). I am also a part of the theory and publishing team of [Multimedia Institute/MAMA](http://www.mi2.hr/en/), an amateur librarian for the [Memory of the World](https://memoryoftheworld.org/) & [Pirate Care](https://pirate.care) initiatives, and a member of the performing arts collective [BADco](http://badco.hr/). What I do is mostly defined by these collective endeavors.
 
-My research interests are in technology, capitalist development and post-capitalist transition, with a particular focus on intellectual property, techno-science and environmental crisis. I approach these from a Marxian perspective. Sometimes I also write and present on theatre, dance and politics. In these pages you will find my writings, information on my artistic work and my biography. Links in the sidebar will lead you there.
+My research interests are in technology, capitalist development and post-capitalist transition, with a particular focus on planetary ecological crisis, techno-science and intellectual property. I approach these from a Marxian and Degrowth perspective. Sometimes I also present and write on theatre, dance, disability and politics. In these pages you will find my writings, information on my artistic work, my biography and my blog. Links in the sidebar will lead you there, but the most relevant and recent is selected below.
 
 If you want to get in touch, my details can be found on the [contact page](/en/contact/).
 
@@ -15,7 +15,7 @@ If you want to get in touch, my details can be found on the [contact page](/en/c
 
 ***Digital scholarship workflows:***
 
-[Overview of digital tools and workflows](/en/workflows/) I use in my scholarly work, covering activities ranging from digitisation, annotation, referencing, plaintext authorship, storage and backup, to presentation and web presence. It includes workflows with ScanTailor, OCR-ing, Zotero, Diigo, Hypothesis, Markdown, Atom, Pandoc, Git, Reveal.js and Nikola.
+[An overview of digital tools and workflows](/en/workflows/) I use in my scholarly work. This covers activities ranging from digitisation, referencing, annotation, plaintext authorship, storage and backup, to presentation and web publishing. It includes my tips & tricks for the following free software tools: ScanTailor, Zotero, Diigo, Hypothesis, Markdown, Atom, Pandoc, Git, Reveal.js and Nikola.
 
 ***Recent publications:***
 
@@ -27,10 +27,10 @@ Co-authored with Marcell Mars: ['Against innovation: Compromised institutional a
 
 Co-authored with Valeria Graziano and Marcell Mars: ['Learning from #Syllabus'](https://issuu.com/instituteofnetworkcultures/docs/statemachines_v14_zondermarks/115). In *State Machines: Reflections and Actions at the Edge of Digital Citizenship, Finance, and Art*, edited by Yiannis Colakides, Mark Garrett, and Inte Gloerich, Institute for Network Cultures, 2019, pp. 115-128.
 
-***Recent blog posts:***
+***Recent blog posts and interviews:***
 
-['Breaking the Camel's Back: When an Earthquake and a Pandemic Converge'](/posts/earthquake/), March 23, 2020
+['Breaking the Camel's Back: When an Earthquake and a Pandemic Converge'](/posts/earthquake/), *LeftEast*, March 23, 2020
 
 ['Disability, Discrimination and Desire not to Be'](/posts/disability), December 31, 2019
 
-['The Legacy of Corbynism, from a Croatian Perspective'](/posts/corbynism/), December 31, 2019
+['The Legacy of Corbynism, from a Croatian Perspective'](/posts/corbynism/),*LeftEast*, December 31, 2019
