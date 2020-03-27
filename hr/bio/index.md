@@ -7,7 +7,7 @@
 -->
 
 Tomislav Medak je doktorand pri [Centru za postdigitalne kulture](http://www.coventry.ac.uk/research/areas-of-research/postdigital-cultures/) Sveučilišta u Coventryju. Član je teorijskog i izdavačkog tima
-[Multimedijalnog instituta](http://www.mi2.hr/), knjižničar-amater projekta [Memory of the World/Javna knjižnica](https://memoryoftheworld.org/), umjetnik u izvedbenom kolektivu [BADco.](http://badco.hr/) i suradnik inicijative [Pravo na grad](http://pravonagrad.org/).
+[Multimedijalnog instituta](http://www.mi2.hr/), knjižničar-amater projekata [Memory of the World/Javna knjižnica](https://memoryoftheworld.org/) i [Piratska skrb](https://pirate.care), umjetnik u izvedbenom kolektivu [BADco.](http://badco.hr/) i suradnik inicijative [Pravo na grad](http://pravonagrad.org/).
 
 U okviru aktivnosti Multimedijalnog instituta od 2000. godine (su-)organizirao je predavanja, skupove i izložbe te (su-)uređivao izdanja s područja političke teorije, političke ekonomije, taktičkih medija i zajedničkih dobara. U istraživačkom radu bavi se pitanjima tehnologija, kapitalizma i postkapitalističke tranzicije, s posebnim fokusom na ekonomiji intelektualnog vlasništva i nejednakoj razvijenosti znanosti i tehnologija. Povremeno piše i izlaže o kazalištu, plesu i politici.
 

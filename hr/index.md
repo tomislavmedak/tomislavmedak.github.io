@@ -6,7 +6,7 @@
 -->
 
 Odnedavno sam doktorand pri [Centru za postdigitalne kulture](http://www.coventry.ac.uk/research/areas-of-research/postdigital-cultures/) na Sveučilištu u Coventryju. Član sam teorijskog i izdavačkog tima
-[Multimedijalnog instituta](http://www.mi2.hr/), knjižničar-amater projekta [Memory of the World/Javna knjižnica](https://memoryoftheworld.org/) i dio izvedbene skupine [BADco](http://badco.hr/). Moje djelovanje je primarno vođeno radom tih kolektiva.
+[Multimedijalnog instituta](http://www.mi2.hr/), knjižničar-amater projekata [Memory of the World/Javna knjižnica](https://memoryoftheworld.org/) i [Piratska skrb](https://pirate.care) te dio izvedbene skupine [BADco](http://badco.hr/). Moje djelovanje je primarno vođeno radom tih kolektiva.
 
 U istraživačkom radu bavim se pitanjima tehnologija, kapitalističkog razvoja i postkapitalističke tranzicije, s posebnim fokusom na pitanjima intelektualnog vlasništva, znansosti i klimatskih promjena. Povremeno pišem i držim izlaganja o kazalištu, plesu i politici. Na ovim stranicama naći ćete moje tekstove, informacije o umjetničkom radu s BADco. i profesionalnu biografiju.
 
@@ -14,7 +14,7 @@ Ako me želite kontaktirati, moji podaci su na [ovoj stranici](/en/contact/).
 
 <br>
 
-***Recentni tekstovi:***
+***Recentne publikacije:***
 
 [„Estetizacija tehnopolitike“](http://library.memoryoftheworld.org/#/book/369db1a9-d6f7-4d7e-8c92-0b4f4c37682c). u Filozofija je ženskog roda : Zbornik u čast Nadeždi Čačinovič. Zagreb: Filozofski fakultet Sveučilišta u Zagrebu, str. 67–87.
 
@@ -26,6 +26,8 @@ Zajedno s Marcellom Marsom: ["Against innovation: Compromised institutional agen
 
 Zajedno s Valerijom Graziano and Marcellom Marsom: ["Learning from #Syllabus"](https://issuu.com/instituteofnetworkcultures/docs/statemachines_v14_zondermarks/115). U *State Machines: Reflections and Actions at the Edge of Digital Citizenship, Finance, and Art*, uredili Yiannis Colakides, Mark Garrett i Inte Gloerich, Institute for Network Cultures, 2019, str. 115-128.
 
-***Blog:***
+***Recentne objave na blogu:***
+
+[Čemu nas uči pandemija koronavirusa?](/posts/h-alter/), intervju za H-alter, 26. ožujka 2020.
 
 [Izboriti se za vrijeme slobodno od proizvodnje](/posts/kulturpunkt/), intervju za Kulturpunkt.hr, 29. studenog 2019.

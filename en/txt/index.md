@@ -35,12 +35,11 @@ Co-edited with Marcell Mars: *System.Hack() - Table of Contents*.
 Multimedia Institute, 2006.
 [🔗 PDF at Monoskop](https://monoskop.org/images/f/fd/System.hack_catalogue.pdf/)
 
-##  Book chapters, articles & talks:
+##  Book chapters, articles, interviews & talks:
 
 ***Technology, ecology, capitalism***
 
-[‘Technologies for an Ecological Transition: A Faustian Bargain?’](/en/ecotech/).
-*Materialism and the Critique of Energy*, edited by Brent Ryan Bellamy
+[‘Technologies for an Ecological Transition: A Faustian Bargain?’](/en/ecotech/). *Materialism and the Critique of Energy*, edited by Brent Ryan Bellamy
 et al., M-C-M’ Press, 2018., [🔗 PDF at M-C-M’ Press](http://www.mcmprime.com/books/marxism-and-energy) previously published as a working paper,
 Institute for Political Ecology, 2017. [🔗 PDF at IPE](http://ipe.hr/wp-content/uploads/2017/11/Technologies-for-an-Ecological-Transition-A-Faustian-Bargain-1.pdf).
 
@@ -52,28 +51,19 @@ Co-authored with Marcell Mars: ['Against innovation: Compromised institutional a
 
 Co-authored with Valeria Graziano and Marcell Mars: ['Learning from #Syllabus'](https://issuu.com/instituteofnetworkcultures/docs/statemachines_v14_zondermarks/115). In *State Machines: Reflections and Actions at the Edge of Digital Citizenship, Finance, and Art*, edited by Yiannis Colakides, Mark Garrett, and Inte Gloerich, Institute for Network Cultures, 2019, pp. 115-128.
 
-Interview with Petar Jandrić and Ana Kuzmanić: ‘Knowledge Commons and
-Activist Pedagogies: From Idealist Positions to Collective Actions -
-Conversation with Marcell Mars and Tomislav Medak’. *Learning in the Age of Digital Reason*, edited by Petar Jandrić, SensePublishers, 2017, pp.
-243–269.
+Interview with Petar Jandrić and Ana Kuzmanić: ‘Knowledge Commons and Activist Pedagogies: From Idealist Positions to Collective Actions - Conversation with Marcell Mars and Tomislav Medak’. *Learning in the Age of Digital Reason*, edited by Petar Jandrić, SensePublishers, 2017, pp. 243–269.
 
 Co-authored with Marcell Mars: [‘Amateur Librarian - A Course in Critical
 Pedagogy‘](/en/amateur/). *Mondothèque :: A Radiated Book*, Constant, 2016, pp. 48–56.
 
-Co-authored with Marcell Mars and Dubravka Sekulić: 'Taken Literally'. In [*We Need It - We Do It: Croatia at
-the 15th International Architecture Exhibition/La Biennale Di Venezia
-2016*](https://we-need-it-we-do-it.org/wp-content/uploads/2016/06/WNIWDI_.pdf), edited by Dinko Peračić et al., Platforma 9,81; POGON–Zagreb
-Centre for Independent Culture and Youth; Museum of Modern and
+Co-authored with Marcell Mars and Dubravka Sekulić: 'Taken Literally'. In [*We Need It - We Do It: Croatia at the 15th International Architecture Exhibition/La Biennale Di Venezia 2016*](https://we-need-it-we-do-it.org/wp-content/uploads/2016/06/WNIWDI_.pdf), edited by Dinko Peračić et al., Platforma 9,81; POGON–Zagreb Centre for Independent Culture and Youth; Museum of Modern and
 Contemporary Art Rijeka, 2016, pp. 228–35.
 
-[‘The Future After the Library: UbuWeb and Monoskop’s Radical Gestures’](/en/ubu_monoskop/).
-*Public Library*, What, How and for Whom/WHW & Multimedia Institute,
-2015, pp. 121–37. [🔗 PDF at Memory of the World](http://library.memoryoftheworld.org/b/Fs5CQa5xtzBrKZmI08Q41fQZOr4lAadL5_GsqfHiDgV4w-iC)
+[‘The Future After the Library: UbuWeb and Monoskop’s Radical Gestures’](/en/ubu_monoskop/). *Public Library*, What, How and for Whom/WHW & Multimedia Institute, 2015, pp. 121–37. [🔗 PDF at Memory of the World](http://library.memoryoftheworld.org/b/Fs5CQa5xtzBrKZmI08Q41fQZOr4lAadL5_GsqfHiDgV4w-iC)
 
 ‘Death and Survival of Dead Labor’. *Schlosspost*, 8 Jan. 2016. [🔗](https://schloss-post.com/death-survival-dead-labor/)
 
-[‘Hacking’](/en/hacking). *Truth Is Concrete: A Handbook for Artistic Strategies in
-Real Politics*, edited by Florian Malzacher, Sternberg Press, 2014, pp.
+[‘Hacking’](/en/hacking). *Truth Is Concrete: A Handbook for Artistic Strategies in Real Politics*, edited by Florian Malzacher, Sternberg Press, 2014, pp.
 267–68.
 
 ‘Open Source Paradigm in the Arts’. *The Theatre*, International

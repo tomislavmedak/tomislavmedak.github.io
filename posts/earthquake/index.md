@@ -6,7 +6,7 @@
 .. description: On March 22nd Zagreb was hit by a major earthquake amid the Cornavirus lockdown. Here are my thoughts to make sense of it. Of both the earthquake and the pandemic.
 -->
 
-*Originally published on [Facebook](https://www.facebook.com/tomislav.medak.9/posts/2751618411542275).*
+*Originally published on [Facebook](https://www.facebook.com/tomislav.medak.9/posts/2751618411542275) and on the portal [LeftEast](https://www.criticatac.ro/lefteast/croatia-earthquake-pandemic/).*
 
 ![Image taken on March 22nd, around 6:45am, in Zagreb.](/images/earthquake_zagreb.png)
 
