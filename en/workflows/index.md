@@ -375,4 +375,12 @@ BODY_END = """
 
 For more customisations and tweaks, [Nikola docmentation](https://getnikola.com/documentation.html) offers a plenitude of resources, but you can also find on the web examples of Nikola-powered website customisations such as this highly resourceful [Lois Tiao's blog post](http://louistiao.me/posts/how-i-customized-my-nikola-powered-site/).
 
+## 8) Automating a generation curriculum vitae
+
+Creating and updating CVs is a tedium. If you ignore it for a while, it becomes an endless task to reconstruct from your inbox, presentation and writing folders what unfolded or was published when and where. I have, therefore, decided to use Christophe-Marie Duquesne and Mark Szepieniec's [styles and scripts](https://mszep.github.io/pandoc_resume/) to automate generation of CVs when executing deploy command with Nikola website.
+
+Based on their template I have created an extensive CV file that covers my contacts, education, publications, technical skills, organisational affiliations and experiences, and artistic work. I have also slightly modified ther .tex style file to fit my needs.
+
+To keep abreast of my activities, I now revise my CV file every time I add new items to the list of publications on my website.
+
 **Further reading:**

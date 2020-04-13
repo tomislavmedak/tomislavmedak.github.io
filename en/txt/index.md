@@ -19,8 +19,7 @@
 
 <!-- /TOC -->
 
-
-**All peer-reviewed articles and chapters are noted as such.**
+*Where no collaboration is indicated, I am the sole author or editor by me. Peer-reviewed articles and chapters are noted as such.*
 
 ## Authored volumes
 
