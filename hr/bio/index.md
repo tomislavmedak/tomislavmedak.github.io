@@ -18,6 +18,6 @@ eksperimentalnim izvedbenim kolektivom BADco. Sudjelovao u zajedničkom radu na 
 *Odgovornost za viđeno* predstavljena je i na Venecijanskom bijenalu 2011.
 godine.
 
-[Curriculum Vitae](/CV_tmedak_MI2_EN_2018.pdf){target="_blank"}
+[Curriculum Vitae](/CV_TMedak.pdf){target="_blank"}
 
 [Foto](/images/TMedak_large.jpg){target="_blank"}

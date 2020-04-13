@@ -33,11 +33,11 @@ institut & Arkzin, 2013. [🔗 PDF na Monoskopu](https://monoskop.org/images/0/0
 Zajedno s Marcellom Marsom: *System.hack()*. Multimedijalni institut,
 2006. [🔗 PDF na Monoskopu](https://monoskop.org/images/f/fd/System.hack_catalogue.pdf/)
 
-## Poglavlja, ogledi i članci:
+## Poglavlja knjiga, recenzirani članci i medijski tekstovi
 
 ### Tehnologija, ekologija, kapitalizam
 
-[„Estetizacija tehnopolitike“](http://library.memoryoftheworld.org/#/book/369db1a9-d6f7-4d7e-8c92-0b4f4c37682c). u Filozofija je ženskog roda : Zbornik u čast Nadeždi Čačinovič. Zagreb: Filozofski fakultete Sveučilišta u Zagrebu, str. 67–87.
+[„Estetizacija tehnopolitike“](http://library.memoryoftheworld.org/#/book/369db1a9-d6f7-4d7e-8c92-0b4f4c37682c). U *Filozofija je ženskog roda : Zbornik u čast Nadeždi Čačinovič*, uredila Ankica Čakardić, Filozofski fakultete Sveučilišta u Zagrebu, 2019, str. 67–87.
 
 Zajedno s Marcellom Marsom: ["Amazon.com: anatomija jedne dominacije"](https://www.bilten.org/?p=28562), *Bilten*, 31. srpnja 2019.
 
@@ -53,18 +53,14 @@ ožujak 2017. [🔗](http://www.kulturpunkt.hr/content/pa-pa-proleteri-automatiz
 „Pa pa proleteri...: politička kriza i tehnološki razvoj“.
 *Kulturpunkt*, travanj 2017. [🔗](http://www.kulturpunkt.hr/content/pa-pa-proleteri-politicka-kriza-i-tehnoloski-razvoj)
 
-Intervju: "Tehnooptimizam na staklenim nogama", *Slobodni filozofski*. 21. prosinac 2016. [🔗](http://slobodnifilozofski.com/2016/12/tehnooptimizam-staklenim-nogama.html)
-
-„Neutralnost interneta: što se to mene tiče?“ *Bilten*, 23. studeni
+„Neutralnost interneta: što se to mene tiče?“, *Bilten*, 23. studeni
 2015. [🔗](http://www.bilten.org/?p=10225)
 
 "Novi mediji, stari kapitalizam", *Bilten*. 18. travanj 2014. [🔗](http://www.bilten.org/?p=514)
 
 ### Knjižnice iz sjene, dostupnost znanja, haktivizam
 
-[„Budućnosti iz knjižnice: Radikalne geste UbuWeba i Monoskopa“](/hr/ubu_monoskop/). *Javna
-knjižnica*, Što, kako i za koga/WHW & Multimedijalni institut, 2015,
-str. 51–66. [🔗 PDF na Memory of the World](http://library.memoryoftheworld.org/b/Fs5CQa5xtzBrKZmI08Q41fQZOr4lAadL5_GsqfHiDgV4w-iC)
+[„Budućnosti iz knjižnice: Radikalne geste UbuWeba i Monoskopa“](/hr/ubu_monoskop/). *Javna knjižnica*, Što, kako i za koga/WHW & Multimedijalni institut, 2015, str. 51–66. [🔗 PDF na Memory of the World](http://library.memoryoftheworld.org/b/Fs5CQa5xtzBrKZmI08Q41fQZOr4lAadL5_GsqfHiDgV4w-iC)
 
 „System.hack(1,“elektronski mediji”,“Orson Welles - Rat svjetova”)“.
 *System.hack()*, Multimedijalni institut, 2006, str. 3–8. [🔗 PDF na Monoskopu](https://monoskop.org/images/f/fd/System.hack_catalogue.pdf/)
@@ -91,10 +87,19 @@ Performing Arts Journal*, izd. 60–61, prosinac 2011., str. 50–54.
 
 ### Društvo, društveni pokreti, politika
 
-['Na ulicama Francuske povijest anticipira budućnost']((http://www.noviplamen.net/glavna/na-ulicama-francuske-povijest-anticipira-buducnost/), *Novi plamen*, 20. prosinca 2018.]
+["Na ulicama Francuske povijest anticipira budućnost"]((http://www.noviplamen.net/glavna/na-ulicama-francuske-povijest-anticipira-buducnost/), *Novi plamen*, 20. prosinca 2018.]
 
-[„Civilno društvo i politički rad na ljevici“](/hr/ljevica/). *3k: kapital, klasa,
-kritika*, sv. 1, izd. 1, 2014., str. 133–38.
+["Civilno društvo i politički rad na ljevici"](/hr/ljevica/). *3k: kapital, klasa, kritika*, sv. 1, izd. 1, 2014., str. 133–38.
 
-[„Invaliditet - inkluzija - kapitalizam“](/hr/invaliditet/). Grupa 22, 06. siječanj 2015.,
-str. 5. [🔗 PDF na Grupi 22](http://www.grupa22.hr/invaliditet-inkluzija-kapitalizam/)
+["Invaliditet - inkluzija - kapitalizam"](/hr/invaliditet/). Grupa 22, 06. siječanj 2015., str. 5. [🔗 PDF na Grupi 22](http://www.grupa22.hr/invaliditet-inkluzija-kapitalizam/)
+
+## Intervjui
+
+Zajedno s Valerijom Graziano i Marcellom Marsom: ["Njegovati bezuvjetnu solidarnost"](https://kulturpunkt.hr/content/njegovati-bezuvjetnu-solidarnost). Intervjuirala Hana Sirovica, 6. ožujka 2020. *Kulturpunkt.hr*.
+Medak, Tomislav.
+
+["Neoliberalna bajanja ostat će neduhovita šala"](http://www.h-alter.org/vijesti/neoliberalna-bajanja-ostat-ce-neduhovita-sala). Intervjuirala Ivana Perić, 26. ožujak 2020. *H-alter*.
+
+["Izboriti se za vrijeme slobodno od proizvodnje"](https://kulturpunkt.hr/content/izboriti-se-za-vrijeme-slobodno-od-proizvodnje). Intervjuirala Petra Ivšić, 29. studeni 2019., *Kulturpunkt.hr*.
+
+["Tehnooptimizam na staklenim nogama"](http://slobodnifilozofski.com/2016/12/tehnooptimizam-staklenim-nogama.html). Intervjuirali Martin Beroš i Karolina Hrga, 21. prosinac 2016., *Slobodni Filozofski*.

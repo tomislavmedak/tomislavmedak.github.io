@@ -15,6 +15,6 @@ He authored two short books: *The Hard Matter of Abstraction* – *A Guidebook t
 In parallel, he is working as a performer, dramaturge and
 director with the Zagreb-based experimental theatre collective BADco. With the collective he has created a number of artworks, including performances *Correcting Rhythm* (2017), *Spores* (2016), *A Pound of Histeria, Acceleration... melodrama* (2014), *The League of Time* (2010) and *1 poor and one 0*. Some of those have toured widely around Europe, while the interactive installation *Responsibility for Things Seen* was presented in 2011 Venice Biennal.
 
-[Curriculum Vitae](/CV_tmedak_MI2_EN_2018.pdf){target="_blank"}
+[Curriculum Vitae](/CV_TMedak.pdf){target="_blank"}
 
 [Photo](/images/TMedak_large.jpg){target="_blank"}
