@@ -10,11 +10,12 @@
 
 - [Knjige:](#knjige)
 - [Urednički rad:](#uredni%C4%8Dki-rad)
-- [Poglavlja, ogledi i članci:](#poglavlja-ogledi-i-%C4%8Dlanci)
+- [Poglavlja knjiga, recenzirani članci i medijski tekstovi](#poglavlja-knjiga-recenzirani-%C4%8Dlanci-i-medijski-tekstovi)
   - [Tehnologija, ekologija, kapitalizam](#tehnologija-ekologija-kapitalizam)
   - [Knjižnice iz sjene, dostupnost znanja, haktivizam](#knji%C5%BEnice-iz-sjene-dostupnost-znanja-haktivizam)
   - [Umjetnost, kultura, kulturni aktivizam](#umjetnost-kultura-kulturni-aktivizam)
   - [Društvo, društveni pokreti, politika](#dru%C5%A1tvo-dru%C5%A1tveni-pokreti-politika)
+- [Intervjui](#intervjui)
 
 <!-- /TOC -->
 
