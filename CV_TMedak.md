@@ -239,13 +239,14 @@ pluriel*), Multimedia Institute and Arkzin, 2003.
 
 ## Teaching
 
-'Modeling the Planetary Crisis', guest lecture for BA students at the Coventry Unversity, Feb. 4, 2020.
+**Modeling the Planetary Crisis**, guest lecture in a BA course in Media and Communication, Coventry Unversity, Feb. 4, 2020
 
-'Computing the Doughnut: Modeling a Post-Growth Future', guest lecture for MA students at the King’s College in London, Mar. 28, 2019.
 
-'Different Critiques of the Internet' (7 x 4 hours MA joint course at the Leuphana University and Hamburg Media School), convened together with Marcell Mars, summer semester 2017.
+**Computing the Doughnut: Modeling a Post-Growth Future**, guest lecture in a MA course, King’s College London, Mar. 28, 2019
 
-Rechtsästhetik: Commons, a two-day course (2 x 8 hours) at the Merz Akademie in Stuttgart, Apr. 10-11, 2015.
+**Different Critiques of the Internet**, 7 x 4 hours MA semster course convened together with Marcell Mars, Leuaphana University & Hamburg Media School, summer semester 2017.
+
+**Rechtsästhetik: Commons**, a two-day course (2 x 8 hours), Merz Akademie, Stuttgart, Apr. 10-11, 2015
 
 
 \hfill \break
@@ -256,74 +257,81 @@ Rechtsästhetik: Commons, a two-day course (2 x 8 hours) at the Merz Akademie in
 **2019**
 :
 
-'Public Library and the Property Form', introductory talk with Marcell Mars at the eponymous seminar at Raven Row, London, Dec. 3
+**'Public Library and the Property Form'**, introductory talk with Marcell Mars at the eponymous seminar at Raven Row, London, Dec. 3
 
-'Degrowth and the Aporia of Utopia: Developing a Future-Oriented Vision of Social Wellbeing within Planetary Boundaries', refereed panel presentation at the 16th *Historical Materialism* conference, London, Nov 7-10
+**'Degrowth and the Aporia of Utopia: Developing a Future-Oriented Vision of Social Wellbeing within Planetary Boundaries'**, refereed panel presentation at the 16th *Historical Materialism* conference, London, Nov 7-10
 
-'Accelerated Technocapitalism and the Politics of Non-Complicity', panel presentation at the *Never Again* conference in Warsaw, Oct. 25-26
+**'Accelerated Technocapitalism and the Politics of Non-Complicity'**, panel presentation at the *Never Again* conference in Warsaw, Oct. 25-26
 
-'Against Innovation: Comporomised Institutional Agency and Acts of Custodianship', joint panel presentation with Marcell Mars at the *Pirate Care* conference, Coventry University, Jun. 19-20
+**'Against Innovation: Comporomised Institutional Agency and Acts of Custodianship'**, joint panel presentation with Marcell Mars at the *Pirate Care* conference, Coventry University, Jun. 19-20
 
-'Amazon.com: An Anatomy of a Domination', joint presentation with Marcell Mars at the *Delivered the Same Day: Amazon.com and the Post Office*, a one-day seminar organised by the Centre for Postdigital Cultures, Jun. 3
+**'Amazon.com: An Anatomy of a Domination'**, joint presentation with Marcell Mars at the *Delivered the Same Day: Amazon.com and the Post Office*, a one-day seminar organised by the Centre for Postdigital Cultures, Jun. 3
 
-'Ecology and Technology', public talk at the Peščenica Cultural Centre in Zagreb, May 10
+**'Ecology and Technology'**, public talk at the Peščenica Cultural Centre in Zagreb, May 10
 
+\hfill \break
 
 **2018**
 :
 
 Panel presentation and a workshop at the *Out of the Shadow - Alternative Modes of Knowledge Production, Conservation and Distribution* event, organised by the Global Emergent Media Lab, Concordia University, Montreal, Nov. 22-23
 
-'System of a Takedown: Control and De-commodification in the Circuits of Academic Publishing', talk at the Center for Expanded Poetics, Concordia University, Montreal, Nov. 21
+**'System of a Takedown: Control and De-commodification in the Circuits of Academic Publishing'**, talk at the Center for Expanded Poetics, Concordia University, Montreal, Nov. 21
 
-'Aestheticization of Technopolitics: The Internet, the Far Right and the Warming Planet', refereed panel presentation at the 15th annual *Historical Materialism* conference, London, Nov. 8-11
+**'Aestheticization of Technopolitics: The Internet, the Far Right and the Warming Planet'**, refereed panel presentation at the 15th annual *Historical Materialism* conference, London, Nov. 8-11
 
-'Scale and Structure: Planetary Technology and Sited Agency', panel presentation at the *Digital Cultures* conference, Lüneburg, Germany, Sep. 19-21
+**'Scale and Structure: Planetary Technology and Sited Agency'**, panel presentation at the *Digital Cultures* conference, Lüneburg, Germany, Sep. 19-21
 
-'Against all Odds: Can we Transform the Global Technosphere to Prevent Extreme Climate Change', talk at the *Green Academy* summer school, Vis, Croatia, Aug. 27-30
+**'Against all Odds: Can we Transform the Global Technosphere to Prevent Extreme Climate Change'**, talk at the *Green Academy* summer school, Vis, Croatia, Aug. 27-30
 
-'Transformation of the Technosphere and the Critical Agency of the Degrowth Movement', refereed panel presentation at the *6th International Degrowth Conference*, Malmö, Sweden, Aug. 21-25
+**'Transformation of the Technosphere and the Critical Agency of the Degrowth Movement'**, refereed panel presentation at the *6th International Degrowth Conference*, Malmö, Sweden, Aug. 21-25
 
-'Guerilla Open Access', introductory panel presentation at the Radical Open Access 2 conference, Coventry University, Jun. 26-27
+**'Guerilla Open Access'**, introductory panel presentation at the Radical Open Access 2 conference, Coventry University, Jun. 26-27
 
-'Against Innovation', panel presentation at the conference Shadows of the Dawn: Migration and the Indeterminacy of Community and Immunity, Brunel University, Apr. 17-18
+**'Against Innovation'**, panel presentation at the conference Shadows of the Dawn: Migration and the Indeterminacy of Community and Immunity, Brunel University, Apr. 17-18
+
+\hfill \break
 
 **2017**
 :
 
-'Disrupting Technological Change', panel presentation at the *Labor and Technology Symopisum*, Institute for Labor Studies, Ljubljana, Oct. 4.
+**'Disrupting Technological Change'**, panel presentation at the *Labor and Technology Symopisum*, Institute for Labor Studies, Ljubljana, Oct. 4.
 
-'Estetizacija tehnopolitike', talk at the *Conference in Honor of Nadežda Čačinovič*, Faculty of Arts and Humanities, Zagreb, Sep. 29.
+**'Estetizacija tehnopolitike'**, talk at the *Conference in Honor of Nadežda Čačinovič*, Faculty of Arts and Humanities, Zagreb, Sep. 29.
 
-'Black-boxing Politics: How Techno-Solutionism Obfuscates Social Antagonism', talk at the *Plan D* conference, Zagreb, Sep. 28.
+**'Black-boxing Politics: How Techno-Solutionism Obfuscates Social Antagonism'**, talk at the *Plan D* conference, Zagreb, Sep. 28.
 
-'Logistical Transformation of the World and the City', presentation at the *Mine, Yours, Ours* festival, Rijeka, Apr. 4.
+**'Logistical Transformation of the World and the City'**, presentation at the *Mine, Yours, Ours* festival, Rijeka, Apr. 4.
+
+\hfill \break
 
 **2016**
 :
 
 Panel presentation at the *Unboxing: Algorithm, Data, Democracy* conference in Berlin, Dec. 12.
 
-'Technologies for a Degrowth Transition - A Faustian Bargain?'', refereed paper, *5th International Degrowth Conference* in Budapest and *Green Academy* on the island of Vis, Aug.
+**'Technologies for a Degrowth Transition - A Faustian Bargain?'**, refereed paper, *5th International Degrowth Conference* in Budapest and *Green Academy* on the island of Vis, Aug.
 
-'Beyond the Paradigm of Control', talk at festival *My, Yours, Ours* in Rijeka and *net.cube* programme at Gallery Miroslav Kraljević in Zagreb
+**'Beyond the Paradigm of Control'**, talk at festival *My, Yours, Ours* in Rijeka and *net.cube* programme at Gallery Miroslav Kraljević in Zagreb
 
-'Bordering, Social Choreography & Transmodernity - Dance beyond Capitalist Modernity', talk at *Tanzkongress* in Hannover, Jun. 16-19
+**'Bordering, Social Choreography & Transmodernity - Dance beyond Capitalist Modernity'**, talk at *Tanzkongress* in Hannover, Jun. 16-19
 
 'Technological Systems and Social Transition - Do Open Technology and Design Matter', talk at *D Day* in Zagreb
+
+\hfill \break
 
 **2015**
 :
 
-'The Left, the Political Conjuncture, and the Art', panel contribution at the *Transitions 3* festival, Athens, Nov. 27-28
+**'The Left, the Political Conjuncture, and the Art'**, panel contribution at the *Transitions 3* festival, Athens, Nov. 27-28
 
-'Urban Disturbance, Political Emergence', talk at *Spielart* festival in München, Oct. 10
+**'Urban Disturbance, Political Emergence'**, talk at *Spielart* festival in München, Oct. 10
 
-'Write Off', 'Illegal Copy', 'Shelf', short presentations at the *Ideographies of Knowledge* symposium at the Mundaneum in Mons, Oct. 3
+**'Write Off', 'Illegal Copy', 'Shelf'**, short presentations at the *Ideographies of Knowledge* symposium at the Mundaneum in Mons, Oct. 3
 
-'System of a Takedown', panel presentation at the *Authorship and Quotiations* symposium at the Akademie Schloss Solitude, Feb. 19-20
+**'System of a Takedown'**, panel presentation at the *Authorship and Quotiations* symposium at the Akademie Schloss Solitude, Feb. 19-20
 
-'Technological Development, Post-Capitalist Transition and Underdevelopment', refereed paper, conference *Reflections on Capitalism* in Belgrade, Jun. 22-27
+**'Technological Development, Post-Capitalist Transition and Underdevelopment'**, refereed paper, conference *Reflections on Capitalism* in Belgrade, Jun. 22-27
 
 
 \hfill \break
@@ -331,11 +339,11 @@ Panel presentation at the *Unboxing: Algorithm, Data, Democracy* conference in B
 
 ## Technical expertise
 
-**Digital Scholarship Workflows**
+**Digital Scholarship**
 
-  I have been integrating and documenting workflows I use in my scholarly   work, covering a range of actions from digitisation, annotation, referencing, plaintext authorship, storage and backup, to presentation and web presence. It includes workflows based on ScanTailor, OCR tools, Zotero, Diigo, Hypothesis, Markdown, Atom, Pandoc, Git, Reveal.js, reveal-md and Nikola.
+  I have been integrating and documenting free software workflows I use in my scholarly work, covering a range of actions from digitisation, annotation, referencing, plaintext authorship, storage and backup, to presentation and web presence. It includes workflows based on ScanTailor, OCR tools, Zotero, Diigo, Hypothesis, Markdown, Atom, Pandoc, Git, Reveal.js, reveal-md and Nikola.
 
-  The tutorial can be found on my [website](https://tom.medak.click/en/workflows/).
+  An extensive tutorial can be found on my [website](https://tom.medak.click/en/workflows/).
 
 
 \pagebreak
@@ -375,7 +383,7 @@ a co-ordinating organization of Zagreb independent cultural sector
 
   - Board member, 2011 to present.
 
-**iCommons**
+[**iCommons**](https://web.archive.org/web/20150315033150/http://icommons.org/)
 
 an international organisation with a mission to develop a united global commons front by collaborating with open education, access to knowledge, free software, open access publishing and free culture communities around the world. iCommons closed its operations in 2016.
 :
@@ -383,7 +391,7 @@ an international organisation with a mission to develop a united global commons 
   - Board member 2006-2010, and president of the board 2010-2016.
 
 
-\hfill \break
+\pagebreak
 
 
 ## Cultural organising and curatorial work
