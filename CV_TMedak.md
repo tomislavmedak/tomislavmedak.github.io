@@ -42,7 +42,7 @@ Preradovićeva 18                                **Twitter:** tmedak
 
 ## Publications
 
-*Where no collaboration is indicated, I am the sole author or editor by me. Peer-reviewed articles and chapters are noted as such.*
+*Where no collaboration is indicated, I am the sole author or editor. Peer-reviewed articles and chapters are noted as such.*
 
 <!-- TOC -->
 
