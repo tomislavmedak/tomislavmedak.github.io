@@ -186,6 +186,8 @@ Strategies’**. *Frakcija - Performing Arts Journal*, no. 19, 2001, p. 16. [PDF
 
 ## Public writing
 
+Together with Valeria Graziano and Marcell Mars: **'Pirate Care'**, *Atforum*, 11 May 2020. https://www.artforum.com/slant/valeria-graziano-marcell-mars-and-tomlsav-medak-on-the-care-crisis-83037.
+
 Together with Marcell Mars: **'Amazon.com: anatomija jedne dominacije'** ('Amazon.com: An Anatomy of a Domination'), *Bilten*, 31 Jul. 2019. https://www.bilten.org/?p=28562
 
 **‘O čemu pričamo kada pričamo o bitcoinu?’** ('What Do We Talk about When We Talk about Bitcoin?'), *Bilten*, 25 Jan. 2018. http://www.bilten.org/?p=21983.

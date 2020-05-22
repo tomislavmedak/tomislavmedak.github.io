@@ -14,9 +14,9 @@ Ako me želite kontaktirati, moji podaci su na [kontaktnoj stranici](/en/contact
 
 <br>
 
-***Recentne publikacije:***
+***Recentne akademske publikacije:***
 
-[„Estetizacija tehnopolitike“](http://library.memoryoftheworld.org/#/book/369db1a9-d6f7-4d7e-8c92-0b4f4c37682c). u Filozofija je ženskog roda : Zbornik u čast Nadeždi Čačinovič. Zagreb: Filozofski fakultet Sveučilišta u Zagrebu, str. 67–87.
+[„Estetizacija tehnopolitike“](http://library.memoryoftheworld.org/#/book/369db1a9-d6f7-4d7e-8c92-0b4f4c37682c), u *Filozofija je ženskog roda : Zbornik u čast Nadeždi Čačinovič*. Zagreb: Filozofski fakultet Sveučilišta u Zagrebu, 2019, str. 67–87.
 
 Zajedno s Marcellom Marsom: ["System of a Takedown: Control and De-Commodification in the Circuits of Academic Publishing"](https://meson.press/books/archives/). U *Archives*, uredio Andrew Lison, University of Minnesota Press & meson.press, 2019, str. 47–68.
 
@@ -26,7 +26,7 @@ Zajedno s Marcellom Marsom: ["Against innovation: Compromised institutional agen
 
 Zajedno s Valerijom Graziano and Marcellom Marsom: ["Learning from #Syllabus"](https://issuu.com/instituteofnetworkcultures/docs/statemachines_v14_zondermarks/115). U *State Machines: Reflections and Actions at the Edge of Digital Citizenship, Finance, and Art*, uredili Yiannis Colakides, Mark Garrett i Inte Gloerich, Institute for Network Cultures, 2019, str. 115-128.
 
-***Recentni intervjui i objave na blogu:***
+***Recentni medijski tekstovi, intervjui i objave na blogu:***
 
 [Čemu nas uči pandemija koronavirusa?](/posts/h-alter/), intervju za H-alter, 26. ožujka 2020.
 

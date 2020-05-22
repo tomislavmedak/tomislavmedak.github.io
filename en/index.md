@@ -17,7 +17,7 @@ If you want to get in touch, my details can be found on the [contact page](/en/c
 
 [An overview of digital tools and workflows](/en/workflows/) I use in my scholarly work. This covers activities ranging from digitisation, referencing, annotation, plaintext authorship, storage and backup, to presentation and web publishing. It includes my tips & tricks for the following free software tools: ScanTailor, Zotero, Diigo, Hypothesis, Markdown, Atom, Pandoc, Git, Reveal.js and Nikola.
 
-***Recent publications:***
+***Recent academic publications:***
 
 Co-authored with Mladen Domazet and Andro Rilović: [‘Degrowth’](http://www.sciencedirect.com/science/article/pii/B9780124095489120810). In *Reference Module in Earth Systems and Environmental Sciences*, Elsevier, 2019.
 
@@ -27,10 +27,10 @@ Co-authored with Marcell Mars: ['Against innovation: Compromised institutional a
 
 Co-authored with Valeria Graziano and Marcell Mars: ['Learning from #Syllabus'](https://issuu.com/instituteofnetworkcultures/docs/statemachines_v14_zondermarks/115). In *State Machines: Reflections and Actions at the Edge of Digital Citizenship, Finance, and Art*, edited by Yiannis Colakides, Mark Garrett, and Inte Gloerich, Institute for Network Cultures, 2019, pp. 115-128.
 
-***Recent blog posts and interviews:***
+***Recent public writing, interviews and blog posts:***
 
-['Breaking the Camel's Back: When an Earthquake and a Pandemic Converge'](/posts/earthquake/), *LeftEast*, March 23, 2020
+Co-authored with Valeria Graziano and Marcell Mars: ['Pirate Care'](https://www.artforum.com/slant/valeria-graziano-marcell-mars-and-tomlsav-medak-on-the-care-crisis-83037), *Artforum*, May 11, 2020.
 
-['Disability, Discrimination and Desire not to Be'](/posts/disability), December 31, 2019
+['Breaking the Camel's Back: When an Earthquake and a Pandemic Converge'](/posts/earthquake/), *LeftEast*, March 23, 2020.
 
-['The Legacy of Corbynism, from a Croatian Perspective'](/posts/corbynism/),*LeftEast*, December 31, 2019
+['Disability, Discrimination and Desire not to Be'](/posts/disability), December 31, 2019.
