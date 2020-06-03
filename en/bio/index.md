@@ -6,7 +6,7 @@
 .. description: Short bio, curriculum vitae (CV) and photo of Tomislav Medak.
 -->
 
-Tomislav Medak is a doctoral student at the Coventry University's [Centre for Postdigital Cultures](http://www.coventry.ac.uk/research/areas-of-research/postdigital-cultures/). He is also a member of the theory and publishing team of the [Multimedia Institute/MAMA](http://www.mi2.hr/en/) in Zagreb, as well as an amateur librarian for the [Memory of the World/Public library](https://memoryoftheworld.org/) & [Pirate Care](https://pirate.care) projects, an artist in the performing arts collective [BADco.](http://badco.hr/)
+Tomislav Medak is a doctoral student at the Coventry University's [Centre for Postdigital Cultures](http://www.coventry.ac.uk/research/areas-of-research/postdigital-cultures/). His PhD is on political economy of technology and the planetary ecological crisis. He is also a member of the theory and publishing team of the [Multimedia Institute/MAMA](http://www.mi2.hr/en/) in Zagreb, a co-initiator of the [Pirate Care](https://pirate.care) project, and an artist in the performing arts collective [BADco.](http://badco.hr/)
 
 With his colleagues at the Multimedia Institute/MAMA, since 2000 he has organised talks, conferences and exhibitions, and edited publications in the fields of political economy, tactical media and the commons. His own research interests are in technology, capitalist development and post-capitalist transition, with a particular focus on environmental crisis, political economy of intellectual property and unevenness of techno-science. At times, he also writes on theatre, dance and politics.
 

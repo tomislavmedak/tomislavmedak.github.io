@@ -17,7 +17,7 @@ Preradovićeva 18                                **Twitter:** tmedak
 
 ----
 
-> I am a PhD researcher at the Coventry Unversity's [Centre for Postdigital Cultures](http://www.coventry.ac.uk/research/areas-of-research/postdigital-cultures/). I am also a part of the theory and publishing team of [Multimedia Institute/MAMA](http://www.mi2.hr/en/), an amateur librarian for the [Memory of the World](https://memoryoftheworld.org/) & [Pirate Care](https://pirate.care) initiatives, and a member of the performing arts collective [BADco](http://badco.hr/). What I do is mostly defined by these collective endeavors.
+> I am a PhD researcher at the Coventry Unversity's [Centre for Postdigital Cultures](http://www.coventry.ac.uk/research/areas-of-research/postdigital-cultures/). I am also a part of the theory and publishing team of [Multimedia Institute/MAMA](http://www.mi2.hr/en/), a co-initiator of the [Pirate Care](https://pirate.care) project, and a member of the performing arts collective [BADco](http://badco.hr/). What I do is mostly defined by these collective endeavors.
 
 > My research interests are in technology, capitalist development and post-capitalist transition, with a particular focus on planetary ecological crisis, techno-science and intellectual property. I approach these from a Marxian and Degrowth perspective. Sometimes I also present and write on theatre, dance, disability and politics.
 
@@ -452,7 +452,7 @@ Lecture series in political philosophy, media studies, aesthetics, co-organiser,
 
 ### Curatorial work with Multimedia Institute
 
-**Conceptual exhibtions and conferences around the Memory of the World/Public Library project**, co-curated with Marcell Mars, 2012 to present.
+**Conceptual exhibtions and conferences around the Public Library project**, co-curated with Marcell Mars, 2012 to present.
 
 **Exhibition 'Extravagant Bodies'**, co-organised with the curatorial collective Kontejner, 2007.
 

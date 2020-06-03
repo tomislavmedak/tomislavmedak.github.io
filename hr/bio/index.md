@@ -6,8 +6,7 @@
 .. description: Kratka biografija, curriculum vitae (CV) i fotografija Tomislava Medaka.
 -->
 
-Tomislav Medak je doktorand pri [Centru za postdigitalne kulture](http://www.coventry.ac.uk/research/areas-of-research/postdigital-cultures/) Sveučilišta u Coventryju. Član je teorijskog i izdavačkog tima
-[Multimedijalnog instituta](http://www.mi2.hr/), knjižničar-amater projekata [Memory of the World](https://memoryoftheworld.org/) i [Piratska skrb](https://pirate.care) te umjetnik u izvedbenom kolektivu [BADco.](http://badco.hr/).
+Tomislav Medak je doktorand pri [Centru za postdigitalne kulture](http://www.coventry.ac.uk/research/areas-of-research/postdigital-cultures/) Sveučilišta u Coventryju. Piše doktorat o političkog ekonomiji tehnološkog razvoja i planetarnoj ekološkoj krizi. Član je teorijskog i izdavačkog tima [Multimedijalnog instituta](http://www.mi2.hr/), supokretač projekta [Piratska skrb](https://pirate.care) te umjetnik u izvedbenom kolektivu [BADco.](http://badco.hr/).
 
 U okviru aktivnosti Multimedijalnog instituta od 2000. godine radio je na organizaciji predavanja, skupova i izložbi te uređivanju izdanja s područja političke teorije, političke ekonomije, taktičkih medija i zajedničkih dobara. U istraživačkom radu bavi se pitanjima tehnologija, kapitalizma i postkapitalističke tranzicije, s posebnim fokusom na temama planetarne ekološke krize, tehnologije i znanosti te intelektualnog vlasništva. Povremeno piše i izlaže o kazalištu, plesu i politici.
 
