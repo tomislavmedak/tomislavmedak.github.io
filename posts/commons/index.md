@@ -5,9 +5,7 @@
 -->
 
 ---
-
 lead: This text is a revised version of the talk delivered at The Workers and Punks' University May Day School on "Transition, Austerity and Primitive Accumulation – Left Answers" in Ljubljana on the 28th of April, 2013. The text has been expanded with the insights relating particularly to the digital commons activism in the Balkans region, drawing on the debates in the working sessions at the Green Academy in Vis in Semptember of 2012.
-
 ---
 
 This text will reflect on some of the issues around digital commons, primarily free software, from a historical point of view. It will be looking back at the processes that have shaped the production and access to digital commons and conceptualizations that were produced in order to understand their social significance. Concretely, it will focus on four aspects of the problematic:
