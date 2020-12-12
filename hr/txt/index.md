@@ -88,7 +88,7 @@ Performing Arts Journal*, izd. 60–61, prosinac 2011., str. 50–54.
 
 ### Društvo, društveni pokreti, politika
 
-["Na ulicama Francuske povijest anticipira budućnost"]((http://www.noviplamen.net/glavna/na-ulicama-francuske-povijest-anticipira-buducnost/), *Novi plamen*, 20. prosinca 2018.]
+["Na ulicama Francuske povijest anticipira budućnost"]((http://www.noviplamen.net/glavna/na-ulicama-francuske-povijest-anticipira-buducnost/), *Novi plamen*, 20. prosinca 2018.
 
 ["Civilno društvo i politički rad na ljevici"](/hr/ljevica/). *3k: kapital, klasa, kritika*, sv. 1, izd. 1, 2014., str. 133–38.
 
