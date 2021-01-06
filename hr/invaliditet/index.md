@@ -22,43 +22,23 @@ rehabilitaciji i zapošljavanju osoba s invaliditetom koji bi trebao
 proširiti kvote zapošljavanja invalida s javnog na privatni sektor.
 Poslodavce s preko 20 zaposlenih zakonodavac obavezuje na kvotu od 2-6%
 zaposlenih osoba s invaliditetom, za čije zapošljavanje dobivaju
-jednogodišnja potpora u iznosu 31,500-52,500 KN, a u suprotnom plaćaju
+jednogodišnju potporu u iznosu 31,500-52,500 KN, a u suprotnom plaćaju
 penale u iznosu od 30% minimalne plaće mjesečno pomnoženo s minimalnim
 brojem potrebnih zaposlenika s invaliditetom. Prema nadanjima Hrvatskog
 zavoda za zapošljavanje (HZZ) predložena rješenja "mogla bi značajno
-doprinijeti povećanju broja zaposlenih osoba s invaliditetom, a to znači
-i realiziranju njihovog punog radnog i osobnog potencijala”.[^1]
+doprinijeti povećanju broja zaposlenih osoba s invaliditetom, a to znači i realiziranju njihovog punog radnog i osobnog potencijala”.[^1]
 
-Dugoročne tendencije i dosadašnje stanje međutim ne ostavljaju puno nade
-da će se poslodavci odlučiti za potpore namjesto penala. O razlozima
-ćemo kasnije. Pogledajmo prvo statistike. Kako ne postoji univerzalni
-kriteriji niti univerzalni oblici invaliditeta, podaci variraju od
-društva do društva, no konsenzus je da nekih 10-12% globalne populacije
-ima invaliditet. Prema podacima Eurostata za 2011. u tadašnjih 28
-zemalja EU 14% populacije ima ograničene sposobnosti, a 11% populacije
-ima ograničene radne sposobnosti. Prema podacima Hrvatskog zavoda javnog
-zdravstva od 2007. do 2013. ukupan broj invalida je narastao s nekih
-475,000 na 510,000, od čega je nekih 60,000 branitelja s invaliditetom.
-Usporedimo li te podatke s popisom stanovnika iz 2011. nekih 11-12%
-populacije koja živi u Republici Hrvatskoj ima invaliditet, od čega
-prema posljednjim podacima 29% otpada na lokomotorna oštećenja, a 24,4%
-na duševne poremećaje. Najviše su pogođene osobe starije dobi, pogotovo
-nakon 40. godine života.
+Dugoročne tendencije i dosadašnje stanje međutim ne ostavljaju puno nade da će se poslodavci odlučiti za potpore namjesto penala. O razlozima ćemo kasnije. Pogledajmo prvo statistike. Kako ne postoji univerzalni kriteriji niti univerzalni oblici invaliditeta, podaci variraju od društva do društva, no konsenzus je da nekih 10-12% globalne populacije ima invaliditet. Prema podacima Eurostata za 2011. u današnjih EU-28 zemalja 14% populacije ima ograničene sposobnosti, a 11% populacije ima ograničene radne sposobnosti. Prema podacima Hrvatskog zavoda javnog zdravstva od 2007. do 2013. ukupan broj invalida je narastao s nekih 475,000 na 510,000, od čega je nekih 60,000 branitelja s invaliditetom. Usporedimo li te podatke s popisom stanovnika iz 2011. nekih 11-12% populacije koja živi u Republici Hrvatskoj ima invaliditet, od čega prema posljednjim podacima 29% otpada na lokomotorna oštećenja, a 24,4% na duševne poremećaje. Najviše su pogođene osobe starije dobi, pogotovo nakon 40. godine života.
 
 U EU 57% invalida u radnoj aktivnoj dobi sudjeluje u tržištu rada u
 odnosu na 80% ostale popoulacije. Ukupna stopa zaposlenosti invalida u
-EU je 47% (Hrvatska najlošija s 20%), a nezaposlenost 17% (Hrvatska opet
-najlošija s 49%).[^2] Nekih 53% osoba s invaliditetom su u radno
+EU je 47% (Hrvatska najlošija s 20%), a nezaposlenost 17% (Hrvatska opet najlošija s 49%).[^2] Nekih 53% osoba s invaliditetom su u radno
 aktivnoj dobi (19-64 godina), a od njih je zaposleno svega 16,549
 uglavnom kao srednje-kvalificirana radna snaga. Prema podacima HZZ-a u
-prva tri kvartala 2014. udio zaposlenih invalida preko Zavoda iznosio je
-svega 0.8%, a invalidi su činili 2.3% nezaposlenih u evidenciji Zavoda.
+prva tri kvartala 2014. udio zaposlenih invalida preko Zavoda iznosio je svega 0.8%, a invalidi su činili 2.3% nezaposlenih u evidenciji Zavoda.
 
 Pored isključenosti iz tržišta rada invalidi su dodatno izloženi
-nadprosječnom siromaštvu, niskoj kvaliteti i dokidanju socijalnih usluga
-te različitim tipovima isključivanja koje rezultiraju ranim izlaskom iz
-obrazovnog sistema, smanjenom mobilnošću, općom isključenošću iz
-društvenih aktivnosti i nevidljovšću.
+nadprosječnom siromaštvu, niskoj kvaliteti i dokidanju socijalnih usluga te različitim tipovima isključivanja koje rezultiraju ranim izlaskom iz obrazovnog sistema, smanjenom mobilnošću, općom isključenošću iz društvenih aktivnosti i nevidljovšću.
 
 ### Proturječje politika radne inkluzije i kapitalističkog sistema
 
@@ -66,8 +46,7 @@ Međutim, vratimo se na velika nadanja koju zakonodavac polaže u
 činjenicu da će iz poticajnih mjera zapošljavanja doći do realizacije
 njihovog punog radnog i osobnog potencijala. U izjednačavanju radnog i
 osobnog potencijala invalida potkrada se tragični nesporazum sistemske
-naravi u kojemu se uzrok diskriminacije uzima za sredstvo emancipacije i
-koji je osuđen na neuspjeh.
+naravi u kojemu se uzrok diskriminacije uzima za sredstvo emancipacije i koji je osuđen na neuspjeh.
 
 Na prvi pogled očigledno je proturječje između interesa poslodavaca i
 proklamiranih ciljeva politike radne inkluzije. Naime, kada u uvjetima
@@ -79,22 +58,11 @@ kako bi proizveo što više unutar ugovorenog vremena. Poslodavac taj rad
 nastoji učiniti što produktivnijim povećanjem intenziteta rada i
 uvođenjem novih sredstva za proizvodnju koji povećavaju produktivnost
 tog rada. Što utrošeni rad može proizvesti više u jedinici vremena to
-više potencijalnog viška vrijednosti ostaje poslodavcu da realizira kroz
-prodaju proizvoda. Sile konkurencije na tržištu i nužnost stvaranja
-profita sile poslodavca da stalno povećava produktivnost i smanjuje
-cijenu rada po jedinici proizvoda. U tu svrhu potrebna mu je sposobna i
-prilagodljiva radna snaga koja može odgovoriti na potrebe povećanja
-intenziteta i transofrmacije proizvodnog procesa.
+više potencijalnog viška vrijednosti ostaje poslodavcu da realizira kroz prodaju proizvoda. Sile konkurencije na tržištu i nužnost stvaranja profita sile poslodavca da stalno povećava produktivnost i smanjuje cijenu rada po jedinici proizvoda. U tu svrhu potrebna mu je sposobna i prilagodljiva radna snaga koja može odgovoriti na potrebe povećanja intenziteta i transofrmacije proizvodnog procesa.
 
 Invalidi unutar tako zadatih potreba poslodavaca predstavljaju teret
 kapitalu i nemaju dobre izglede u natjecanju na tržištu rada. Kada
-poslodavac zapošljava invalida onda pristaje na funkcionalna ograničenja
-njegovih radnih sposobnosti (pojmovnom određenju sposobnosti vratit ćemo
-se niže) koji mogu rezulitirati u poteškoćama pri intenziviranju
-proizvodnje ili dodatnim troškovima adaptacije radnog mjesta i
-proizvodnog procesa funkcionalnim ograničenjima invaliditeta. Unatoč
-poticajima i penalima riječ je o budućim rizicima u koje poslodavci
-često ne žele ulaziti.
+poslodavac zapošljava invalida onda pristaje na funkcionalna ograničenja njegovih radnih sposobnosti (pojmovnom određenju sposobnosti vratit ćemo se niže) koji mogu rezulitirati u poteškoćama pri intenziviranju proizvodnje ili dodatnim troškovima adaptacije radnog mjesta i proizvodnog procesa funkcionalnim ograničenjima invaliditeta. Unatoč poticajima i penalima riječ je o budućim rizicima u koje poslodavci često ne žele ulaziti.
 
 Naravno, postoji mnoštvo specifičnih tjelesnih i mentalnih konstitucija
 koje društvo određuje kao invaliditet i mnoštvo različitih proizvodnih
@@ -105,51 +73,24 @@ koji nepobitno potkrepljuju gorenavedeni statistički podaci. Pred
 činjenicom da zapošljavanje invalida predstavlja rizik i trošak za
 poslodavca, pretpostavka da je unutar produktivizma kapitalističkog
 načina proizvodnje moguće ostvariti uključivanje i društvenu
-ravnopravnost invalida pokazuje se iluzornom. Ta iluzija, međutim, odraz
-je razgraničavajuće funkcije invaliditeta unutar strukture i geneze
-kapitalističkog načina proizvodnje.
+ravnopravnost invalida pokazuje se iluzornom. Ta iluzija, međutim, odraz je razgraničavajuće funkcije invaliditeta unutar strukture i geneze kapitalističkog načina proizvodnje.
 
 ### Invaliditet kao proizvod kapitalizma
 
 Iako je napredak znanosti i medicine u kapitalizmu neosporno doprinjeo
-vijeku i kvaliteti života invalida, invaliditet kao specifična društvena
-činjenica i strukturni oblik društvene isključenosti nastaje tek s
-razvojem kapitalizma i izravni je ishod njegovih strukturnih
+vijeku i kvaliteti života invalida, invaliditet kao specifična društvena činjenica i strukturni oblik društvene isključenosti nastaje tek s razvojem kapitalizma i izravni je ishod njegovih strukturnih
 pretpostavki.
 
-U predkapitalističkim načinima proizvodnje osobe s tjelesnim i mentalnim
-oštećenjima su srazmjerno svojim funkcionalnim sposobnostima morale biti
-uključene u seosku ekonomiju i potrebnu skrb dobivale su unutar
-ekonomske jedinice proširene obitelji seoskog domaćinstva. S usponom
-kapitalističkog načina proizvodnje radnici istupaju iz obiteljske
-organizacije proizvodnje i kao individue stupaju na tržište rada u
-potrazi za nadnicom ne bi li osigurali sredstva za život. U tom prelasku
-na natjecateljsko tržište rada osobe s tjelesnim oštećenjima i duševnim
-poremećajima bivaju vrlo brzo potisnute na dno. Istodobno, potrebna
-obiteljska skrb za dodatnog neproduktivnog člana obitelji postaje
-hendikepom i potencijalnim uzrokom osiromašenja za radno aktivne članove
-obitelji.
+U predkapitalističkim načinima proizvodnje osobe s tjelesnim i mentalnim oštećenjima su srazmjerno svojim funkcionalnim sposobnostima morale biti uključene u seosku ekonomiju i potrebnu skrb dobivale su unutar ekonomske jedinice proširene obitelji seoskog domaćinstva. S usponom kapitalističkog načina proizvodnje radnici istupaju iz obiteljske organizacije proizvodnje i kao individue stupaju na tržište rada u potrazi za nadnicom ne bi li osigurali sredstva za život. U tom prelasku na natjecateljsko tržište rada osobe s tjelesnim oštećenjima i duševnim poremećajima bivaju vrlo brzo potisnute na dno. Istodobno, potrebna obiteljska skrb za dodatnog neproduktivnog člana obitelji postaje hendikepom i potencijalnim uzrokom osiromašenja za radno aktivne članove obitelji.
 
 Dakle, u procesu industrijske i urbane tranzicije rađa se isključenost
 invalida iz radne sfere kao temeljnog oblika društvene isključenosti u
 kapitalizmu. Budući da su radnici prisiljeni raditi kako bi osigurali
 sredstva za život, oni koji ne mogu raditi osuđeni su na bijedu i
-socijalnu smrt. Rani kapitalistički gradovi vrve siromašnima,
-sirotanima, sakatima, nemoćnima, nepoćudnima, umirućima. Da bi se ta
-eksplodirajuća urbana populacija zadržala pod kontrolom i unaprijeđivala
-prema potrebama tržišta rada, osnivaju se javne društvene institucije
-poput bolnica, škola, zatvora, ubožnica i sirotišta. Različita oštećenja
-i poremećaji – vida, sluha, lokomotoričkog aparata, kognitivnih
-sposobnosti, psihe, itd. – postaju predmetom normirajućeg i
-disciplinirajućeg promatranja, klasificiranja i interveniranja, a
-pojavljuje se i objedinjena kategorija invaliditeta kojom se ta skupina
-odvaja od drugih oblika institucionalnoga zbrinjavanja prekršitelja
-zakona, nepoćudnih pojedinaca ili djece. Temeljna značajka te kategorije
-je privremena ili trajna nesposobnost tj. funkcionalno ograničenje za
-punopravno konkuriranje na tržištu rada. Temeljni cilj institucionalnog
+socijalnu smrt. Rani kapitalistički gradovi vrve siromašnima, sirotanima, sakatima, nemoćnima, nepoćudnima, umirućima. Da bi se ta
+eksplodirajuća urbana populacija zadržala pod kontrolom i unaprijeđivala prema potrebama tržišta rada, osnivaju se javne društvene institucije poput bolnica, škola, zatvora, ubožnica i sirotišta. Različita oštećenja i poremećaji – vida, sluha, lokomotoričkog aparata, kognitivnih sposobnosti, psihe, itd. – postaju predmetom normirajućeg i disciplinirajućeg promatranja, klasificiranja i interveniranja, a pojavljuje se i objedinjena kategorija invaliditeta kojom se ta skupina odvaja od drugih oblika institucionalnoga zbrinjavanja prekršitelja zakona, nepoćudnih pojedinaca ili djece. Temeljna značajka te kategorije je privremena ili trajna nesposobnost tj. funkcionalno ograničenje za punopravno konkuriranje na tržištu rada. Temeljni cilj institucionalnog
 djelovanja je njeno radno osposobljavanje ili u suprotnom trajno
-institucionalno zbrinjavanje. Temeljna naučna disciplina tog
-institucionalnog djelovanja je medicina.
+institucionalno zbrinjavanje. Temeljna naučna disciplina tog institucionalnog djelovanja je medicina.
 
 Kategorija indvaliditeta liminalna je kategorija odnosa rad – kapital
 koja razdvaja armiju rada od ostatka odrasle populacije koja nije
@@ -174,26 +115,14 @@ tragediju koju se medicinskom intervencijom i rehabilitacijskom
 kompenzacijom nastoji umanjiti i time prilagoditi osobu s invaliditetom
 funkcioniranju u zatečenom okruženju i društvenim odnosima. Na tom
 modelu izgrađen je institucionalni okvir skrbi, primat medicinske nauke
-nad problematikom invaliditeta te poveća industrija lijekova i pomagala.
-Samoorganiziranim djelovanjem invalida i kritikom znanstvenika koji se
+nad problematikom invaliditeta te poveća industrija lijekova i pomagala. Samoorganiziranim djelovanjem invalida i kritikom znanstvenika koji se
 bave društvenom problematikom invaliditeta posljednjih desetljeća
 medicinski model doveden je u pitanje.
 
 Naime, sagledaju li se strukturni i povijesni uvjeti nastanka
 invaliditeta, evidentno je da su oštećenja i poremećaji podjednako
 sinteza socio-ekonomskih uvjeta i socio-kulturnih značenja koliko i
-zdravstvenog stanja osobe. Depresija može biti posljedica radnih odnosa,
-a shizofrenija u nekim sredinama percipirana kao dar. Za razliku od toga
-invaliditet je uglavnom društveno određen, posljedica onesposobljavajuće
-okoline i društvenih odnosa. Dakle, riječ je o društvenim konstruktima
-koji su strukturno određeni oblicima isključivanja i dominacije
-kapitalističkog načina proizvodnje i društvenih odnosa. Prilagođavanjem
-osobnih tjelesnih i mentalnih specifičnosti zatečenoj okolini i
-društvenim odnosima, dakle svođenjem društvene činjenice invaliditeta na
-medicinsko-individualnu razinu, medicinski model potiskuje društvenu
-narav problema i priječi njegovo rješavanje. Namjesto promjene okoline i
-odnosa invalide[^5] se sili na prilagodbu koja u idealnom prosjeku
-postojećih odnosa perpetuira njihovu isključenost.
+zdravstvenog stanja osobe. Depresija može biti posljedica radnih odnosa, a shizofrenija u nekim sredinama percipirana kao dar. Za razliku od toga invaliditet je uglavnom društveno određen, posljedica onesposobljavajuće okoline i društvenih odnosa. Dakle, riječ je o društvenim konstruktima koji su strukturno određeni oblicima isključivanja i dominacije kapitalističkog načina proizvodnje i društvenih odnosa. Prilagođavanjem osobnih tjelesnih i mentalnih specifičnosti zatečenoj okolini i društvenim odnosima, dakle svođenjem društvene činjenice invaliditeta na medicinsko-individualnu razinu, medicinski model potiskuje društvenu narav problema i priječi njegovo rješavanje. Namjesto promjene okoline i odnosa invalide[^5] se sili na prilagodbu koja u idealnom prosjeku postojećih odnosa perpetuira njihovu isključenost.
 
 ### Imperativ sposobnosti
 
