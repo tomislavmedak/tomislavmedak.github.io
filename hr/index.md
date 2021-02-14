@@ -27,6 +27,8 @@ Zajedno s Valerijom Graziano and Marcellom Marsom: ["Learning from #Syllabus"](h
 
 ***Recentni medijski tekstovi, intervjui i objave na blogu:***
 
-[Čemu nas uči pandemija koronavirusa?](/posts/h-alter/), intervju za H-alter, 26. ožujka 2020.
+[O Twitterovom suspendiranju Trumpovog profila](/posts/trump-twitter), intervju za Novosti, 15. siječnja 2021.
 
-[Izboriti se za vrijeme slobodno od proizvodnje](/posts/kulturpunkt/), intervju za Kulturpunkt.hr, 29. studenog 2019.
+["Kapitalizam i invaliditet"](/posts/invaliditet/), intervju za H-alter, 8. siječnja 2021.
+
+["Čemu nas uči pandemija koronavirusa?"](/posts/h-alter/), intervju za H-alter, 26. ožujka 2020.

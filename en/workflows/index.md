@@ -164,11 +164,11 @@ A text written in Markdown plain text can be converted into a variety of formats
 
 ~~~~
 
-pandoc <document>.md --metadata-file "/path/to/metadata.yml --bibliography "/path/to/zotero_library.bib" --csl "/path/to/harvard.csl" --reference-doc "/home/<user>/.pandoc/custom-reference.docx" -s -o <document>.docx
+pandoc <document>.md --metadata-file "/path/to/metadata.yml" --bibliography "/path/to/zotero_library.bib" --csl "/path/to/harvard.csl" -M lang:en --reference-doc "/home/<user>/.pandoc/custom-reference.docx" -s -o <document>.docx
 
 ~~~~
 
-This will convert the `document.md` file, using my metadata YAML file, my Zotero library `.bib`, Harvard referencing style file and `custom-reference.docx` template, into a `document.docx` file (make sure to replace placeholder paths to files and file names with your own). Flag -s (or --standalone) produces an output that includes an appropriate header and footer, but the header and footer is already automatically included for some formats (including `.pdf`, `.docx` and `.odt`) and not for others (including HTML, LaTeX or `.rtf`). Flag -o indicates the output file.
+This will convert the `document.md` file, using my metadata YAML file, my Zotero library `.bib`, Harvard referencing style file and `custom-reference.docx` template, into a `document.docx` file (make sure to replace placeholder paths to files and file names with your own). Flag -s (or --standalone) produces an output that includes an appropriate header and footer, but the header and footer is already automatically included for some formats (including `.pdf`, `.docx` and `.odt`) and not for others (including HTML, LaTeX or `.rtf`). Flag -o indicates the output file. The filter `-M lang:en` defines the metadata for the language locale that will be used by pandoc-citeproc in rendering references. As I write in two languages, the rules for capital letters in titles or phrases such as "edited by" change from language to language. The metadata filter sorts this, provided the CSL file you use supports the language that you need.
 
 A separate YAML metadata file is a relatively recent feature and might not work in older versions of Pandoc. Instead, you can write a YAML metadata block at the top of your text Markdown file. In fact, this is what I tend to do. In a YAML block, you can define many items, such as the font family, `.csl` style file and `.bib` file that will be used with the document. I tend to include only the front matter and retain flexibility with format elements by specifying them only when outputting in Pandoc. A typical YAML block of my article has the following structure:
 

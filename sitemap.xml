@@ -7,7 +7,15 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>http://tom.medak.click/</loc>
-  <lastmod>2020-04-13T23:15:00Z</lastmod>
+  <lastmod>2021-01-17T13:53:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://tom.medak.click/2008/</loc>
+  <lastmod>2021-01-17T13:34:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://tom.medak.click/2015/</loc>
+  <lastmod>2021-01-17T13:34:00Z</lastmod>
  </url>
  <url>
   <loc>http://tom.medak.click/2019/</loc>
@@ -18,12 +26,16 @@
   <lastmod>2020-03-23T09:17:00Z</lastmod>
  </url>
  <url>
+  <loc>http://tom.medak.click/2021/</loc>
+  <lastmod>2021-01-17T13:53:00Z</lastmod>
+ </url>
+ <url>
   <loc>http://tom.medak.click/accelerated/</loc>
   <lastmod>2019-02-16T06:06:00Z</lastmod>
  </url>
  <url>
   <loc>http://tom.medak.click/archive.html</loc>
-  <lastmod>2020-08-28T17:49:00Z</lastmod>
+  <lastmod>2021-01-17T13:53:00Z</lastmod>
  </url>
  <url>
   <loc>http://tom.medak.click/blog/</loc>
@@ -208,5 +220,9 @@
  <url>
   <loc>http://tom.medak.click/posts/paper_struggles_public_library/</loc>
   <lastmod>2019-11-27T16:13:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://tom.medak.click/posts/trump-twitter/</loc>
+  <lastmod>2021-01-17T13:34:00Z</lastmod>
  </url>
 </urlset>

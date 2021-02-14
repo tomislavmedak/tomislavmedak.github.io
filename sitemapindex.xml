@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
   <loc>http://tom.medak.click/categories/cat_posts.xml</loc>
-  <lastmod>2020-08-28T17:49:00Z</lastmod>
+  <lastmod>2021-01-17T13:53:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://tom.medak.click/galleries/rss.xml</loc>
@@ -15,10 +15,10 @@
  </sitemap>
  <sitemap>
   <loc>http://tom.medak.click/rss.xml</loc>
-  <lastmod>2020-08-28T17:49:00Z</lastmod>
+  <lastmod>2021-01-17T13:53:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://tom.medak.click/sitemap.xml</loc>
-  <lastmod>2020-08-28T17:49:00Z</lastmod>
+  <lastmod>2021-01-17T13:53:00Z</lastmod>
  </sitemap>
 </sitemapindex>
