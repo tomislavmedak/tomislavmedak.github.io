@@ -13,23 +13,23 @@ If you want to get in touch, my details can be found on the [contact page](/en/c
 
 <br>
 
-***Digital scholarship workflows:***
+## Digital scholarship workflows:
 
 [An overview of digital tools and workflows](/en/workflows/) I use in my scholarly work. This covers activities ranging from digitisation, referencing, annotation, plaintext authorship, storage and backup, to presentation and web publishing. It includes my tips & tricks for the following free software tools: ScanTailor, Zotero, Diigo, Hypothesis, Markdown, Atom, Pandoc, Git, Reveal.js and Nikola.
 
-***Recent academic publications:***
+## Recent academic publications:
 
-Co-authored with Mladen Domazet and Andro Rilović: [‘Degrowth’](http://www.sciencedirect.com/science/article/pii/B9780124095489120810). In *Reference Module in Earth Systems and Environmental Sciences*, Elsevier, 2019.
+[‘Degrowth’](http://www.sciencedirect.com/science/article/pii/B9780124095489120810), co-authored with Mladen Domazet and Andro Rilović, in *Encyclopedia of the World's Biomes*, Elsevier, 2020, vol. 5, pp. 287-295.
 
-Co-authored with Marcell Mars: ['System of a Takedown: Control and De-Commodification in the Circuits of Academic Publishing'](https://meson.press/books/archives/). In *Archives*, edited by Lison, A., University of Minnesota Press & meson.press, 2019, pp. 47–68.
+['System of a Takedown: Control and De-Commodification in the Circuits of Academic Publishing'](https://meson.press/books/archives/), co-authored with Marcell Mars, in *Archives*, edited by Lison, A., University of Minnesota Press & meson.press, 2019, pp. 47–68.
 
-Co-authored with Marcell Mars: ['Against innovation: Compromised institutional agency and acts of custodianship'](http://www.ephemerajournal.org/contribution/against-innovation-compromised-institutional-agency-and-acts-custodianship). In *Ephemera - Theory and Politics in Organisation* 19 (2), 345–368, special issue on 'Repair matters', edited by Valeria Graziano and Kim Torgal.
+['Against innovation: Compromised institutional agency and acts of custodianship'](http://www.ephemerajournal.org/contribution/against-innovation-compromised-institutional-agency-and-acts-custodianship), co-authored with Marcell Mars, in *Ephemera - Theory and Politics in Organisation* 19 (2), 345–368, special issue on 'Repair matters', edited by Valeria Graziano and Kim Torgal.
 
-Co-authored with Valeria Graziano and Marcell Mars: ['Learning from #Syllabus'](https://issuu.com/instituteofnetworkcultures/docs/statemachines_v14_zondermarks/115). In *State Machines: Reflections and Actions at the Edge of Digital Citizenship, Finance, and Art*, edited by Yiannis Colakides, Mark Garrett, and Inte Gloerich, Institute for Network Cultures, 2019, pp. 115-128.
+['Learning from #Syllabus'](https://issuu.com/instituteofnetworkcultures/docs/statemachines_v14_zondermarks/115), Co-authored with Valeria Graziano and Marcell Mars, in *State Machines: Reflections and Actions at the Edge of Digital Citizenship, Finance, and Art*, edited by Yiannis Colakides, Mark Garrett, and Inte Gloerich, Institute for Network Cultures, 2019, pp. 115-128.
 
-***Recent public writing, interviews and blog posts:***
+## Recent public writing, interviews and blog posts:
 
-Co-authored with Valeria Graziano and Marcell Mars: ['Pirate Care'](https://www.artforum.com/slant/valeria-graziano-marcell-mars-and-tomlsav-medak-on-the-care-crisis-83037), *Artforum*, May 11, 2020.
+['Pirate Care'](https://www.artforum.com/slant/valeria-graziano-marcell-mars-and-tomlsav-medak-on-the-care-crisis-83037), co-authored with Valeria Graziano and Marcell Mars, *Artforum*, May 11, 2020.
 
 ['Breaking the Camel's Back: When an Earthquake and a Pandemic Converge'](/posts/earthquake/), *LeftEast*, March 23, 2020.
 
