@@ -1,11 +1,11 @@
 <!--
-.. title: Dobrodošli na moje web stranice.
+.. title: Dobrodošli!
 .. author: Tomislav Medak
 .. date: 2018-02-05 19:52:05 UTC
 .. description: Tomislav Medak, osobne mrežne stranice s tekstovima, umjetničkim radovima, biografijom, blogom i kontaktom.
 -->
 
-Doktorand sam pri [Centru za postdigitalne kulture](http://www.coventry.ac.uk/research/areas-of-research/postdigital-cultures/) na Sveučilištu u Coventryju. U doktoratu se bavim političkom ekonomijom tehnološkog razvoja i planetarnom ekološkom krizom. Član sam teorijskog i izdavačkog tima [Multimedijalnog instituta](http://www.mi2.hr/), supokretač projekta [Piratska skrb](https://pirate.care), te umjetnik u izvedbene skupine [BADco](http://badco.hr/). Moje djelovanje je primarno vođeno radom tih kolektiva.
+Trenutno sam doktorand pri [Centru za postdigitalne kulture](http://www.coventry.ac.uk/research/areas-of-research/postdigital-cultures/) na Sveučilištu u Coventryju. U doktoratu se bavim političkom ekonomijom tehnološkog razvoja i planetarnom ekološkom krizom. Član sam teorijskog i izdavačkog tima [Multimedijalnog instituta](http://www.mi2.hr/), supokretač projekta [Piratska skrb](https://pirate.care), te umjetnik u izvedbene skupine [BADco](http://badco.hr/). Moje djelovanje je primarno vođeno radom tih kolektiva.
 
 U istraživačkom radu bavim se pitanjima tehnologija, kapitalističkog razvoja i postkapitalističke tranzicije, s posebnim fokusom na temama planetarne ekološke krize, tehnologije i znanosti te intelektualnog vlasništva. Povremeno također pišem o kazalištu, plesu, invaliditetu i politici. Na ovim stranicama naći ćete moje tekstove, informacije o umjetničkom radu s BADco., profesionalnu biografiju i blog. Linkovi na lijevoj strani vode na njih, a niže je izbor najrecentnijeg i najvažnijeg.
 
