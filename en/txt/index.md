@@ -74,7 +74,7 @@ Co-authored with Marcell Mars: ['Against Innovation: Compromised Institutional A
 
 Co-authored with Valeria Graziano and Marcell Mars: ['Learning from #Syllabus'](https://issuu.com/instituteofnetworkcultures/docs/statemachines_v14_zondermarks/115). In *State Machines: Reflections and Actions at the Edge of Digital Citizenship, Finance, and Art*, edited by Yiannis Colakides, Mark Garrett, and Inte Gloerich, Institute for Network Cultures, 2019, pp. 115-128.
 
-Co-interviewed with Marcell Mars by Petar Jandrić and Ana Kuzmanić: ‘Knowledge Commons and Activist Pedagogies: From Idealist Positions to Collective Actions - Conversation with Marcell Mars and Tomislav Medak’. *Learning in the Age of Digital Reason*, edited by Petar Jandrić, SensePublishers, 2017, pp. 243–269.
+Co-interviewed with Marcell Mars by Petar Jandrić and Ana Kuzmanić: ‘Knowledge Commons and Activist Pedagogies: From Idealist Positions to Collective Actions - Conversation with Marcell Mars and Tomislav Medak’. *Learning in the Age of Digital Reason*, edited by Petar Jandrić, SensePublishers, 2017, pp. 243–269. [🔗 PDF on Memory of the World](http://library.memoryoftheworld.org/#/book/1f96d3f8-422d-4b0a-9254-1fe03827bf25)
 
 Co-authored with Marcell Mars: [‘Amateur Librarian - A Course in Critical
 Pedagogy‘](/en/amateur/). *Mondothèque :: A Radiated Book*, Constant, 2016, pp. 48–56.
