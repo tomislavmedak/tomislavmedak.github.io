@@ -60,7 +60,13 @@ et al., M-C-M’ Press, 2018., [🔗 PDF on M-C-M’ Press](http://www.mcmprime.
 
 ### Shadow libraries, access to knowledge, hacktivism
 
-Co-authored with Valeria Graziano and Marcell Mars. ‘Pirate Care: Against the Crisis’. *...Of Bread, Wine, Cars, Security and Peace -- Exhibition Catalog*, Kunsthalle Wien & What, how and for Whom/WHW, 2020, pp. 103–09, [🔗 PDF from KHW's website](https://kunsthallewien.at/101/wp-content/uploads/2020/01/Booklet_of-bread-wine_EN.pdf).
+Co-authored with Valeria Graziano and Marcell Mars: ['When care needs piracy: the case for disobedience in struggles against imperial property regimes'](https://lwbooks.co.uk/product/when-care-needs-piracy-the-case-for-disobedience-in-struggles-against-imperial-property-regimes), *Soundings* 77, 55–70.
+
+Co-authored with Valeria Graziano and Marcell Mars: ['Care in a techno-capitalist world'](https://dingdingding.org/issue-3/care-in-a-techno-capitalist-world/), co-authored with Valeria Graziano and Marcell Mars, *Ding: A magazine about the Internet and things* 3, December 15, 2020.
+
+Co-authored with Valeria Graziano and Marcell Mars: ['Pirate Care'](https://www.artforum.com/slant/valeria-graziano-marcell-mars-and-tomlsav-medak-on-the-care-crisis-83037), co-authored with Valeria Graziano and Marcell Mars, *Artforum*, May 11, 2020.
+
+Co-authored with Valeria Graziano and Marcell Mars: ‘Pirate Care: Against the Crisis’. *...Of Bread, Wine, Cars, Security and Peace -- Exhibition Catalog*, Kunsthalle Wien & What, how and for Whom/WHW, 2020, pp. 103–09, [🔗 PDF from KHW's website](https://kunsthallewien.at/101/wp-content/uploads/2020/01/Booklet_of-bread-wine_EN.pdf).
 
 Co-authored with Marcell Mars: [‘System of a Takedown: Control and De-Commodification in the Circuits of Academic Publishing’](https://meson.press/books/archives/). In *Archives*, edited Andrew Lison, University of Minnesota Press & meson.press, 2019, pp. 47–68. [peer-reviewed]
 

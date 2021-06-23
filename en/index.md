@@ -19,9 +19,9 @@ If you want to get in touch, my details can be found on the [contact page](/en/c
 
 ## Recent academic publications:
 
-[‘Degrowth’](http://www.sciencedirect.com/science/article/pii/B9780124095489120810), co-authored with Mladen Domazet and Andro Rilović, in *Encyclopedia of the World's Biomes*, Elsevier, 2020, vol. 5, pp. 287-295.
+['When care needs piracy: the case for disobedience in struggles against imperial property regimes'](https://lwbooks.co.uk/product/when-care-needs-piracy-the-case-for-disobedience-in-struggles-against-imperial-property-regimes), co-authored with Valeria Graziano and Marcell Mars, *Soundings* 77, 55–70.
 
-['System of a Takedown: Control and De-Commodification in the Circuits of Academic Publishing'](https://meson.press/books/archives/), co-authored with Marcell Mars, in *Archives*, edited by Lison, A., University of Minnesota Press & meson.press, 2019, pp. 47–68.
+[‘Degrowth’](http://www.sciencedirect.com/science/article/pii/B9780124095489120810), co-authored with Mladen Domazet and Andro Rilović, in *Encyclopedia of the World's Biomes*, Elsevier, 2020, vol. 5, pp. 287-295.
 
 ['Against innovation: Compromised institutional agency and acts of custodianship'](http://www.ephemerajournal.org/contribution/against-innovation-compromised-institutional-agency-and-acts-custodianship), co-authored with Marcell Mars, in *Ephemera - Theory and Politics in Organisation* 19 (2), 345–368, special issue on 'Repair matters', edited by Valeria Graziano and Kim Torgal.
 
@@ -29,8 +29,6 @@ If you want to get in touch, my details can be found on the [contact page](/en/c
 
 ## Recent public writing, interviews and blog posts:
 
+['Care in a techno-capitalist world'](https://dingdingding.org/issue-3/care-in-a-techno-capitalist-world/), co-authored with Valeria Graziano and Marcell Mars, *Ding: A magazine about the Internet and things* 3, December 15, 2020.
+
 ['Pirate Care'](https://www.artforum.com/slant/valeria-graziano-marcell-mars-and-tomlsav-medak-on-the-care-crisis-83037), co-authored with Valeria Graziano and Marcell Mars, *Artforum*, May 11, 2020.
-
-['Breaking the Camel's Back: When an Earthquake and a Pandemic Converge'](/posts/earthquake/), *LeftEast*, March 23, 2020.
-
-['Disability, Discrimination and Desire not to Be'](/posts/disability), December 31, 2019.
