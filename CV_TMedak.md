@@ -6,12 +6,12 @@ Multimedia Institute                            medakt@coventry.ac.uk
 Preradovićeva 18                                tom@mi2.hr
 10000 Zagrebu                                   tom@badco.com
 
-                                                **Website & blog:**
-                                                https://tom.medak.click
-                                                **GitLab/-Hub:** tomislavmedak
-                                                **Twitter:** tmedak
-                                                **Fbook:** Tomislav Medak
---------------------------------                ----------------------------
+**Website & blog:**
+https://tom.medak.click
+**GitLab/-Hub:** tomislavmedak
+**Twitter:** tmedak
+**Fbook:** Tomislav Medak
+--------------------------------                -----------------------------
 
 \hfill \break
 
