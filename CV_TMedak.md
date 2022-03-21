@@ -253,6 +253,8 @@ pluriel*), Multimedia Institute and Arkzin, 2003.
 
 ## Teaching
 
+'Camposud Summer Camp', experimental publishing workshop on the 'southern question', convened with Valeria Graziano and Marcell Mars, Calasetta, Aug 26-Sep 5.
+
 'Modeling the Planetary Crisis', guest lecture for BA students at the Coventry Unversity, Feb. 4, 2020.
 
 'Computing the Doughnut: Modeling a Post-Growth Future', guest lecture for MA students at the King’s College in London, Mar. 28, 2019.
@@ -343,7 +345,7 @@ Panel presentation at the *Unboxing: Algorithm, Data, Democracy* conference in B
 \hfill \break
 
 
-## Technical expertise
+## Technical skills
 
 **Digital Scholarship Workflows**
 
