@@ -215,7 +215,7 @@ subject's inner experience or the body is a crystallization of a
 singular inner impulse to movement. “Movement becomes ontologically
 bound to the body”.[^5]
 
-Sixthly, the exceptionalism of the dancing body gives it freedom to
+Fifthly, the exceptionalism of the dancing body gives it freedom to
 assume an exploratory and transformative relation to various existing
 kinesthetic registers: gestural or quotidian comportments that
 increasingly become governed by the modern organization of life and
@@ -360,7 +360,7 @@ more expressed. Dancers surf between performing for many and making
 their own choreographic work; acquiring the broadest range of techniques
 and developing their own post-technique practices; scraping by and doing
 odd jobs on the side, producing small works, doing workshops and
-residencies and rarely reaching stability.
+residencies and rarely reaching professional stability.
 
 As a reflection of this a crisis of labor that is also crisis of dance,
 since the end of the 1990s the development of contemporary dance,
@@ -376,8 +376,7 @@ a position of privilege as an aesthetic form that provides a
 representation and experiential integration of bourgeois ideology
 dominating the present.
 
-## “Provinciality” of Dance in the Western Tradition and the Trans-Modern
-Condition
+## “Provinciality” of Dance in the Western Tradition and the Trans-Modern Condition
 
 If the geographic and historical emplacement of modern and contemporary
 dance in the context of capitalist modernity holds up to scrutiny, then

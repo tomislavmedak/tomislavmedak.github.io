@@ -2,7 +2,7 @@
 .. title: Bibliografija
 .. slug: txt
 .. author: Tomislav Medak
-.. date: 2018-02-05 19:52:05 UTC
+.. date: 2022-03-21 19:52:05 UTC
 .. description: Tekstovi, članci, knjige i poglavlja Tomislava Medaka o tehnologijama, postkapitalističkoj tranziciji, ekološkoj krizi, umjetnosti i invaliditetu.
 -->
 
@@ -68,9 +68,9 @@ ožujak 2017. [🔗](http://www.kulturpunkt.hr/content/pa-pa-proleteri-automatiz
 
 ### Umjetnost, kultura, kulturni aktivizam
 
-[„Narušeni ritam i analitička opsesija“](/hr/ritam/). *BADco.: Ispravci ritma
-(programska knjiga predstave)*, uredila Ivana Ivković, Hrvatsko narodno
-kazalište, 2017, str. 30–33. [🔗 PDF na stranicama BADco.](http://badco.hr/media/uploads/ispravci_ritma_tomislav_medak.pdf)
+["Kultura kao zajedničko dobro"](https://www.kulturpunkt.hr/content/kultura-kao-zajednicko-dobro-0), *Kulturpunkt*, 22. veljače 2021.
+
+[„Narušeni ritam i analitička opsesija“](/hr/ritam/). *BADco.: Ispravci ritma (programska knjiga predstave)*, uredila Ivana Ivković, Hrvatsko narodno kazalište, 2017, str. 30–33. [🔗 PDF na stranicama BADco.](http://badco.hr/media/uploads/ispravci_ritma_tomislav_medak.pdf)
 
 „Pohvala birokracije“. *L.p,* Marko Ercegović / Ured za fotografiju,
 2017, str. 9–19.
