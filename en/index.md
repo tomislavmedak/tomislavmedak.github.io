@@ -5,9 +5,9 @@
 .. description: This is Tomislav Medak's website. Here you'll find his writing, artistic work, biography, blog and contact.
 -->
 
-I am a PhD researcher at Coventry University's [Centre for Postdigital Cultures](http://www.coventry.ac.uk/research/areas-of-research/postdigital-cultures/). My PhD is on the political economy of technology and the planetary ecological crisis. I am also a part of the theory and publishing team of [Multimedia Institute/MAMA](http://www.mi2.hr/en/), a co-initiator of the [Pirate Care](https://pirate.care) project, and a member of the performing arts collective [BADco](http://badco.hr/). What I do is mostly defined by these collective endeavors.
+I am a PhD researcher at Coventry University's [Centre for Postdigital Cultures](http://www.coventry.ac.uk/research/areas-of-research/postdigital-cultures/). My PhD is on the political economy of technology and the planetary ecological crisis. I am also a part of the theory and publishing team of [Multimedia Institute/MAMA](http://www.mi2.hr/en/), a co-initiator of the [Pirate Care](https://pirate.care) project, and a member of the performing arts collective [BADco](http://badco.hr/). What I do is mostly defined by these collective endeavours.
 
-My research interests are in technology, capitalist development and post-capitalist transition, with a particular focus on planetary ecological crisis, techno-science and intellectual property. I approach these from a Marxian and Degrowth perspective. At times, I also write on theatre, dance, disability and politics. In these pages you will find my writings, information on my artistic work, my biography and my blog. Links in the sidebar will lead you there, but the most relevant and recent is selected below.
+My research interests are in technology, capitalist development and post-capitalist transition, with a particular focus on the planetary ecological crisis, techno-science and intellectual property. I approach these from a Marxian and Degrowth perspective. At times, I also write on theatre, dance, disability and politics. In these pages you will find my writings, information on my artistic work, my biography and my blog. Links in the sidebar will lead you there, but the most relevant and recent is selected below.
 
 If you want to get in touch, my details can be found on the [contact page](/en/contact/).
 
