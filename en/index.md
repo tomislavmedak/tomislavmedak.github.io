@@ -17,7 +17,7 @@ If you want to get in touch, my details can be found on the [contact page](/en/c
 
 [An overview of digital tools and workflows](/en/workflows/) I use in my scholarly work. This covers activities ranging from digitisation, referencing, annotation, plaintext authorship, storage and backup, to presentation and web publishing. It includes my tips & tricks for the following free software tools: ScanTailor, Zotero, Diigo, Hypothesis, Markdown, Atom, Pandoc, Git, Reveal.js and Nikola.
 
-## Recent academic publications:
+## Recent academic publications
 
 ['When care needs piracy: the case for disobedience in struggles against imperial property regimes'](https://lwbooks.co.uk/product/when-care-needs-piracy-the-case-for-disobedience-in-struggles-against-imperial-property-regimes), co-authored with Valeria Graziano and Marcell Mars, *Soundings* 77, 55–70.
 
