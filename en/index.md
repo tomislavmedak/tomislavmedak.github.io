@@ -13,7 +13,7 @@ If you want to get in touch, my details can be found on the [contact page](/en/c
 
 <br>
 
-## Digital scholarship workflows:
+## Digital scholarship workflows
 
 [An overview of digital tools and workflows](/en/workflows/) I use in my scholarly work. This covers activities ranging from digitisation, referencing, annotation, plaintext authorship, storage and backup, to presentation and web publishing. It includes my tips & tricks for the following free software tools: ScanTailor, Zotero, Diigo, Hypothesis, Markdown, Atom, Pandoc, Git, Reveal.js and Nikola.
 
@@ -27,7 +27,7 @@ If you want to get in touch, my details can be found on the [contact page](/en/c
 
 ['Learning from #Syllabus'](https://issuu.com/instituteofnetworkcultures/docs/statemachines_v14_zondermarks/115), Co-authored with Valeria Graziano and Marcell Mars, in *State Machines: Reflections and Actions at the Edge of Digital Citizenship, Finance, and Art*, edited by Yiannis Colakides, Mark Garrett, and Inte Gloerich, Institute for Network Cultures, 2019, pp. 115-128.
 
-## Recent public writing, interviews and blog posts:
+## Recent public writing, interviews and blog posts
 
 ['Care in a techno-capitalist world'](https://dingdingding.org/issue-3/care-in-a-techno-capitalist-world/), co-authored with Valeria Graziano and Marcell Mars, *Ding: A magazine about the Internet and things* 3, December 15, 2020.
 
