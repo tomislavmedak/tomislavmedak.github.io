@@ -19,13 +19,14 @@ If you want to get in touch, my details can be found on the [contact page](/en/c
 
 ## Recent academic publications
 
+'Local Maximum: On Popular Technical Pedagogy', co-authored with Valeria Graziano and Marcell Mars, in *Artistic Ecologies: New Compasses and Tools*, edited by Emily Pethick, Pablo Martinez, and What, How & For Whom/WHW, 118–31, Sternberg Press / What, How & for Whom/WHW, 2022.
+
 ['When care needs piracy: the case for disobedience in struggles against imperial property regimes'](https://lwbooks.co.uk/product/when-care-needs-piracy-the-case-for-disobedience-in-struggles-against-imperial-property-regimes), co-authored with Valeria Graziano and Marcell Mars, *Soundings* 77, 55–70.
 
 [‘Degrowth’](http://www.sciencedirect.com/science/article/pii/B9780124095489120810), co-authored with Mladen Domazet and Andro Rilović, in *Encyclopedia of the World's Biomes*, Elsevier, 2020, vol. 5, pp. 287-295.
 
 ['Against innovation: Compromised institutional agency and acts of custodianship'](http://www.ephemerajournal.org/contribution/against-innovation-compromised-institutional-agency-and-acts-custodianship), co-authored with Marcell Mars, in *Ephemera - Theory and Politics in Organisation* 19 (2), 345–368, special issue on 'Repair matters', edited by Valeria Graziano and Kim Torgal.
 
-['Learning from #Syllabus'](https://issuu.com/instituteofnetworkcultures/docs/statemachines_v14_zondermarks/115), Co-authored with Valeria Graziano and Marcell Mars, in *State Machines: Reflections and Actions at the Edge of Digital Citizenship, Finance, and Art*, edited by Yiannis Colakides, Mark Garrett, and Inte Gloerich, Institute for Network Cultures, 2019, pp. 115-128.
 
 ## Recent public writing, interviews and blog posts
 

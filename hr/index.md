@@ -15,11 +15,11 @@ Ako me želite kontaktirati, moji podaci su na [kontaktnoj stranici](/en/contact
 
 ***Recentne akademske publikacije:***
 
+Zajedno s Valerijom Graziano i Marcellom Marsom: "Local Maximum: On Popular Technical Pedagogy", u *Artistic Ecologies: New Compasses and Tools*, uredili Emily Pethick, Pablo Martinez i What, How & For Whom/WHW, 118–31, Sternberg Press / What, How & for Whom/WHW, 2022.
+
 Zajedno s Valerijom Graziano i Marcellom Marsom: "When care needs piracy: the case for disobedience in struggles against imperial property regimes", *Soundings*, 2021, 77 (travanj 2021.), str. 55-70.
 
 [„Estetizacija tehnopolitike“](http://library.memoryoftheworld.org/#/book/369db1a9-d6f7-4d7e-8c92-0b4f4c37682c), u *Filozofija je ženskog roda : Zbornik u čast Nadeždi Čačinovič*. Zagreb: Filozofski fakultet Sveučilišta u Zagrebu, 2019, str. 67–87.
-
-Zajedno s Marcellom Marsom: ["System of a Takedown: Control and De-Commodification in the Circuits of Academic Publishing"](https://meson.press/books/archives/). U *Archives*, uredio Andrew Lison, University of Minnesota Press & meson.press, 2019, str. 47–68.
 
 Zajedno s Valerijom Graziano i Marcellom Marsom: ["Learning from #Syllabus"](https://issuu.com/instituteofnetworkcultures/docs/statemachines_v14_zondermarks/115). U *State Machines: Reflections and Actions at the Edge of Digital Citizenship, Finance, and Art*, uredili Yiannis Colakides, Mark Garrett i Inte Gloerich, Institute for Network Cultures, 2019, str. 115-128.
 
