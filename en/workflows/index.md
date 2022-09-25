@@ -259,7 +259,7 @@ Here Xelatex engine is used to allow Unicode characters from input files, `-V` f
 
 Therefore, I have decided to assemble my thesis using Yihui Xie's [bookdown](https://bookdown.org/), that is, its [oxforddown](https://github.com/ulyngs/oxforddown) version developed by Ulrik Lyngs and inspired by Chester Ismay's [thesisdown](https://github.com/ismayc/thesisdown). Bookdown is an open-source R package for writing books in RMarkdown and can automate the export of publications to `.pdf`, `.docx`, `.epub` or `.html` formats. The HTML GibBook format is directly styled for GitHub Pages.
 
-I have selected oxfordown because Oxford University uses a [LaTeX thesis template](https://github.com/mcmanigle/OxThesis) that is similar to Coventry University's thesis structure. The creator of oxforddown, Ulrich Lyngs, has a series of [video tutorials on YouTube](https://www.youtube.com/watch?v=LBHxcuCMjnk&list=PLkIUogDmN_nA6f3UJ0tWHlxGITUjbuldE) documenting how to build a thesis using oxforddown.
+I have selected oxfordown because Oxford University uses a [LaTeX thesis template](https://github.com/mcmanigle/OxThesis) that is similar to Coventry University's thesis structure. The creator of oxforddown, Ulrik Lyngs, has a series of [video tutorials on YouTube](https://www.youtube.com/watch?v=LBHxcuCMjnk&list=PLkIUogDmN_nA6f3UJ0tWHlxGITUjbuldE) documenting how to build a thesis using oxforddown.
 
 All the tweakes to oxforddown, formatted to Coventry University's standards, I have uploaded to my GitHub account, titled as [coventrydown](https://github.com/tomislavmedak/coventrydown). To build a Coventry University thesis using coventrydown template, do the following:
 
