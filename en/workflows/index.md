@@ -39,7 +39,7 @@ lead: This document covers digital tools and workflows that I use in my scholarl
 - [5) Revising](#revising)
 - [6) Assembling the thesis in thesisdown](#assembling-the-thesis-in-thesisdown)
     - [Merging chapters with pandoc](#merging-chapters-with-pandoc)
-    - [Adapting thesisdown](#adapting-thesisdown)
+    - [Adapting oxforddown for Coventry University](#adapting-oxforddown-for-coventry-university)
 - [7) Naming, storing and backing-up files](#naming-storing-and-backing-up-files)
     - [Git, Gitlab and SparkleShare](#git-gitlab-and-sparkleshare)
     - [Backing-up the Zotero library](#backing-up-the-zotero-library)
