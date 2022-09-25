@@ -255,13 +255,35 @@ pandoc --latex-engine=xelatex -V fontsize=12pt -V documentclass:book -V papersiz
 
 Here Xelatex engine is used to allow Unicode characters from input files, `-V` flags are used to set LaTeX variables, `--number-sections` flag is used to set numbering for all the headings and `-H` flag is used to include a PDF document. However, for my PhD thesis, I wanted to have an extended set of features such as in-text citations that link to references, a list of figures, chapter-level tables-of-contents.
 
-#### Adapting thesisdown
+#### Adapting oxforddown for Coventry University
 
-Therefore, I have decided to assemble my thesis using Yihui Xie's [Bookdown](https://bookdown.org/), that is, its [thesisdown](https://github.com/ismayc/thesisdown) version created by Chester Ismay in [oxforddown](https://github.com/ulyngs/oxforddown) flavour developed by Ulrik Lyngs. Bookdown is an open-source R package for writing books in RMarkdown and can automate the export of publications to `.pdf`, `.docx`, `.epub` or `.html` formats. The HTML GibBook format is directly styled for GitHub Pages. The creator of oxforddown, Ulrich Lyngs, has a series of [video tutorials on YouTube](https://www.youtube.com/watch?v=LBHxcuCMjnk&list=PLkIUogDmN_nA6f3UJ0tWHlxGITUjbuldE) documenting how to build a thesis using oxforddown.
+Therefore, I have decided to assemble my thesis using Yihui Xie's [bookdown](https://bookdown.org/), that is, its [oxforddown](https://github.com/ulyngs/oxforddown) version developed by Ulrik Lyngs and inspired by Chester Ismay's [thesisdown](https://github.com/ismayc/thesisdown). Bookdown is an open-source R package for writing books in RMarkdown and can automate the export of publications to `.pdf`, `.docx`, `.epub` or `.html` formats. The HTML GibBook format is directly styled for GitHub Pages.
 
-Oxforddown I have chosen as Oxford University uses a LaTeX thesis template that is similar to Coventry University's thesis structure. To prepare my chapters for oxforddown, I had convert them to R Markdown `.Rmd` files, move chapter titles from YAML front matter to the top-level heading, add `\minitoc` after the chapter title and transform figures into R code. To output my thesis, I have cloned the [oxforddown package](https://github.com/ulyngs/oxforddown), opened the R package file in [RStudio](https://www.rstudio.com/products/rstudio/download/), moved my `.Rmd` chapter files to the oxforddown root folder, the abstract and acknowledgements `.Rmd` files to the `front-and-back-matter` folder and the bibliography `.bib` file to the `bibliography` folder. All the figures I have moved to a newly created `figures` folder, minding that all the links in chapter files lead point to that path.
+I have selected oxfordown because Oxford University uses a [LaTeX thesis template](https://github.com/mcmanigle/OxThesis) that is similar to Coventry University's thesis structure. The creator of oxforddown, Ulrich Lyngs, has a series of [video tutorials on YouTube](https://www.youtube.com/watch?v=LBHxcuCMjnk&list=PLkIUogDmN_nA6f3UJ0tWHlxGITUjbuldE) documenting how to build a thesis using oxforddown.
 
-To adapt to the requirements of Coventry University, I have heavily tweaked both the [index.Rmd](/index.Rmd) and [template.tex](/template.tex) files in oxforddown. For my pre-viva submission, I had to add candidate's declaration, ethics approval and published articles included in the thesis, which I all added as separate PDFs. These PDFs I have placed in a newly created `inserted-PDFs` folder. The declaration and approval should not be added to the table of contents, so I have included them through the template.tex file, whereas published articles are added to the `appendices.Rmd` in the `front-and-back-matter` folder. To inlcude those PDFs I have used the following LaTeX code:
+All the tweakes to oxforddown, formatted to Coventry University's standards, I have uploaded to my GitHub account, titled as [coventrydown](https://github.com/tomislavmedak/coventrydown). To build a Coventry University thesis using coventrydown template, do the following:
+
+* download [coventrydown](https://github.com/tomislavmedak/coventrydown) and open it in [RStudio](https://www.rstudio.com/products/rstudio/download/),
+* replace my chapter `.Rmd` files with yours,
+* if you have your chapter titles in YAML front matter, move them to the top-level headings and change all the lower-level headings,
+* replace my figures and tables in the `figures` folder and change in your chapters the paths to files accordingly,
+* replace my `bibliography.bib` files in the `bibliography` folder,
+* add your citation style `.csl` file to the `bibliography` folder,
+* replace my Declaration and Ethics forms in the `insert-PDFs` folder,
+* edit [index.Rmd](https://github.com/tomislavmedak/coventrydown/blob/master/index.Rmd) and [template.tex](https://github.com/tomislavmedak/coventrydown/blob/master/templates/template.tex) accordingly.
+
+Additionally, if you desire to have a list of figures, you need to transform the Markdown image links in your chapter files with the following R code:
+
+~~~~
+
+```{r echo=FALSE, fig.cap="long caption under the figure", fig.scap="short caption used in the list of figures", out.width="100%"}
+
+knitr::include_graphics("./figures/<filename>.jpg")
+```
+
+~~~~
+
+For Coventry University's pre-viva submission, I had to add the Candidate's Declaration, Ethics Approval and a published article to the thesis, which are all separate, already existing PDFs. These PDFs are placed in the `inserted-PDFs` folder. As the Declaration and Ethics Approval should not be added to the table of contents, they are inserted into the thesis through the template.tex file before the title page, whereas the published article is included as an appendix through the `appendices.Rmd` file. To insert PDFs into the thesis use the following LaTeX code:
 
 ~~~~
 
@@ -269,7 +291,10 @@ To adapt to the requirements of Coventry University, I have heavily tweaked both
 
 ~~~~
 
-My oxforddown formatted for Coventry University, i.e. coventrydown, you can download from [here](https://github.com/tomislavmedak/coventrydown).
+To add a mini-ToC to chapters, add `\minitoc` after the chapter title and adapt the ToC-depth in the `index.Rmd` file.
+
+To build the thesis, you simply knit `index.Rmd`.
+
 
 ## 7) Naming, storing and backing-up files
 
