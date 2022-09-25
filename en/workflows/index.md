@@ -257,11 +257,19 @@ Here Xelatex engine is used to allow Unicode characters from input files, `-V` f
 
 #### Adapting thesisdown
 
-Therefore, I have decided to assemble my thesis using Yihui Xie's [Bookdown](https://bookdown.org/), that is, its [thesisdown](https://github.com/ismayc/thesisdown) version created by Chester Ismay, or more precisely, its [oxforddown](https://github.com/ulyngs/oxforddown) flavour created by Ulrik Lyngs. Bookdown is an open-source R package for writing books in RMarkdown and can automate the export of publications to `.pdf`, `.docx`, `.epub` or `.html`. HTML GibBook format is directly styled for GitHub Pages.
+Therefore, I have decided to assemble my thesis using Yihui Xie's [Bookdown](https://bookdown.org/), that is, its [thesisdown](https://github.com/ismayc/thesisdown) version created by Chester Ismay in [oxforddown](https://github.com/ulyngs/oxforddown) flavour developed by Ulrik Lyngs. Bookdown is an open-source R package for writing books in RMarkdown and can automate the export of publications to `.pdf`, `.docx`, `.epub` or `.html` formats. The HTML GibBook format is directly styled for GitHub Pages. The creator of oxforddown, Ulrich Lyngs, has a series of [video tutorials on YouTube](https://www.youtube.com/watch?v=LBHxcuCMjnk&list=PLkIUogDmN_nA6f3UJ0tWHlxGITUjbuldE) documenting how to build a thesis using oxforddown.
 
-Oxforddown I have chosen as Oxford University uses a LaTeX thesis template similar to Coventry University's thesis structure. To prepare my chapters, I have converted them to R Markdown `.Rmd` files, moved chapter titles from YAML front matter to the top-level heading, added `\minitoc` after the chapter title and transformed figures into R code. To output my thesis, I have cloned the [oxforddown package](https://github.com/ulyngs/oxforddown), opened the R package file in [RStudio](https://www.rstudio.com/products/rstudio/download/), moved my `.Rmd` chapter files to the oxforddown root folder, moved the abstract and acknowledgements files to the `front-and-back-matter` folder and moved the bibliography `.bib` file and all the figures to their respective folders.
+Oxforddown I have chosen as Oxford University uses a LaTeX thesis template that is similar to Coventry University's thesis structure. To prepare my chapters for oxforddown, I had convert them to R Markdown `.Rmd` files, move chapter titles from YAML front matter to the top-level heading, add `\minitoc` after the chapter title and transform figures into R code. To output my thesis, I have cloned the [oxforddown package](https://github.com/ulyngs/oxforddown), opened the R package file in [RStudio](https://www.rstudio.com/products/rstudio/download/), moved my `.Rmd` chapter files to the oxforddown root folder, the abstract and acknowledgements `.Rmd` files to the `front-and-back-matter` folder and the bibliography `.bib` file to the `bibliography` folder. All the figures I have moved to a newly created `figures` folder, minding that all the links in chapter files lead point to that path.
 
-To adapt to the requirements of Coventry University, I have heavily tweaked both the [index.Rmd](/index.Rmd) and [template.tex](/template.tex) files in oxforddown.
+To adapt to the requirements of Coventry University, I have heavily tweaked both the [index.Rmd](/index.Rmd) and [template.tex](/template.tex) files in oxforddown. For my pre-viva submission, I had to add candidate's declaration, ethics approval and published articles included in the thesis, which I all added as separate PDFs. These PDFs I have placed in a newly created `inserted-PDFs` folder. The declaration and approval should not be added to the table of contents, so I have included them through the template.tex file, whereas published articles are added to the `appendices.Rmd` in the `front-and-back-matter` folder. To inlcude those PDFs I have used the following LaTeX code:
+
+~~~~
+
+\includepdf[pages=-]{inserted-PDFs/<filename>.pdf}
+
+~~~~
+
+My oxforddown formatted for Coventry University, i.e. coventrydown, you can download from [here](https://github.com/tomislavmedak/coventrydown).
 
 ## 7) Naming, storing and backing-up files
 
