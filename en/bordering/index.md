@@ -17,24 +17,18 @@ lead: This is a revised version of a talk delivered at the Tanzkongress in Hanno
 
 ## Argument in brief
 
-In this analysis I’ll situate the emergence of dance as an art form
-within the geo-historical trajectory of political bordering process in
-the 18th and 19th century Europe. I'll suggest that with the rise of
-capitalist modernity, which ushered in both the bourgeois nation-states
-as a form of internal social regulation and the imperialism as a form of global economic expansion, the dance gradually differentiated itself out as a separate artistic field. In its evolving focus on composing collective movement of freely expressive bodies, it reflected four structural aspects of the rapidly maturing capitalism: nominal equality of all members of the society, subjection of bodies to the industrial process of production, abstract mediation of social relations through commodity exchange, and gradual exclusion of pre-modern routines, gestures and rituals from the capitalist organization of life.
+In this analysis I will situate the emergence of dance as an art form within the geo-historical trajectory of the political bordering process in
+the 18th and 19th century Europe. I will suggest that with the rise of capitalist modernity, which ushered in both the bourgeois nation-states as a form of internal social regulation and the imperialism as a form of global economic expansion, the dance gradually differentiated itself out as a separate artistic field. In its evolving focus on composing collective movement of freely expressive bodies, it reflected four structural aspects of the rapidly maturing capitalism: the nominal equality of all members of society, the subjection of bodies to the industrial process of production, the abstract mediation of social relations through commodity exchange, and gradual exclusion of pre-modern routines, gestures and rituals from the capitalist organization of life.
 
-These four aspects would become both emphatically encapsulated in
-popular social dances and, relevant for the analysis here,
-symptomatically encapsulated in dance as an art form. Against the
-backdrop of these constitutive aspects of capitalist society, dance's
+These four aspects would become both emphatically encapsulated in popular social dances and, relevant for the analysis here, symptomatically encapsulated in dance as an art form. Against the backdrop of these constitutive aspects of capitalist society, dance's
 concern with the composition of collective movement, freely expressive
 bodies unfettered from social coercion, abstract dance relieved of
-conventions and pursuit of cultural difference provided at once a
-representation and a performance of social relations: an embodied
+conventions and the pursuit of cultural difference provided at once a
+representation and a performance of larger social relations: an embodied
 expression of bourgeois ideology of freedom and spontaneity of dynamic
 social relations – and thus a form of “social choreography”. It is
 within these registers that dance’s socially reflexive, ambivalent and
-potentially critical capacity had resided.
+potentially critical capacity resided.
 
 However, from this close relation to capitalist modernity follows that
 in the geo-historical contexts where the capitalist development was
@@ -42,9 +36,9 @@ stunted by socialist revolution or subjected to imperial conditions,
 dance as an art form did not undergo the comparable process of
 constitution as it did in the West, but rather followed different
 trajectories. Using the example of post-socialist semi-periphery of
-Croatia, I'll show that even the transfer of organizational forms that
+Croatia, I will suggest that even the transfer of organizational forms that
 define dance as an artistic field in its Western tradition does not lead
-to uniform developments, and thus that the modern and contemporary
+to a uniform developments, and thus that the modern and contemporary
 dance's dominant modes of presentation, techniques and discourse are
 neither general nor generalizable. They are rather “provincially”
 Western.
@@ -79,12 +73,12 @@ It is only recently that the political space has become defined by
 stable national borders. Borders have solidified into geopolitical
 boundaries of national territories only with the demise of the
 interlocking regime of large empires and fragmented feudal fiefdoms.
-This process of solidification didn't start in Europe before the signing
+This process of solidification did not start in Europe before the signing
 of Westphalian treaties – and as late as the second half of the 20th
 century across the post-colonial world. Borders are today regarded – at
 least in international law, if not in political practice – subject to
 legitimate change only by self-determination or international
-agreements.
+agreements. Not by acts of war.
 
 Yet with the stability of national borders becoming a norm, borders have
 transformed into a flexible regime of governance: no longer running
@@ -97,27 +91,17 @@ internalization of bordering capacity to integrate and separate, to
 include and exclude, goes hand in hand with a process of economic
 expansion. A stable boundary implies an advancing frontier. National
 re-territorialization implies global de-territorialization. Thus, the
-border system between European nations didn't emerge without the
+border system between European nations did not emerge without the
 colonial frontier expanding across the rest of the world. The
 disaggregation of national border systems into multiple forms of
 institutional regulatory control over the flows of labor, goods and
-capital didn't emerge without capitalist frontier penetrating deep into
+capital did not emerge without capitalist frontier penetrating deep into
 para-capitalist societies across the world. Migrant labor is at once
 absorbed within the national borders and excluded from claim to rights.
 Refugees are both welcomed and cordoned-off, subject to humanitarian aid
 and allowed to let drown.
 
-While principally regulating economic and population flows, the
-bordering processes are overdetermined by symbolic and normative
-functions, reproducing the classist, ethnic, gendered, racial, sexual,
-cultural, ableist and religious identities and separations. These
-identitarian elements have their embodied dimensions. Workers demanding
-their right to fair compensation or unionization are decried for souring
-the business climate and competitive position of the economy. Women are
-relegated to a reserve army of labor and encouraged to stick with the
-child bearing and rearing. The disabled are institutionally patronized
-in order not to demand right not to work. The immigrant populations are
-racialized and ghettoized in order to consent to their precarity.
+While principally regulating economic and population flows, the bordering processes are overdetermined by symbolic and normative functions, reproducing the classist, ethnic, gendered, racial, sexual, cultural, ableist and religious identities and separations. These identitarian elements have their embodied dimensions. Workers demanding their right to a fair compensation or unionization are decried for souring the business climate and competitive position of a national economy. Women are relegated to a reserve army of labor and encouraged to stick with child bearing and rearing. The disabled are institutionally patronized in order not to demand right not to work. The immigrant populations are racialized and ghettoized in order to consent to their precarity.
 
 Whilst the territorial borders still continue to exist, the bordering
 processes reach deep into societies, and work deep into the minds and
@@ -126,8 +110,8 @@ scales, from geopolitical to micropolitical to embodied, to enable the
 expansion of the economic frontier and the reproduction of the statist
 regime that facilitates that expansion. Yet, struggles to unveil the
 process of bordering, to organize across the separations of language,
-race, religion or gender, to halt their dis-empowering effect are a
-strong vector of political subjectivation and agency, one that I'll
+race, religion or gender, to overcome their dis-empowering effect are a
+strong vector of political subjectivation and agency, one that I will
 return to later in the conclusion.
 
 Dance as a distinct art form emerged with the rise of capitalist
@@ -246,8 +230,7 @@ withdrawn from the process of production.
 ## Dance in the Periphery and the Illusions of “Developmentalism”
 
 The constitutive withdrawal of the body and movement from the industrial
-process of production sheds light on why the interruption in the
-development of modern dance that was brought about by the socialist
+process of production in modern dance sheds light on why the interruption in modern dance's development that was brought about by the socialist
 revolution is not simply a case of stunted modernization, but a
 different trajectory of development. Not a derailing or aberration, but
 an altogether different formation. Socialist revolutions have all taken
@@ -256,7 +239,7 @@ stages and the social mass of bodies was still not subjected to the
 exigencies of the industrial process of production. Thus, parallel shock
 brought about by a rapid socialist modernization that mobilized masses
 of producers into a collective undertaking of constructing a new
-society, a constructivist merging of productive and social life,
+society and a constructivist merging of productive and social life,
 precluded dance art from forming as an autonomous field.
 
 Rather than constituting and instituting itself as an autonomous field
@@ -280,7 +263,7 @@ and Dance Education Program at the Zagreb Academy of Dramatic Arts.
 Although the Dance Center is not officially a national dance center, the
 Commission doesn't have ample funds to help develop the field, and the
 Dance Program is struggling with insufficient faculty and support, these
-are typical institutional forms that serve the reproduction of a
+are nonetheless typical institutional forms that serve the reproduction of a
 discipline. Thus it would seem that the dance has completed the
 paradigmatic passage from an unacknowledged and marginalized art form
 into an institutionally differentiated field such as it exists across
@@ -317,64 +300,30 @@ fact that the evolutionary processes cannot be transplanted from one
 socio-political context to another, nor can the introduction of
 institutional solutions bring the evolution of a certain context from
 one stage into another. That which we consider as belated and troubled
-process of catching-up is nothing else than a transfer of institutional
-forms into a context where the structure of social relations and already
-existing organizational forms provide different affordances and
-different resistances to a transplanted form than its original
-context.[^7]
+process of catching-up with the capitalist center is nothing else but a transfer of institutional forms into a context where the structure of social relations and already existing organizational forms provide different affordances and different resistances to a transplanted form than its original context.[^7] For these institutional forms to take hold and adapt in capitalist peripheries, cultural workers need to mobilise and organise to appropriate them and struggle to acertain their continued precarious existence.
 
 ## Crisis of Labor and Crisis of Dance
 
 The demise of two competing regimes within the world-system after the
 fall of socialism and the opening of China has seen the capitalist
 relations become uncontested, the division of labor global, the social
-inequality deeper. The flexibilization and proletarianization of the
-working class are a predominant social fact. If the sphere of productive
-labor and labor market provided the integrative mechanism of industrial
-capitalism, the modern dance has built its autonomy vis-à-vis that exact
-mechanism - and the post-modern dance has questioned that autonomy. Yet
-today, with the advanced de-industrialization in the capitalist core,
-high levels of unemployment and prevalent unstable employment, the
-socially integrative role of labor is crumbling away. And as its
-crumbling away, so is the constitutive relation of dance vis-à-vis the
-sphere of productive labor becoming troubled.
+inequality in large parts of the world grow deeper. The flexibilization and proletarianization of the working class are a predominant social fact. If the sphere of productive labor and labor market provided the integrative mechanism of industrial capitalism, the modern dance has built its autonomy vis-à-vis that exact mechanism — and the post-modern dance has questioned that autonomy. Yet today, with the advanced de-industrialization in the capitalist core, high levels of unemployment and prevalent unstable employment, the socially integrative role of labor is crumbling away. And as its crumbling away, so is the constitutive relation of dance vis-à-vis the sphere of productive labor becoming troubled.
 
 If flexibility, adaptability and malleability of capacity to labor have
 become a general requirement for survival in the labor market, the
 border running between the subsumed body and the free body has become
-unsettled. Not only is the self-transformative laboring body of a dancer
+unsettled. Not only is the self-transformative body of a dancer
 demanded of everyone, but the prevalent condition of the uncertainty of
 employment and multiple careers are more than ever a lot of a growing
 global dancing community. The logic of inner differentiation built
 around the axis heteronomy and autonomy of body is thus crumbling away.
 The laboring body is increasingly enjoined to be free and enterprising,
-while the dancing body increasingly demanded to show itself laboring to
+while the dancing body is increasingly demanded to show itself laboring to
 justify its privilege to free exploration.
 
-But the crumbling-away of the constitutive relation of dance to labor
-sediments in various other aspects through which the dance field
-reproduces itself. As the number of trained dancers increases, the
-apprenticeship under a master choreographer becomes rare, the employment
-at a dance ensemble for most unlikely, the fragmentation and competition
-more expressed. Dancers surf between performing for many and making
-their own choreographic work; acquiring the broadest range of techniques
-and developing their own post-technique practices; scraping by and doing
-odd jobs on the side, producing small works, doing workshops and
-residencies and rarely reaching professional stability.
+The crumbling away of the constitutive distance of dance to capitalist labor sediments in various other aspects through which the dance field reproduces itself. As the number of trained dancers increases, apprenticeships under a master choreographer become rarer, employment in dance ensembles becomes unlikely for most, and the fragmentation and competition are more expressed. Dancers shuffle between mostly performing for others and rarely making their own choreographies; acquiring the broadest range of techniques and developing their own post-technique practices; and scraping by doing odd jobs on the side, producing small works, doing workshops and residencies, and rarely reaching professional stability.
 
-As a reflection of this a crisis of labor that is also crisis of dance,
-since the end of the 1990s the development of contemporary dance,
-primarily in what is known as conceptual dance or choreographic theater,
-is marked by upending of conventions of the theatrical representation
-and suspension of ontological identity between the body and movement.
-The performative formats seek to step outside of the scopic regime of
-theatrical stage, where the totality of choreographic relations is made
-transparent, and seeks other dispositives of encounter. Production
-formats are becoming fluid, smaller and transformed into education,
-exhibition or residency. Dance seems no longer able or willing to uphold
-a position of privilege as an aesthetic form that provides a
-representation and experiential integration of bourgeois ideology
-dominating the present.
+As a reflection of the crisis of labor that is also a crisis of dance, since the end of the 1990s, the development of contemporary dance, primarily in what is known as conceptual dance or choreographic theater, has been marked by an upending of conventions of theatrical representation and the suspension of what Bojana Cvejić has termed the ontological identity between the body and movement. The performative formats seek to step outside of the scopic regime of theatrical stage, where the totality of choreographic relations is made transparent, and seeks other dispositives of encounter, including the exhibition, gallery, and museum. Production formats are becoming fluid, smaller and transformed into education, exhibition or residency. Dance seems no longer able or willing to uphold a position of privilege as an aesthetic form that provides arepresentation and experiential integration of bourgeois ideology dominating the present.
 
 ## “Provinciality” of Dance in the Western Tradition and the Trans-Modern Condition
 
@@ -383,9 +332,9 @@ dance in the context of capitalist modernity holds up to scrutiny, then
 we have to acknowledge that its canonical story of development, that its
 grandmistresses and grandmasters and its institutional framing are not a
 general condition of dance in the modernity nor are they generalizable
-to other contexts. There's more to the story of dance and modernity than
+to other contexts. There is more to the story of dance and modernity than
 the “provincial” story of dance in the Western tradition and its
-Romantic epistemology. There’s an untold story of being within and
+Romantic epistemology. There is an untold story of being within and
 outside of capitalist modernity, undercutting the dominant structure of
 bordering within the world-system.
 
@@ -416,9 +365,7 @@ Enrique Dussel calls trans-modernity.[^9]
 
 A historical singularity of trans-modernity is thus a parallel existence
 of forms of contemporary dance alongside the alternative forms that
-capture social choreographies characteristic of the peripheries of the
-world-system. Yet still, the register of inherited forms, be they in the
-Western tradition or outside of it, although still operative today, are
+capture social choreographies characteristic of the so-called peripheries of the world-system. Yet still, the register of inherited forms, be they in the Western tradition or outside of it, although still operative today, are
 no longer sufficient to do justice the changing conditions within the
 context of the global division of labor. The crisis of the dance as an
 art form is an opportunity neither to settle with the process of
@@ -437,7 +384,7 @@ Cairo and Alexandria played in the articulation of universalist
 anti-imperialism. That universalist anti-imperialism emerged from the
 encounter in those cities of migrant workers arriving from the rural
 hinterland, itinerant anarchists and socialists arriving from Europe,
-diasporic post-Nahba intellectuals arriving mostly from Syria.
+diasporic post-Nahda intellectuals arriving mostly from Syria.
 Periodicals, books, translations, reading rooms, conferences and – last
 but not least – theater stagings had created networks of dissemination
 and popularization of radical ideas and forms of agency such as
@@ -452,10 +399,7 @@ fortification. Both the trade routes sustaining vital interests of
 nations and the peril for people pushed from their lands by war, dearth
 and environmental degradation. It was across this Mediterranean
 geography that the trans-modernity resonated as the chapter was closing
-on the British hegemony of the imperial world, now it is again the same
-lands and the same sea that enjoins us to discover a different
-modernity, so we can work to close the chapter on the present hegemony
-of the capitalist world.
+on the British hegemony of the imperial world and its rule over the Levant, now it is again the same lands and the same sea that enjoins us to discover a different modernity, so we can work to close the chapter on the present hegemony of the capitalist world.
 
 [^1]: Sandro Mezzadra and Brett Neilson, *Border as Method, Or the
     Multiplication of Labor* (Duke University Press, 2013).

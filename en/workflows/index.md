@@ -8,7 +8,7 @@
 -->
 
 ---
-lead: This document covers digital tools and workflows that I use in my scholarly work, covering a range of actions from digitisation, annotation, referencing, plaintext authorship, storage and backup, to presentation, publishing and web presence. It includes workflows based on ScanTailor, OCR tools, Zotero, Diigo, Hypothesis, Markdown, Atom, Pandoc, Git, Reveal.js, reveal-md, Nikola and thesisdown. The approach builds on practices of shadow librarianship, plain text authorship and autonomy from platforms. While these workflows are particularly useful to scholars, they can be practical for anyone doing a lot of reading and writing.
+lead: This document covers digital tools and workflows that I use in my scholarly work, covering a range of actions from digitisation, annotation, referencing, plaintext authorship, storage and backup, to presentation, publishing and web presence. It includes workflows based on ScanTailor, OCR tools, Zotero, Diigo, Hypothesis, Markdown, Atom, Pandoc, Git, Reveal.js, reveal-md, Nikola and thesisdown. The approach builds on practices of shadow librarianship, plain text authorship and autonomy from platforms. While these workflows are particularly useful to scholars, they can be practical for anyone doing a lot of reading and writing. Last edit: September 2022.
 ---
 
 <script type="application/json" class="js-hypothesis-config">

@@ -27,7 +27,7 @@ Preradovićeva 18                                   tom@mi2.hr
 
 ----
 
-> I am a PhD researcher at the Coventry Unversity's [Centre for Postdigital Cultures](http://www.coventry.ac.uk/research/areas-of-research/postdigital-cultures/). I am also a part of the theory and publishing team of [Multimedia Institute/MAMA](http://www.mi2.hr/en/), a co-initiator of the [Pirate Care](https://pirate.care) project and a member of the performing arts collective [BADco](http://badco.hr/). What I do is mostly defined by these collective endeavors.
+> I am a research with a PhD on technopolitics and environmental crisis from the Coventry Unversity's [Centre for Postdigital Cultures](http://www.coventry.ac.uk/research/areas-of-research/postdigital-cultures/). I work as a co-ordinator in the theory and publishing team of [Multimedia Institute/MAMA](http://www.mi2.hr/en/) and a co-initiator of the [Pirate Care](https://pirate.care) project. For twenty years I was member of the recently disbanded performing arts collective [BADco](http://badco.hr/). What I did and do is mostly defined by these collective endeavors.
 
 > My research interests are in technology, capitalist development and post-capitalist transition, with a particular focus on planetary ecological crisis, techno-science and intellectual property. I approach these from a Marxian and Degrowth perspective. Sometimes I also present and write on theatre, dance, disability and politics.
 
@@ -37,7 +37,7 @@ Preradovićeva 18                                   tom@mi2.hr
 
 ## Education
 
-2018-2022 (expected)
+2018-2022
 :   **PhD in Arts & Humanities**; Coventry University
     Supervisors: Professor Gary Hall and Assistant Professor Janneke Adema
 
@@ -103,6 +103,8 @@ Abstraction*. Organon 1, [V\_\_\_\_\_erlag für Handbücher](http://www.verlagf�
 
 ### Technology, ecology, capitalism
 
+'Local Maximum: On Popular Technical Pedagogy'. Valeria Graziano, Marcell Mars and Tomislav Medak. In *Artistic Ecologies: New Compasses and Tools*, edited by Emily Pethick, Pablo Martinez, and What, How & For Whom/WHW, 118–31, Sternberg Press / What, How & for Whom/WHW, 2022.
+
 ['Degrowth'](http://www.sciencedirect.com/science/article/pii/B9780124095489120810). Tomislav Medak, Mladen Domazet and Andro Rilović. In *Reference Module in Earth Systems and Environmental Sciences*, Elsevier, 2019. [peer-reviewed]
 
 'Povijest koja nam diše za vratom' ('History is Breathing down Our Neck'), introduction to the Croatian translation of Andreas Malm's *Fossil Capital*. Mladen Domazet i Tomislav Medak. Fraktura & IPE, Zagreb, 2018. [🔗 to an online version on IPE's website](http://ipe.hr/aktivnosti/povijest-koja-nam-dise-za-vratom/)
@@ -156,6 +158,10 @@ Festival / Steirischer Herbst, 2007, pp. 87–89.
 
 ### Theatre, art, cultural activism
 
+'Choreographing Abstractions'. In *Published on the Occasion of Tomos Savić-Gecan's Representation of Croatia in the 59th International Art Exhibition — La Biennale di Venezia*, edited by Elena Filipović, Sternberg Press and Kontejner, 2022, pp. 76-83.
+
+['Kultura kao zajedničko dobro' ('Culture as a Commons')](https://www.kulturpunkt.hr/content/kultura-kao-zajednicko-dobro-0), *Kulturpunkt*, 22 February 2021.
+
 ‘In Praise of Bureaucracy’. *L.P,* Marko Ercegović / Office for
 Photography, 2017, pp. 55–58.
 
@@ -196,7 +202,7 @@ Strategies’. *Frakcija - Performing Arts Journal*, no. 19, 2001, p. 16. [🔗 
 
 ## Public writing
 
-['Društvene mreže treba regulirati'](https://tom.medak.click/posts/trump-twitter), intervju za [*Novosti*](https://www.portalnovosti.com/tomislav-medak-drustvene-mreze-treba-regulirati), 15. siječnja 2021.
+['Društvene mreže treba regulirati' ('Social Networks Need Regulation')](https://tom.medak.click/posts/trump-twitter), intervju za [*Novosti*](https://www.portalnovosti.com/tomislav-medak-drustvene-mreze-treba-regulirati), 15 January 2021.
 
 Together with Marcell Mars: 'Amazon.com: anatomija jedne dominacije' ('Amazon.com: An Anatomy of a Domination'), *Bilten*, 31 Jul. 2019. https://www.bilten.org/?p=28562
 
@@ -220,9 +226,9 @@ Mar. 2017. http://www.kulturpunkt.hr/content/pa-pa-proleteri-automatizacija-i-kr
 
 ## Long-form interviews
 
-['Kapitalizam i invaliditet;](https://tom.medak.click/posts/invaliditet/). Interviewed by Filip Drača, *H-alter*, 8. siječnja 2021.
+['Kapitalizam i invaliditet' ('Capitalism and Disability')](https://tom.medak.click/posts/invaliditet/). Interviewed by Filip Drača, *H-alter*, 8. siječnja 2021.
 
-['Čemu nas uči pandemija koronavirusa?'](https://tom.medak.click/posts/h-alter/). Interviewed by Ivana Perić, *H-alter*, 26 Mar. 2020.
+['Čemu nas uči pandemija koronavirusa?' ('What Can We Learn from the Corona Virus Pandemic?')](https://tom.medak.click/posts/h-alter/). Interviewed by Ivana Perić, *H-alter*, 26 Mar. 2020.
 
 ['Taking Care of Unconditional Solidarity'](https://kulturpunkt.hr/content/taking-care-unconditional-solidarity). Valeria Graziano, Marcell Mars and Tomislav Medak. Interviewed by Hana Sirovica, *Kulturpunkt.hr*, 8 Mar. 2020.
 
@@ -269,8 +275,7 @@ Rechtsästhetik: Commons, a two-day course (2 x 8 hours) at the Merz Akademie in
 
 ## Recent talks and presentations
 
-**2019**
-:
+**2019:**
 
 'Public Library and the Property Form', introductory talk with Marcell Mars at the eponymous seminar at Raven Row, London, Dec. 3
 
