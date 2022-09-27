@@ -27,7 +27,7 @@ Preradovićeva 18                                   tom@mi2.hr
 
 ----
 
-> I am a research with a PhD on technopolitics and environmental crisis from the Coventry Unversity's [Centre for Postdigital Cultures](http://www.coventry.ac.uk/research/areas-of-research/postdigital-cultures/). I work as a co-ordinator in the theory and publishing team of [Multimedia Institute/MAMA](http://www.mi2.hr/en/) and a co-initiator of the [Pirate Care](https://pirate.care) project. For twenty years I was member of the recently disbanded performing arts collective [BADco](http://badco.hr/). What I did and do is mostly defined by these collective endeavors.
+> I am a research with a PhD on technopolitics and environmental crisis from Coventry Unversity's [Centre for Postdigital Cultures](http://www.coventry.ac.uk/research/areas-of-research/postdigital-cultures/). I work as a co-ordinator in the theory and publishing team of [Multimedia Institute/MAMA](http://www.mi2.hr/en/) and a co-initiator of the [Pirate Care](https://pirate.care) project. For twenty years I was member of the recently disbanded performing arts collective [BADco](http://badco.hr/). What I did and do is mostly defined by these collective endeavors.
 
 > My research interests are in technology, capitalist development and post-capitalist transition, with a particular focus on planetary ecological crisis, techno-science and intellectual property. I approach these from a Marxian and Degrowth perspective. Sometimes I also present and write on theatre, dance, disability and politics.
 
