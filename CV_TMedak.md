@@ -5,7 +5,7 @@
 -------------------------------  ----------------------------
 **Address:**                             **Email addresses:**
 
-Multimedia Institute                    medakt@coventry.ac.uk
+Multimedia Institute                  tomislavmedak@gmail.com
 
 Preradovićeva 18                                   tom@mi2.hr
 
@@ -13,7 +13,7 @@ Preradovićeva 18                                   tom@mi2.hr
 
 **Website & blog:**
 
-[](https://tom.medak.click)
+[](https://tomislav.medak.click)
 
 **GitLab/-Hub:** tomislavmedak
 
@@ -27,9 +27,9 @@ Preradovićeva 18                                   tom@mi2.hr
 
 ----
 
-> I am a research with a PhD on technopolitics and environmental crisis from Coventry Unversity's [Centre for Postdigital Cultures](http://www.coventry.ac.uk/research/areas-of-research/postdigital-cultures/). I work as a co-ordinator in the theory and publishing team of [Multimedia Institute/MAMA](http://www.mi2.hr/en/) and a co-initiator of the [Pirate Care](https://pirate.care) project. For twenty years I was member of the recently disbanded performing arts collective [BADco](http://badco.hr/). What I did and do is mostly defined by these collective endeavors.
+> I am a researcher with a PhD on technopolitics and planetary environmental crisis from Coventry Unversity's [Centre for Postdigital Cultures](http://www.coventry.ac.uk/research/areas-of-research/postdigital-cultures/). I am a member of the theory and publishing team of [Multimedia Institute/MAMA](http://www.mi2.hr/en/) and a co-instigator of the [Pirate Care](https://pirate.care) project. For twenty years I artistically egnaged with the recently disbanded performing arts collective [BADco](http://badco.hr/). What I did and do is mostly defined by these collectives.
 
-> My research interests are in technology, capitalist development and post-capitalist transition, with a particular focus on planetary ecological crisis, techno-science and intellectual property. I approach these from a Marxian and Degrowth perspective. Sometimes I also present and write on theatre, dance, disability and politics.
+> My research interests are in technology, capitalist development and post-capitalist transition, with a particular focus on planetary ecological crisis, techno-science and intellectual property. I approach these from Marxian and Degrowth perspectives. Sometimes I also write on theatre, dance, disability and politics.
 
 ----
 
