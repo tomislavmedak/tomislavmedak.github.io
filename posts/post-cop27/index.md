@@ -7,8 +7,10 @@
 -->
 
 ---
-*Intervju za Hrvatsku informativnu i novinsku agenciju povodom završetka 27. Konferencije stranaka UN-ovog Okvirnog sporazuma o klimatskim promjenama i predavanja održanog na Institutu za etnografiju i folkloristiku. Intervjuirao Ivo Lučić.*
+lead: Intervju za Hrvatsku informativnu i novinsku agenciju povodom završetka 27. Konferencije stranaka UN-ovog Okvirnog sporazuma o klimatskim promjenama i predavanja održanog na Institutu za etnografiju i folkloristiku. Intervjuirao Ivo Lučić.
 ---
+
+<br>
 
 ![](/images/uninhabitability.png)
 
