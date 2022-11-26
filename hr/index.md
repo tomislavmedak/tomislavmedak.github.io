@@ -25,6 +25,8 @@ Zajedno s Valerijom Graziano i Marcellom Marsom: ["Learning from #Syllabus"](htt
 
 ***Recentni medijski tekstovi, intervjui i objave na blogu:***
 
+["Klimatska kriza traži pravednu raspodjelu umjesto tržišnih rješenja"](https://www.index.hr/vijesti/clanak/hrvatski-znanstvenik-ogranicenje-globalnog-zagrijavanja-na-15c-vise-nije-realno/2415360.aspx), intervju za *Hrvatsku informativnu i novinsku agenciju, 25. studenog 2022.
+
 ["Kultura kao zajedničko dobro"](https://www.kulturpunkt.hr/content/kultura-kao-zajednicko-dobro-0), *Kulturpunkt*, 22. veljače 2021.
 
 ["Kapitalizam i invaliditet"](/posts/invaliditet/), intervju za *H-alter*, 8. siječnja 2021.
