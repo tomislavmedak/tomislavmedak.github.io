@@ -2,7 +2,7 @@
 .. title: Digital scholarship workflows
 .. slug: workflows
 .. author: Tomislav Medak
-.. date: 2019-07-22 19:52:05 UTC
+.. date: 2022-10-22 19:52:05 UTC
 .. previewimage: /images/digital_scholarship_0922.png
 .. description: Overview of digital tools and workflows I use in my scholarly work, covering a range of actions from digitisation, annotation, referencing, plaintext authorship, storage and backup, to presentation and web presence. It includes workflows based on ScanTailor, OCR tools, Zotero, Diigo, Hypothesis, Markdown, Atom, Pandoc, Git, Reveal.js, reveal-md, Nikola and thesisdown.
 -->
