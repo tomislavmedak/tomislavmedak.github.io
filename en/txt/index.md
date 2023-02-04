@@ -55,18 +55,15 @@ Multimedia Institute, 2006. [🔗 PDF on Monoskop](https://monoskop.org/images/f
 
 Co-authored with Mladen Domazet and Andro Rilović: [‘Degrowth’](http://www.sciencedirect.com/science/article/pii/B9780124095489120810). In *Reference Module in Earth Systems and Environmental Sciences*, Elsevier, 2019. [peer-reviewed]
 
-[‘Technologies for an Ecological Transition: A Faustian Bargain?’](/en/ecotech/). *Materialism and the Critique of Energy*, edited by Brent Ryan Bellamy
-et al., M-C-M’ Press, 2018., [🔗 PDF on M-C-M’ Press](http://www.mcmprime.com/books/marxism-and-energy) [peer-reviewed], previously published as a working paper, Institute for Political Ecology, 2017. [🔗 PDF on IPE](http://ipe.hr/wp-content/uploads/2017/11/Technologies-for-an-Ecological-Transition-A-Faustian-Bargain-1.pdf).
+[‘Technologies for an Ecological Transition: A Faustian Bargain?’](/en/ecotech/). *Materialism and the Critique of Energy*, edited by Brent Ryan Bellamy et al., M-C-M’ Press, 2018., [🔗 PDF on M-C-M’ Press](http://www.mcmprime.com/books/marxism-and-energy) [peer-reviewed], previously published as a working paper, Institute for Political Ecology, 2017. [🔗 PDF on IPE](http://ipe.hr/wp-content/uploads/2017/11/Technologies-for-an-Ecological-Transition-A-Faustian-Bargain-1.pdf).
 
 ### Shadow libraries, access to knowledge, hacktivism
 
-Co-authored with Valeria Graziano and Marcell Mars: ['When care needs piracy: the case for disobedience in struggles against imperial property regimes'](https://lwbooks.co.uk/product/when-care-needs-piracy-the-case-for-disobedience-in-struggles-against-imperial-property-regimes), *Soundings* 77, 55–70.
+['Local Maximum: On Popular Technical Pedagogy'](/Graziano_Mars_Medak_2022_Local_Maximum.pdf), co-authored with Valeria Graziano and Marcell Mars, in *Artistic Ecologies: New Compasses and Tools*, edited by Emily Pethick, Pablo Martinez, and What, How & For Whom/WHW, 118–31, Sternberg Press / What, How & for Whom/WHW, 2022.
 
-Co-authored with Valeria Graziano and Marcell Mars: ['Care in a techno-capitalist world'](https://dingdingding.org/issue-3/care-in-a-techno-capitalist-world/), co-authored with Valeria Graziano and Marcell Mars, *Ding: A magazine about the Internet and things* 3, December 15, 2020.
+['When care needs piracy: the case for disobedience in struggles against imperial property regimes'](https://lwbooks.co.uk/product/when-care-needs-piracy-the-case-for-disobedience-in-struggles-against-imperial-property-regimes), co-authored with Valeria Graziano and Marcell Mars, *Soundings*, 2021, vol. 77, pp. 55–70.
 
-Co-authored with Valeria Graziano and Marcell Mars: ['Pirate Care'](https://www.artforum.com/slant/valeria-graziano-marcell-mars-and-tomlsav-medak-on-the-care-crisis-83037), co-authored with Valeria Graziano and Marcell Mars, *Artforum*, May 11, 2020.
-
-Co-authored with Valeria Graziano and Marcell Mars: ‘Pirate Care: Against the Crisis’. *...Of Bread, Wine, Cars, Security and Peace -- Exhibition Catalog*, Kunsthalle Wien & What, how and for Whom/WHW, 2020, pp. 103–09, [🔗 PDF from KHW's website](https://kunsthallewien.at/101/wp-content/uploads/2020/01/Booklet_of-bread-wine_EN.pdf).
+Co-authored with Valeria Graziano and Marcell Mars. ‘Pirate Care: Against the Crisis’. *...Of Bread, Wine, Cars, Security and Peace -- Exhibition Catalog*, Kunsthalle Wien & What, how and for Whom/WHW, 2020, pp. 103–09, [🔗 PDF from KHW's website](https://kunsthallewien.at/101/wp-content/uploads/2020/01/Booklet_of-bread-wine_EN.pdf).
 
 Co-authored with Marcell Mars: [‘System of a Takedown: Control and De-Commodification in the Circuits of Academic Publishing’](https://meson.press/books/archives/). In *Archives*, edited Andrew Lison, University of Minnesota Press & meson.press, 2019, pp. 47–68. [peer-reviewed]
 
@@ -74,7 +71,7 @@ Co-authored with Marcell Mars: ['Against Innovation: Compromised Institutional A
 
 Co-authored with Valeria Graziano and Marcell Mars: ['Learning from #Syllabus'](https://issuu.com/instituteofnetworkcultures/docs/statemachines_v14_zondermarks/115). In *State Machines: Reflections and Actions at the Edge of Digital Citizenship, Finance, and Art*, edited by Yiannis Colakides, Mark Garrett, and Inte Gloerich, Institute for Network Cultures, 2019, pp. 115-128.
 
-Co-interviewed with Marcell Mars by Petar Jandrić and Ana Kuzmanić: ‘Knowledge Commons and Activist Pedagogies: From Idealist Positions to Collective Actions - Conversation with Marcell Mars and Tomislav Medak’. *Learning in the Age of Digital Reason*, edited by Petar Jandrić, SensePublishers, 2017, pp. 243–269. [🔗 PDF on Memory of the World](http://library.memoryoftheworld.org/#/book/1f96d3f8-422d-4b0a-9254-1fe03827bf25)
+Co-interviewed with Marcell Mars by Petar Jandrić and Ana Kuzmanić: ‘Knowledge Commons and Activist Pedagogies: From Idealist Positions to Collective Actions - Conversation with Marcell Mars and Tomislav Medak’. *Learning in the Age of Digital Reason*, edited by Petar Jandrić, SensePublishers, 2017, pp. 243–269.
 
 Co-authored with Marcell Mars: [‘Amateur Librarian - A Course in Critical
 Pedagogy‘](/en/amateur/). *Mondothèque :: A Radiated Book*, Constant, 2016, pp. 48–56.

@@ -19,9 +19,9 @@ If you want to get in touch, my details can be found on the [contact page](/en/c
 
 ## Recent academic publications
 
-'Local Maximum: On Popular Technical Pedagogy', co-authored with Valeria Graziano and Marcell Mars, in *Artistic Ecologies: New Compasses and Tools*, edited by Emily Pethick, Pablo Martinez, and What, How & For Whom/WHW, 118–31, Sternberg Press / What, How & for Whom/WHW, 2022.
+['Local Maximum: On Popular Technical Pedagogy'](/Graziano_Mars_Medak_2022_Local_Maximum.pdf), co-authored with Valeria Graziano and Marcell Mars, in *Artistic Ecologies: New Compasses and Tools*, edited by Emily Pethick, Pablo Martinez, and What, How & For Whom/WHW, 118–31, Sternberg Press / What, How & for Whom/WHW, 2022.
 
-['When care needs piracy: the case for disobedience in struggles against imperial property regimes'](https://lwbooks.co.uk/product/when-care-needs-piracy-the-case-for-disobedience-in-struggles-against-imperial-property-regimes), co-authored with Valeria Graziano and Marcell Mars, *Soundings* 77, 55–70.
+['When care needs piracy: the case for disobedience in struggles against imperial property regimes'](https://lwbooks.co.uk/product/when-care-needs-piracy-the-case-for-disobedience-in-struggles-against-imperial-property-regimes), co-authored with Valeria Graziano and Marcell Mars, *Soundings*, 2021, vol. 77, pp. 55–70.
 
 [‘Degrowth’](http://www.sciencedirect.com/science/article/pii/B9780124095489120810), co-authored with Mladen Domazet and Andro Rilović, in *Encyclopedia of the World's Biomes*, Elsevier, 2020, vol. 5, pp. 287-295.
 
