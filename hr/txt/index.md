@@ -61,7 +61,7 @@ ožujak 2017. [🔗](http://www.kulturpunkt.hr/content/pa-pa-proleteri-automatiz
 
 ### Knjižnice iz sjene, dostupnost znanja, haktivizam
 
-[„Budućnosti iz knjižnice: Radikalne geste UbuWeba i Monoskopa“](/hr/ubu_monoskop/). *Javna knjižnica*, Što, kako i za koga/WHW & Multimedijalni institut, 2015, str. 51–66. [🔗 PDF na Memory of the World](http://library.memoryoftheworld.org/b/Fs5CQa5xtzBrKZmI08Q41fQZOr4lAadL5_GsqfHiDgV4w-iC)
+[„Budućnosti iz knjižnice: Radikalne geste UbuWeba i Monoskopa“](/hr/ubu_monoskop/). *Javna knjižnica*, Što, kako i za koga/WHW & Multimedijalni institut, 2015, str. 51–66. [🔗 PDF na Memory of the World](http://library.memoryoftheworld.org/#/book/4779b288-9ea0-415a-bc93-faf03065538c)
 
 „System.hack(1,“elektronski mediji”,“Orson Welles - Rat svjetova”)“.
 *System.hack()*, Multimedijalni institut, 2006, str. 3–8. [🔗 PDF na Monoskopu](https://monoskop.org/images/f/fd/System.hack_catalogue.pdf/)

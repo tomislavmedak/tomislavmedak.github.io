@@ -30,8 +30,8 @@ If you want to get in touch, my details can be found on the [contact page](/en/c
 
 ## Recent public writing, interviews and blog posts
 
+'Choreographing Abstractions', in *Published on the Occasion of Tomos Savić-Gecan's Representation of Croatia in the 59th International Art Exhibition — La Biennale di Venezia*, edited by Elena Filipović, 76-83, Sternberg Press and Kontejner, 2022.
+
 ['Care in a techno-capitalist world'](https://dingdingding.org/issue-3/care-in-a-techno-capitalist-world/), co-authored with Valeria Graziano and Marcell Mars, *Ding: A magazine about the Internet and things* 3, December 15, 2020.
 
 ['Pirate Care'](https://www.artforum.com/slant/valeria-graziano-marcell-mars-and-tomlsav-medak-on-the-care-crisis-83037), co-authored with Valeria Graziano and Marcell Mars, *Artforum*, May 11, 2020.
-
-'Choreographing Abstractions', in *Published on the Occasion of Tomos Savić-Gecan's Representation of Croatia in the 59th International Art Exhibition — La Biennale di Venezia*, edited by Elena Filipović, 76-83, Sternberg Press and Kontejner, 2022.

@@ -32,7 +32,7 @@ Abstraction*. Organon 1, [V\_\_\_\_\_erlag für Handbücher](http://www.verlagf�
 
 *Guerrilla Open Access*, co-edited with Marcell Mars, Post Office Press & Memory of the World, 2018. [🔗 PDF and source files on Humanities Commons](https://hcommons.org/deposits/item/hc:19825/)
 
-*Public Library*, co-edited with Marcell Mars, What, How and for Whom/WHW & Multimedia Institute, 2015. [🔗 PDF on Memory of the World](http://library.memoryoftheworld.org/b/VG3cDMIz71e2XFDqYEBSat1erDCbmCz9cv2xuitazr_oJsRX)
+*Public Library*, co-edited with Marcell Mars, What, How and for Whom/WHW & Multimedia Institute, 2015. [🔗 PDF on Memory of the World](http://library.memoryoftheworld.org/#/book/4779b288-9ea0-415a-bc93-faf03065538c)
 
 *Time and Incompletion: Images and Performances of Time in Late Capitalism*, Co-edited with Goran Sergej Pristaš, BADco., 2014. [🔗 PDF on BADco.](http://badco.hr/hr/news-item/download-time-and-incompletion)
 
