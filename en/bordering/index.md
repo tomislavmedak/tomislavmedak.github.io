@@ -120,14 +120,14 @@ bourgeois nation-state and national economy establish themselves as
 dominant modes of social control and economic regulation. With the
 industrialization that soon followed, the fundamental regulatory
 mechanism of that joint formation became inclusion and exclusion from
-the sphere of productive labor, internalizing bordering process deep
+the sphere of industrial labor, internalizing bordering process deep
 within the territory of society and radically re-configuring all other
 separations of privilege and disadvantage, domination and subordination.
 It is against this geo-historical context that dance consolidated into
 an artistic field. However, the context still does not clarify the
 structural imbrication of dance with capitalist modernity.
 
-## Social Choreography and Productive Labor
+## Social Choreography and Industrial Labor
 
 Aesthetic forms stand in a relation of co-constitution with structures
 of social relations and institutional forms they assume. They are

@@ -23,12 +23,16 @@
 
 ## Authored volumes
 
+*Pirate Care: Acts against the Criminalization of Solidarity*, co-authored with Valeria Graziano and Marcell Mars, [Pluto Press](https://www.plutobooks.com/9780745349800/pirate-care/), 2025.
+
 *The Hard Matter of Abstraction - A Guidebook to Domination by
 Abstraction*. Organon 1, [V\_\_\_\_\_erlag für Handbücher](http://www.verlagfürhandbücher.de/thehardmatterofabstraction/index.php?1110), 2016.
 
 *Shit Tech for a Shitty World*. Aksioma - Institute for Contemporary Art, 2016. [🔗 PDF on Aksioma](http://aksioma.org/Tomislav-Medak-Shit-Tech-for-a)
 
 ## Edited volumes
+
+*Figure It Out: The Art of Living through Systems Failures*, co-edited with Mara Ferreri, Valeria Graziano, Marcell Mars, and Davor Mišković, Drugo more, 2024. [🔗 PDF on Drugo more](https://drugo-more.hr/fio-zine/Figure-it-Out.pdf)
 
 *Guerrilla Open Access*, co-edited with Marcell Mars, Post Office Press & Memory of the World, 2018. [🔗 PDF and source files on Humanities Commons](https://hcommons.org/deposits/item/hc:19825/)
 

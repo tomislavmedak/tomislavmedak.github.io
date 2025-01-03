@@ -21,12 +21,16 @@
 
 ## Knjige:
 
+Zajedno s Valerijom Graziano i Marcellom Marsom: *Pirate Care: Acts against the Criminalization of Solidarity*, [Pluto Press](https://www.plutobooks.com/9780745349800/pirate-care/), 2025.
+
 *The Hard Matter of Abstraction - A Guidebook to Domination by
 Abstraction*. Organon 1, [V\_\_\_\_\_erlag für Handbücher](http://www.verlagfürhandbücher.de/thehardmatterofabstraction/index.php?1110), 2016.
 
 *Shit Tech for a Shitty World*. Aksioma - Institute for Contemporary Art, 2016. [🔗 PDF](http://aksioma.org/Tomislav-Medak-Shit-Tech-for-a)
 
 ## Urednički rad:
+
+Zajedno s Marom Ferreri, Valerijom Graizano, Marcellom Marsom i Davorom Miškovićem: *Figure It Out: The Art of Living through Systems Failures*, Drugo more, 2024.
 
 Zajedno s Petrom Milatom: *Ideja Radikalnih Medija*. Multimedijalni
 institut & Arkzin, 2013. [🔗 PDF na Monoskopu](https://monoskop.org/images/0/09/Medak_Tomislav_Milat_Petar_eds_Idea_of_Radical_Media.pdf)
