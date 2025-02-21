@@ -103,7 +103,7 @@ Performing Arts Journal*, izd. 60–61, prosinac 2011., str. 50–54.
 Zajedno s Valerijom Graziano i Marcellom Marsom: ["Njegovati bezuvjetnu solidarnost"](https://kulturpunkt.hr/content/njegovati-bezuvjetnu-solidarnost). Intervjuirala Hana Sirovica, 6. ožujka 2020. *Kulturpunkt.hr*.
 Medak, Tomislav.
 
-["Neoliberalna bajanja ostat će neduhovita šala"](http://www.h-alter.org/vijesti/neoliberalna-bajanja-ostat-ce-neduhovita-sala). Intervjuirala Ivana Perić, 26. ožujak 2020. *H-alter*.
+["Neoliberalna bajanja ostat će neduhovita šala"](https://arhiva.h-alter.org/vijesti/neoliberalna-bajanja-ostat-ce-neduhovita-sala). Intervjuirala Ivana Perić, 26. ožujak 2020. *H-alter*.
 
 ["Izboriti se za vrijeme slobodno od proizvodnje"](https://kulturpunkt.hr/content/izboriti-se-za-vrijeme-slobodno-od-proizvodnje). Intervjuirala Petra Ivšić, 29. studeni 2019., *Kulturpunkt.hr*.
 
