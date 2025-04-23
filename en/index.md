@@ -11,7 +11,7 @@ My research interests are in care, ecology, technology and capitalist developmen
 
 Formelry, I was a member of the theory and publishing team of [Multimedia Institute/MAMA](https://www.mi2.hr/en/) and a theatre maker with the now dissolved performing arts collective [BADco](http://badco.hr/en/home/).
 
- In these pages you will find my writings, information on my artistic work, my biography and my blog. Links in the sidebar will lead you there, but the most relevant and recent is selected below.
+In these pages you will find my writings, information on my artistic work, my biography and my blog. Links in the sidebar will lead you there, but the most relevant and recent is selected below.
 
 <br>
 

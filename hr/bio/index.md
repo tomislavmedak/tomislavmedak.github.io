@@ -6,7 +6,7 @@
 .. description: Kratka biografija, curriculum vitae (CV) i fotografija Tomislava Medaka.
 -->
 
-Tomislav Medak je istraživač s doktoratom o tehnopolitici i planetarnoj ekološkoj krizi stečenim pri [Centru za postdigitalne kulture](http://www.coventry.ac.uk/research/areas-of-research/postdigital-cultures/) Sveučilišta u Coventryju. Zajedno s Valeriom Graziano i Marcellom Marsom pokretač je projekta [Piratska skrb](https://pirate.care). Politički je angažiran u zeleno-lijevoj političkoj platformi Možemo! i radim kao voditelj tematske koordinacije.
+Tomislav Medak je istraživač s doktoratom o tehnopolitici i planetarnoj ekološkoj krizi stečenim pri [Centru za postdigitalne kulture](http://www.coventry.ac.uk/research/areas-of-research/postdigital-cultures/) Sveučilišta u Coventryju. Zajedno s Valeriom Graziano i Marcellom Marsom pokretač je projekta [Piratska skrb](https://pirate.care). Politički je angažiran u zeleno-lijevoj političkoj platformi [Možemo!](https://mozemo.hr) i radim kao voditelj tematske koordinacije.
 
 U istraživačkom radu bavi se pitanjima skrbi, tehnologija, kapitalizma i postkapitalističke tranzicije. Povremeno također piše o kazalištu, plesu i politici.
 

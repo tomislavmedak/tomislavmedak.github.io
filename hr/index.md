@@ -5,9 +5,9 @@
 .. description: Tomislav Medak, osobne mrežne stranice s tekstovima, umjetničkim radovima, biografijom, blogom i kontaktom.
 -->
 
-Istraživač sam s doktoratom o tehnopolitici i planetarnoj ekološkoj krizi stečenim pri [Centru za postdigitalne kulture](http://www.coventry.ac.uk/research/areas-of-research/postdigital-cultures/) na Sveučilištu u Coventryju. Zajedno s Valeriom Graziano i Marcellom Marsom pokretač sam projekta [Piratska skrb](https://pirate.care). Politički sam angažiran u političkoj platformi Možemo! i radim kao voditelj tematske koordinacije.
+Istraživač sam s doktoratom o tehnopolitici i planetarnoj ekološkoj krizi stečenim pri [Centru za postdigitalne kulture](http://www.coventry.ac.uk/research/areas-of-research/postdigital-cultures/) na Sveučilištu u Coventryju. Zajedno s Valeriom Graziano i Marcellom Marsom pokretač sam projekta [Piratska skrb](https://pirate.care). Politički sam angažiran u političkoj platformi [Možemo!](https://mozemo.hr) i radim kao voditelj tematske koordinacije.
 
-U istraživačkom radu bavim se pitanjima skrbi, tehnologija i kapitalističkog razvoja. Povremeno također pišem o kazalištu, plesu, invaliditetu i politici. 
+U istraživačkom radu bavim se pitanjima skrbi, tehnologija i kapitalističkog razvoja. Povremeno također pišem o kazalištu, plesu, invaliditetu i politici.
 
 Preko dvadeset godina bio sam član teorijskog i izdavačkog tima [Multimedijalnog instituta](http://www.mi2.hr/) i član izvedbenog kolektiva [BADco](http://badco.hr/).
 

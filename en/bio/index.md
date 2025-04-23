@@ -12,7 +12,7 @@ His own research interests are in care, ecology, technology and capitalist devel
 
 Formerly he was a member of the theory and publishing team of the [Multimedia Institute/MAMA](http://www.mi2.hr/en/) in Zagreb and an artist in the performing arts collective [BADco.](http://badco.hr/)
 
-At Multimedia Institute, with his colleagues, he was organising talks, conferences and exhibitions, and edited publications in political economy, tactical media and the commons
+At Multimedia Institute, with his colleagues, he was organising talks, conferences and exhibitions, and edited publications in political economy, tactical media and the commons.
 
 He authored two short books: *The Hard Matter of Abstraction* – *A Guidebook to Domination by Abstraction* (V_____erlag für Handbücher, 2016) and *Shit Tech for A Shitty World* (Aksioma, 2015). He also co-authored several edited volumes: together with Marcell Mars *Public Library* (WHW/Multimedia Institute, 2015) and *Guerrilla Open Access* (Post-office Press, 2018), with Petar Milat *The Idea of Radical Media* (Multimedia Institute/Arkzin, 2014) and with Goran Sergej Pristaš *Time and (In)Completion: Images and Performances of Time in Late Capitalism* (BADco., 2014).
 
