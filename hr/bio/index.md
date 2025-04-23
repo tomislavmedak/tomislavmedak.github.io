@@ -6,11 +6,11 @@
 .. description: Kratka biografija, curriculum vitae (CV) i fotografija Tomislava Medaka.
 -->
 
-Tomislav Medak je istraživač s doktoratom o tehnopolitici i planetarnoj ekološkoj krizi stečenim pri [Centru za postdigitalne kulture](http://www.coventry.ac.uk/research/areas-of-research/postdigital-cultures/) Sveučilišta u Coventryju. S Valerijom Graziano i Marcellom Marsom pokretač je projekta [Piratska skrb](https://pirate.care). Voditelj je tematske koordinacije političke platforme Možemo!
-
-Dvadest godina je djelovao kao član je teorijskog i izdavačkog tima [Multimedijalnog instituta](http://www.mi2.hr/) i umjetnik u izvedbenom kolektivu [BADco.](http://badco.hr/).
+Tomislav Medak je istraživač s doktoratom o tehnopolitici i planetarnoj ekološkoj krizi stečenim pri [Centru za postdigitalne kulture](http://www.coventry.ac.uk/research/areas-of-research/postdigital-cultures/) Sveučilišta u Coventryju. Zajedno s Valeriom Graziano i Marcellom Marsom pokretač je projekta [Piratska skrb](https://pirate.care). Politički je angažiran u zeleno-lijevoj političkoj platformi Možemo! i radim kao voditelj tematske koordinacije.
 
 U istraživačkom radu bavi se pitanjima skrbi, tehnologija, kapitalizma i postkapitalističke tranzicije. Povremeno također piše o kazalištu, plesu i politici.
+
+Dvadest godina je djelovao kao član je teorijskog i izdavačkog tima [Multimedijalnog instituta](http://www.mi2.hr/) i umjetnik u izvedbenom kolektivu [BADco.](http://badco.hr/).
 
 Zajedno s Valerijom Graziano i Marcellom Marsom autor je knjige *Pirate Care: Acts against Criminalization of Solidarity* (Pluto Press, 2025). S Marcellom Marsom uredio je zbornik *Javna knjižnica* (Što kako i za koga/WHW & Multimedijalni institut, 2015.), s Petrom Milatom *Ideja radikalnih medija* (Multimedijalni institut & Arkzin, 2014.) i sa Sergejem Pristašem *Time and (In)Completion: Images and Performances of Time in Late Capitalism* (BADco., 2014.). Samostalno je sutor je dvaju ukoričenih ogleda: *The Hard Matter of Abstracion* – *A Guidebook to Domination by Abstraction* (V_____erlag für Handbücher, 2016.) i *Shit Tech for A Shitty World* (Aksioma, 2015.).
 

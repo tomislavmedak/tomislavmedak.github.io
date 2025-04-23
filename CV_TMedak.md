@@ -3,13 +3,9 @@
 ----
 
 -------------------------------  ----------------------------
-**Address:**                             **Email addresses:**
+**Email addresses:**
 
-Multimedia Institute                  tomislavmedak@gmail.com
-
-Preradovićeva 18                                   tom@mi2.hr
-
-10000 Zagreb                                     tom@badco.hr
+tomislavmedak@gmail.com
 
 **Website & blog:**
 
@@ -18,8 +14,6 @@ Preradovićeva 18                                   tom@mi2.hr
 **GitLab/-Hub:** tomislavmedak
 
 **Twitter:** tmedak
-
-**Fbook:** Tomislav Medak
 --------------------------------  -----------------------------
 ----
 

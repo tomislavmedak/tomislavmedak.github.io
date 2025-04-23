@@ -5,7 +5,7 @@
 .. description: This is Tomislav Medak's website. Here you'll find his writing, artistic work, biography, blog and contact.
 -->
 
-I am a researcher with a PhD on technopolitics and planetary environmental crisis from Coventry Unversity's [Centre for Postdigital Cultures](https://www.coventry.ac.uk/research/areas-of-research/postdigital-cultures/). Over the last couple of years, I have co-instigated of the [Pirate Care](https://pirate.care) project and become politically active as a policy coordinator for the Croatian green-left party [Možemo!](https://mozemo.hr/).
+I am a researcher with a PhD on technopolitics and planetary environmental crisis from Coventry Unversity's [Centre for Postdigital Cultures](https://www.coventry.ac.uk/research/areas-of-research/postdigital-cultures/). Over the last couple of years, with Valeria Graziano and Marcell Mars, I have initiated of the [Pirate Care](https://pirate.care) project. I am politically active as a policy coordinator for the Croatian green-left party [Možemo!](https://mozemo.hr/).
 
 My research interests are in care, ecology, technology and capitalist development, with a particular focus on the commons and the disability. Sometimes I also write on theatre, dance, disability and politics.
 

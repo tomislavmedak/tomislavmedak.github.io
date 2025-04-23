@@ -1,15 +1,17 @@
 <!--
-.. title: Dobrodošli na moje web stranice.
+.. title: Dobrodošli!
 .. author: Tomislav Medak
 .. date: 2022-03-21 19:52:05 UTC
 .. description: Tomislav Medak, osobne mrežne stranice s tekstovima, umjetničkim radovima, biografijom, blogom i kontaktom.
 -->
 
-Istraživač sam s doktoratom o tehnopolitici i planetarnoj ekološkoj krizi stečenim pri [Centru za postdigitalne kulture](http://www.coventry.ac.uk/research/areas-of-research/postdigital-cultures/) na Sveučilištu u Coventryju. Supokretač sam projekta [Piratska skrb](https://pirate.care). Voditelj sam tematske koordinacije političke platforme Možemo!
+Istraživač sam s doktoratom o tehnopolitici i planetarnoj ekološkoj krizi stečenim pri [Centru za postdigitalne kulture](http://www.coventry.ac.uk/research/areas-of-research/postdigital-cultures/) na Sveučilištu u Coventryju. Zajedno s Valeriom Graziano i Marcellom Marsom pokretač sam projekta [Piratska skrb](https://pirate.care). Politički sam angažiran u političkoj platformi Možemo! i radim kao voditelj tematske koordinacije.
 
-Preko dvadeset godina bio sam član teorijskog i izdavačkog tima [Multimedijalnog instituta](http://www.mi2.hr/) i umjetnički sam djelovao u izvedbenoj skupini [BADco](http://badco.hr/).
+U istraživačkom radu bavim se pitanjima skrbi, tehnologija i kapitalističkog razvoja. Povremeno također pišem o kazalištu, plesu, invaliditetu i politici. 
 
-U istraživačkom radu bavim se pitanjima skrbi, tehnologija i kapitalističkog razvoja. Povremeno također pišem o kazalištu, plesu, invaliditetu i politici. Na ovim stranicama naći ćete moje tekstove, informacije o minulom radu, profesionalnu biografiju i blog. Linkovi na lijevoj strani vode na njih, a niže je izbor najrecentnijeg i najvažnijeg.
+Preko dvadeset godina bio sam član teorijskog i izdavačkog tima [Multimedijalnog instituta](http://www.mi2.hr/) i član izvedbenog kolektiva [BADco](http://badco.hr/).
+
+Na ovim stranicama naći ćete moje tekstove, informacije o minulom radu, profesionalnu biografiju i blog. Linkovi na lijevoj strani vode na njih, a niže je izbor najrecentnijeg i najvažnijeg.
 
 <br>
 
