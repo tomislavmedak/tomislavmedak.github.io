@@ -5,11 +5,11 @@
 .. description: Tomislav Medak, osobne mrežne stranice s tekstovima, umjetničkim radovima, biografijom, blogom i kontaktom.
 -->
 
-Nezavisni sam istraživač s doktoratom o tehnopolitici i planetarnoj ekološkoj krizi stečenim pri [Centru za postdigitalne kulture](http://www.coventry.ac.uk/research/areas-of-research/postdigital-cultures/) na Sveučilištu u Coventryju. Član sam teorijskog i izdavačkog tima [Multimedijalnog instituta](http://www.mi2.hr/) i supokretač projekta [Piratska skrb](https://pirate.care). Dvadeset godina umjetnički sam djelovao u sada ugašenoj izvedbenoj skupini [BADco](http://badco.hr/). Moje djelovanje je primarno vođeno radom tih kolektiva.
+Istraživač sam s doktoratom o tehnopolitici i planetarnoj ekološkoj krizi stečenim pri [Centru za postdigitalne kulture](http://www.coventry.ac.uk/research/areas-of-research/postdigital-cultures/) na Sveučilištu u Coventryju. Supokretač sam projekta [Piratska skrb](https://pirate.care). Voditelj sam tematske koordinacije političke platforme Možemo!
 
-U istraživačkom radu bavim se pitanjima tehnologija, kapitalističkog razvoja i postkapitalističke tranzicije, s posebnim fokusom na temama planetarne ekološke krize, tehnologije i znanosti te intelektualnog vlasništva. Povremeno također pišem o kazalištu, plesu, invaliditetu i politici. Na ovim stranicama naći ćete moje tekstove, informacije o umjetničkom radu s BADco., profesionalnu biografiju i blog. Linkovi na lijevoj strani vode na njih, a niže je izbor najrecentnijeg i najvažnijeg.
+Preko dvadeset godina bio sam član teorijskog i izdavačkog tima [Multimedijalnog instituta](http://www.mi2.hr/) i umjetnički sam djelovao u izvedbenoj skupini [BADco](http://badco.hr/).
 
-Ako me želite kontaktirati, moji podaci su na [kontaktnoj stranici](/en/contact/).
+U istraživačkom radu bavim se pitanjima skrbi, tehnologija i kapitalističkog razvoja. Povremeno također pišem o kazalištu, plesu, invaliditetu i politici. Na ovim stranicama naći ćete moje tekstove, informacije o minulom radu, profesionalnu biografiju i blog. Linkovi na lijevoj strani vode na njih, a niže je izbor najrecentnijeg i najvažnijeg.
 
 <br>
 
