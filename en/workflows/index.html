@@ -82,7 +82,16 @@
 .. description: Overview of digital tools and workflows I use in my scholarly work, covering a range of actions from digitisation, annotation, referencing, plaintext authorship, storage and backup, to presentation and web presence. It includes workflows based on ScanTailor, OCR tools, Zotero, Diigo, Hypothesis, Markdown, Atom, Pandoc, Git, Reveal.js, reveal-md, Nikola and thesisdown.
 -->
 <hr>
-<p><em>This document covers digital tools and workflows I use in my scholarly work, covering a range of actions from digitisation, annotation, referencing, plaintext authorship, storage and backup, to presentation, publishing and web presence. It includes workflows based on ScanTailor, OCR tools, Zotero, Diigo, Hypothesis, Markdown, Atom, Pandoc, Git, Reveal.js, reveal-md, Nikola and thesisdown. The approach builds on practices of shadow librarianship, plain text authorship and autonomy from platforms. While these workflows are particularly useful to scholars, they can be practical for anyone doing a lot of reading and writing. Last edit: September 2022.</em></p>
+<p><em>This document covers digital tools and workflows I use in my
+scholarly work, covering a range of actions from digitisation,
+annotation, referencing, plaintext authorship, storage and backup, to
+presentation, publishing and web presence. It includes workflows based
+on ScanTailor, OCR tools, Zotero, Diigo, Hypothesis, Markdown, Atom,
+Pandoc, Git, Reveal.js, reveal-md, Nikola and thesisdown. The approach
+builds on practices of shadow librarianship, plain text authorship and
+autonomy from platforms. While these workflows are particularly useful
+to scholars, they can be practical for anyone doing a lot of reading and
+writing. Last edit: September 2022.</em></p>
 <hr>
 <script type="application/json" class="js-hypothesis-config">
 
@@ -92,12 +101,15 @@
 <li>
 <a href="#digitising">1) Digitising</a>
 <ul>
-<li><a href="#scanning-and-creating-an-ocr-ed-pdf">Scanning and creating an OCR-ed PDF</a></li>
-<li><a href="#ocr-ing-a-non-ocr-ed-pdf">OCR-ing a non-OCR-ed PDF</a></li>
+<li><a href="#scanning-and-creating-an-ocr-ed-pdf">Scanning and creating
+an OCR-ed PDF</a></li>
+<li><a href="#ocr-ing-a-non-ocr-ed-pdf">OCR-ing a non-OCR-ed
+PDF</a></li>
 </ul>
 </li>
 <li>
-<a href="#reference-management-and-annotation">2) Reference management and annotation</a>
+<a href="#reference-management-and-annotation">2) Reference
+management and annotation</a>
 <ul>
 <li><a href="#zotero">Zotero</a></li>
 <li><a href="#diigo-and-hypothesis">Diigo and Hypothesis</a></li>
@@ -109,115 +121,438 @@
 <ul>
 <li><a href="#markdown">Markdown</a></li>
 <li><a href="#atom">Atom</a></li>
-<li><a href="#spell-checking-grammar-and-style">Spell-checking, grammar and style</a></li>
+<li><a href="#spell-checking-grammar-and-style">Spell-checking, grammar
+and style</a></li>
 </ul>
 </li>
 <li>
-<a href="#formatting-and-publishing">4) Formatting and publishing</a>
+<a href="#formatting-and-publishing">4) Formatting and
+publishing</a>
 <ul>
 <li><a href="#pandoc">Pandoc</a></li>
-<li><a href="#pandoc-graphic-user-interface">Pandoc graphic user interface</a></li>
-<li><a href="#citation-style-language-files">Citation style language files</a></li>
+<li><a href="#pandoc-graphic-user-interface">Pandoc graphic user
+interface</a></li>
+<li><a href="#citation-style-language-files">Citation style language
+files</a></li>
 </ul>
 </li>
 <li><a href="#revising">5) Revising</a></li>
 <li>
-<a href="#assembling-the-thesis-in-thesisdown">6) Assembling the thesis in thesisdown</a>
+<a href="#assembling-the-thesis-in-thesisdown">6) Assembling the
+thesis in thesisdown</a>
 <ul>
-<li><a href="#merging-chapters-with-pandoc">Merging chapters with pandoc</a></li>
-<li><a href="#adapting-oxforddown-for-coventry-university">Adapting oxforddown for Coventry University</a></li>
+<li><a href="#merging-chapters-with-pandoc">Merging chapters with
+pandoc</a></li>
+<li><a href="#adapting-oxforddown-for-coventry-university">Adapting
+oxforddown for Coventry University</a></li>
 </ul>
 </li>
 <li>
-<a href="#naming-storing-and-backing-up-files">7) Naming, storing and backing-up files</a>
+<a href="#naming-storing-and-backing-up-files">7) Naming, storing
+and backing-up files</a>
 <ul>
-<li><a href="#git-gitlab-and-sparkleshare">Git, Gitlab and SparkleShare</a></li>
-<li><a href="#backing-up-the-zotero-library">Backing-up the Zotero library</a></li>
+<li><a href="#git-gitlab-and-sparkleshare">Git, Gitlab and
+SparkleShare</a></li>
+<li><a href="#backing-up-the-zotero-library">Backing-up the Zotero
+library</a></li>
 </ul>
 </li>
 <li>
-<a href="#presentations-and-website">8) Presentations and website</a>
+<a href="#presentations-and-website">8) Presentations and
+website</a>
 <ul>
 <li><a href="#reveal-js-and-reveal-md">Reveal.js and reveal-md</a></li>
 <li><a href="#nikola">Nikola</a></li>
 </ul>
 </li>
-<li><a href="#automating-a-curriculum-vitae">9) Automating a curriculum vitae</a></li>
+<li><a href="#automating-a-curriculum-vitae">9) Automating a curriculum
+vitae</a></li>
 </ul>
-<!-- /TOC --><p>When I started my PhD in early 2018, I decided to re-organise how I digitise, read, annotate and reference other people’s texts – and how I write, revise and publish my own. Three reasons motivated me to do so. First, living between two countries with a disability that limits my capacity to haul around books, I decided to shift entirely to reading text on screen. Second, I wanted to systematise my reading and writing workflows around simple standards that would be technologically maintainable over years. Third, I needed a workflow that would allow me to easily re-format my texts for publishing in a variety of academic venues and on my own website.</p>
-<p>The workflows presented here cover the digitisation of text, reference management, annotated bibliography, writing in plaintext, formatting for publication, revising text, storage and backup, as well creating slide presentations, a thesis susbmission and a static website. They build first and foremost on the impressive <a href="https://raoofphysics.github.io/phd-starter-kit/">PhD Starter Kit by Achintya Rao</a>. His detailed advice how to set up workflows for a PhD research has helped me immensely — and makes parts of this document redundant. I have also learned a lot from the <a href="https://kieranhealy.org/resources/">Guide to Plain Text Social Science</a> by Kieran Healy <span class="citation" data-cites="healy_plain_2018">(2018)</span> and the work of Dennis Yi Tenen and Grant Wythoff on <a href="https://programminghistorian.org/en/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown">Sustainable Authorship in Plain Text</a>. In fact, <a href="http://denten.plaintext.in/">Dennis</a> has written a monograph on <em>Plain Text</em> <span class="citation" data-cites="tenen_plain_2017">(Tenen 2017)</span>. Bits and bobs gleaned from various corners of the Internet I have linked to in the text.</p>
-<p>While none of the tools and workflows I discuss requires much technological skill, they do require some very basic knowledge of command-line (a.k.a. console, terminal, prompt). Ubuntu provides <a href="https://tutorials.ubuntu.com/tutorial/command-line-for-beginners">a short beginners guide</a>. For discovery, experimentation and problem-solving, or anything more sophisticated, I rely on the technical prowess of my friend and collaborator <a href="https://gist.github.com/marcellmars">Marcell Mars</a>.</p>
+<!-- /TOC --><p>When I started my PhD in early 2018, I decided to re-organise how I
+digitise, read, annotate and reference other people’s texts – and how I
+write, revise and publish my own. Three reasons motivated me to do so.
+First, living between two countries with a disability that limits my
+capacity to haul around books, I decided to shift entirely to reading
+text on screen. Second, I wanted to systematise my reading and writing
+workflows around simple standards that would be technologically
+maintainable over years. Third, I needed a workflow that would allow me
+to easily re-format my texts for publishing in a variety of academic
+venues and on my own website.</p>
+<p>The workflows presented here cover the digitisation of text,
+reference management, annotated bibliography, writing in plaintext,
+formatting for publication, revising text, storage and backup, as well
+creating slide presentations, a thesis susbmission and a static website.
+They build first and foremost on the impressive <a href="https://raoofphysics.github.io/phd-starter-kit/">PhD Starter Kit
+by Achintya Rao</a>. His detailed advice how to set up workflows for a
+PhD research has helped me immensely — and makes parts of this document
+redundant. I have also learned a lot from the <a href="https://kieranhealy.org/resources/">Guide to Plain Text Social
+Science</a> by Kieran Healy <span class="citation" data-cites="healy_plain_2018">(2018)</span> and the work of Dennis Yi
+Tenen and Grant Wythoff on <a href="https://programminghistorian.org/en/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown">Sustainable
+Authorship in Plain Text</a>. In fact, <a href="http://denten.plaintext.in/">Dennis</a> has written a monograph on
+<em>Plain Text</em> <span class="citation" data-cites="tenen_plain_2017">(Tenen 2017)</span>. Bits and bobs gleaned
+from various corners of the Internet I have linked to in the text.</p>
+<p>While none of the tools and workflows I discuss requires much
+technological skill, they do require some very basic knowledge of
+command-line (a.k.a. console, terminal, prompt). Ubuntu provides <a href="https://tutorials.ubuntu.com/tutorial/command-line-for-beginners">a
+short beginners guide</a>. For discovery, experimentation and
+problem-solving, or anything more sophisticated, I rely on the technical
+prowess of my friend and collaborator <a href="https://gist.github.com/marcellmars">Marcell Mars</a>.</p>
 <h2 id="digitising">1) Digitising</h2>
-<p>Books and texts I read predominantly in digital form. Digital text benefits from the fact that it is easily storable, portable, searchable, annotable and re-usable. Digital text, however, has its shortcomings compared to the text in print, such as potential data rot or lack of haptic and visual cues. However, these shortcomings are of lesser concern than the advantages offered by digital text.</p>
-<p>Digital text comes in many formats, but in my scholarly work I operate with books, journals and articles either in dedicated e-book formats such as <code>.mobi</code> or <code>.epub</code> or more commonly as <code>.pdf</code>. A PDF can be born-digital or created by scanning. It is the latter that is of interest here. You can scan a book or a journal with <a href="http://diybookscanner.org/">a book scanner</a>, a photocopier or a simple camera. A scanned PDF can be pushed through the optical character recognition (OCR), making the resulting file amenable to highlighting, annotation and citation that are central to scholarly reading and writing.</p>
-<h4 id="scanning-and-creating-an-ocr-ed-pdf">Scanning and creating an OCR-ed PDF</h4>
-<p>A detailed description of the workflow that I use to scan books and create PDFs can be found in my <a href="https://knowledge-production.github.io/forge/tutorials/book-digitization.html">Book Digitisation tutorial</a>. This tutorial I have written together with Dubravka Sekulić and Ann Mertens for the <a href="https://memoryoftheworld.org">Memory of the World</a> shadow library. The workflow is mostly based on free software and should work with minor adaptations equally on Linux, OSX and Windows. In brief, to digitise a book, I use <a href="https://www.memoryoftheworld.org/blog/2012/10/28/our-beloved-bookscanner-2/">a hacklab scanner</a> or a regular office flat-bed scanner to create full-colour, high-resolution images of the book. Next I use <a href="https://github.com/scantailor/scantailor/wiki/User-Guide">ScanTailor</a> to crop images down to the content of pages, correct distortions and reduce the full-colour to black and white. This results in much smaller, mostly b/w image files. Against these files first I do optical character recognition, and then collate them into an OCR-ed PDF using either the <a href="https://github.com/tesseract-ocr/tesseract/wiki">Tesseract</a> GUI frontend <a href="http://gscan2pdf.sourceforge.net/">Gscan2pdf</a> or the proprietary <a href="https://www.abbyy.com/en-eu/finereader/">Abbyy Finereader</a>.</p>
+<p>Books and texts I read predominantly in digital form. Digital text
+benefits from the fact that it is easily storable, portable, searchable,
+annotable and re-usable. Digital text, however, has its shortcomings
+compared to the text in print, such as potential data rot or lack of
+haptic and visual cues. However, these shortcomings are of lesser
+concern than the advantages offered by digital text.</p>
+<p>Digital text comes in many formats, but in my scholarly work I
+operate with books, journals and articles either in dedicated e-book
+formats such as <code>.mobi</code> or <code>.epub</code> or more
+commonly as <code>.pdf</code>. A PDF can be born-digital or created by
+scanning. It is the latter that is of interest here. You can scan a book
+or a journal with <a href="http://diybookscanner.org/">a book
+scanner</a>, a photocopier or a simple camera. A scanned PDF can be
+pushed through the optical character recognition (OCR), making the
+resulting file amenable to highlighting, annotation and citation that
+are central to scholarly reading and writing.</p>
+<h4 id="scanning-and-creating-an-ocr-ed-pdf">Scanning and creating an
+OCR-ed PDF</h4>
+<p>A detailed description of the workflow that I use to scan books and
+create PDFs can be found in my <a href="https://knowledge-production.github.io/forge/tutorials/book-digitization.html">Book
+Digitisation tutorial</a>. This tutorial I have written together with
+Dubravka Sekulić and Ann Mertens for the <a href="https://memoryoftheworld.org">Memory of the World</a> shadow
+library. The workflow is mostly based on free software and should work
+with minor adaptations equally on Linux, OSX and Windows. In brief, to
+digitise a book, I use <a href="https://www.memoryoftheworld.org/blog/2012/10/28/our-beloved-bookscanner-2/">a
+hacklab scanner</a> or a regular office flat-bed scanner to create
+full-colour, high-resolution images of the book. Next I use <a href="https://github.com/scantailor/scantailor/wiki/User-Guide">ScanTailor</a>
+to crop images down to the content of pages, correct distortions and
+reduce the full-colour to black and white. This results in much smaller,
+mostly b/w image files. Against these files first I do optical character
+recognition, and then collate them into an OCR-ed PDF using either the
+<a href="https://github.com/tesseract-ocr/tesseract/wiki">Tesseract</a>
+GUI frontend <a href="http://gscan2pdf.sourceforge.net/">Gscan2pdf</a>
+or the proprietary <a href="https://www.abbyy.com/en-eu/finereader/">Abbyy Finereader</a>.</p>
 <h4 id="ocr-ing-a-non-ocr-ed-pdf">OCR-ing a non-OCR-ed PDF</h4>
-<p>To OCR a PDF that hasn’t been OCR-ed previously, you either have to use proprietary applications such as Abbyy Finereader or Adobe Acrobat Pro, or unstitch the PDF into image files, improve and OCR them and stitch them back into a searchable PDF. The latter is particularly useful if you have a PDF consisting of two-page spreads or if it has a lot of dark shadings and specks. To unstitch a multipage PDF into image files, I find that the command-line converter <code>pdftoppm</code> produces best output results, allowing me to set the output resolution and formats (<code>.png</code>, <code>.jpg</code> or <code>.tiff</code>) while retaining the image quality:</p>
+<p>To OCR a PDF that hasn’t been OCR-ed previously, you either have to
+use proprietary applications such as Abbyy Finereader or Adobe Acrobat
+Pro, or unstitch the PDF into image files, improve and OCR them and
+stitch them back into a searchable PDF. The latter is particularly
+useful if you have a PDF consisting of two-page spreads or if it has a
+lot of dark shadings and specks. To unstitch a multipage PDF into image
+files, I find that the command-line converter <code>pdftoppm</code>
+produces best output results, allowing me to set the output resolution
+and formats (<code>.png</code>, <code>.jpg</code> or <code>.tiff</code>)
+while retaining the image quality:</p>
 <pre><code>pdftoppm -r 300 -png /path/to/&lt;sourcefile&gt;.pdf /path/to/destination/directory/
 </code></pre>
-<p>From there, you can use the digitisation workflow described in the previous section to OCR the output images and stitch them back into a PDF file.</p>
-<h2 id="reference-management-and-annotation">2) Reference management and annotation</h2>
-<p>Central to scholarly work today is keeping abreast of a large amount of published research, scholarly writing and daily reporting relevant to one’s work. Not only does one have to read and keep an overview over a vast body of literature, but also be able to excerpt and summarise texts, easily retrieve segments for citation, and manage bibliographic references. There are many software tools that assist scholars in managing your literature, annotations and references such as <a href="https://endnote.com/">EndNote</a>, <a href="https://www.mendeley.com/">Mandeley</a> or <a href="https://refworks.proquest.com/">RefWorks</a>. My preference is for <a href="https://www.zotero.org/">Zotero</a> because it is a free software programme developed in a non-commercial ecosystem and supported by a number of universities.</p>
-<p>While I use Zotero to organise my reading workflow, the reading itself I do mostly on an old trusty Android tablet using the fantastic <a href="https://www.moondownload.com/">Moon+ Reader Pro</a>. For reading and annotation of online texts, I use the social bookmarking service <a href="https://www.diigo.com/user/tomislavmedak">Diigo</a> and the collective annotation service <a href="https://web.hypothes.is/">Hypothes.is</a>.</p>
+<p>From there, you can use the digitisation workflow described in the
+previous section to OCR the output images and stitch them back into a
+PDF file.</p>
+<h2 id="reference-management-and-annotation">2) Reference management and
+annotation</h2>
+<p>Central to scholarly work today is keeping abreast of a large amount
+of published research, scholarly writing and daily reporting relevant to
+one’s work. Not only does one have to read and keep an overview over a
+vast body of literature, but also be able to excerpt and summarise
+texts, easily retrieve segments for citation, and manage bibliographic
+references. There are many software tools that assist scholars in
+managing your literature, annotations and references such as <a href="https://endnote.com/">EndNote</a>, <a href="https://www.mendeley.com/">Mandeley</a> or <a href="https://refworks.proquest.com/">RefWorks</a>. My preference is for
+<a href="https://www.zotero.org/">Zotero</a> because it is a free
+software programme developed in a non-commercial ecosystem and supported
+by a number of universities.</p>
+<p>While I use Zotero to organise my reading workflow, the reading
+itself I do mostly on an old trusty Android tablet using the fantastic
+<a href="https://www.moondownload.com/">Moon+ Reader Pro</a>. For
+reading and annotation of online texts, I use the social bookmarking
+service <a href="https://www.diigo.com/user/tomislavmedak">Diigo</a> and
+the collective annotation service <a href="https://web.hypothes.is/">Hypothes.is</a>.</p>
 <h4 id="zotero">Zotero</h4>
-<p>How to use Zotero as reference management and research tool is well explained on the <a href="https://www.zotero.org/support/">project website</a>. In brief, after <a href="https://www.zotero.org/download/">installing Zotero and connector for your browser of choice</a>, you can add a variety of bibliographic items either manually or more commonly by scraping bibliographic metadata from <a href="https://www.worldcat.org">Worldcat</a>, <a href="https://openlibrary.org/">OpenLibrary</a>, <a href="https://books.google.com/">Google Books</a>, <a href="https://amazon.com">Amazon.com</a>, <a href="https://scholar.google.com">Google Scholar</a>, academic repositories or any online source that contains well organised metadata. To Zotero you can add books, academic articles, book chapters, reports, documents, newspaper articles, blog entries, videos and many other formats.</p>
-<p>The browser connector retrieves bibliographic metadata: author, title, journal, volume publisher, pagination, ISBN, ISSN, DOI… – and adds them as a bibliographic item to your Zotero library. It is always advisable to double-check the scraped metadata, as the original year of publication, author and editor functions and similar details are frequently incomplete and inconsistent across those metadata repositories. To each item in the library, Zotero will attempt to add a PDF if available. Failing that, you can attach a digital file manually. Zotero also creates a snapshot of any webpage you add to the library.</p>
-<p>The items added to the library can then be organised into collections and subcollections and tagged with keywords. This allows you to search and sort your references quickly, assemble the reading for your research projects, add more items as you read and write, and later return to your existing collections to find items to drag and drop into your future research project collections.</p>
-<p>You can back up your Zotero library by syncing it to the account that you can create at Zotero.org. With a Zotero.org account, you can create group libraries, which you can share when doing teaching or writing with others.</p>
-<p>Zotero has <a href="https://www.zotero.org/support/word_processor_integration">LibreOffice, MS Word and Google Docs plugins</a> that integrate search and citation in your text processors. Zotero repository offers almost <a href="https://www.zotero.org/styles">10.000 citation styles</a> that you can install in your Zotero. Zotero then automates the creation of bibliography from the citations you have used. If your bibliographic metadata is complete and you have the right citation style file, this will save you an immense amount of time that you would spend on editing citations and bibliography manually.</p>
-<p>I use Zotero as an organiser and sandbox for all of my research. Typically I organise future research projects in thematic collections and subcollections, meticulously attaching the PDF files of books or articles to their respective bibliographic entries. As much as Zotero is central to my reading and writing workflow, the add-on <a href="http://zotfile.com/">ZotFile</a> is central to my use of Zotero. ZotFile I use to send a PDF file (<code>right-click on the item -&gt; Manage Attachments -&gt; Send to Tablet</code>) to a cloud directory that I sync with my tablet for reading. I then read, highlight and annotate the file on my tablet, using the <a href="https://www.moondownload.com/">Moon+ Reader Pro</a> (not a free software, but works excellent with a large number of digital formats, including <code>.pdf</code>, <code>.mobi</code>, <code>.epub</code> and <code>.md</code>, and is more than worth spending $5 on it). Once I have recorded the edited file in the synced cloud folder, I use ZotFile to retrieve it back into Zotero (<code>right-click on the item -&gt; Manage Attachments -&gt; Get from Tablet</code>). ZotFile automatically extracts all the annotations, which it stores in a note, and retains the highlights you have made in the attached PDF. This is a superb feature that allows me to quickly parse the highlights and quote the text at any point later. To set up the ZotFile add-on, you need to define in ZotFile preferences the local path on your computer to the folder you sync with your cloud and tablet.</p>
-<p>Another important add-on for my Zotero workflow is <a href="https://retorque.re/zotero-better-bibtex/">Better BibTeX</a>. Better BibTeX automatically generates bitlatex <code>.bib</code> file(s) that contain reference-lists of items from the entire library or any (sub-)collection and assigns to each item a unique citation key. The citation keys I can then use to reference works when entering citations in the texts I write in Markdown (see the following section). When converting a Markdown text into a formatted text, I only need to specify the citation style, and that citation key will automatically be rendered into a properly formatted reference for that citation style using my <code>.bib</code> file. To set up Better BibTeX, you need to define the format of the citation key in the Better BibTeX tab of Zotero preferences. I use the following pattern:</p>
+<p>How to use Zotero as reference management and research tool is well
+explained on the <a href="https://www.zotero.org/support/">project
+website</a>. In brief, after <a href="https://www.zotero.org/download/">installing Zotero and connector
+for your browser of choice</a>, you can add a variety of bibliographic
+items either manually or more commonly by scraping bibliographic
+metadata from <a href="https://www.worldcat.org">Worldcat</a>, <a href="https://openlibrary.org/">OpenLibrary</a>, <a href="https://books.google.com/">Google Books</a>, <a href="https://amazon.com">Amazon.com</a>, <a href="https://scholar.google.com">Google Scholar</a>, academic
+repositories or any online source that contains well organised metadata.
+To Zotero you can add books, academic articles, book chapters, reports,
+documents, newspaper articles, blog entries, videos and many other
+formats.</p>
+<p>The browser connector retrieves bibliographic metadata: author,
+title, journal, volume publisher, pagination, ISBN, ISSN, DOI… – and
+adds them as a bibliographic item to your Zotero library. It is always
+advisable to double-check the scraped metadata, as the original year of
+publication, author and editor functions and similar details are
+frequently incomplete and inconsistent across those metadata
+repositories. To each item in the library, Zotero will attempt to add a
+PDF if available. Failing that, you can attach a digital file manually.
+Zotero also creates a snapshot of any webpage you add to the
+library.</p>
+<p>The items added to the library can then be organised into collections
+and subcollections and tagged with keywords. This allows you to search
+and sort your references quickly, assemble the reading for your research
+projects, add more items as you read and write, and later return to your
+existing collections to find items to drag and drop into your future
+research project collections.</p>
+<p>You can back up your Zotero library by syncing it to the account that
+you can create at Zotero.org. With a Zotero.org account, you can create
+group libraries, which you can share when doing teaching or writing with
+others.</p>
+<p>Zotero has <a href="https://www.zotero.org/support/word_processor_integration">LibreOffice,
+MS Word and Google Docs plugins</a> that integrate search and citation
+in your text processors. Zotero repository offers almost <a href="https://www.zotero.org/styles">10.000 citation styles</a> that you
+can install in your Zotero. Zotero then automates the creation of
+bibliography from the citations you have used. If your bibliographic
+metadata is complete and you have the right citation style file, this
+will save you an immense amount of time that you would spend on editing
+citations and bibliography manually.</p>
+<p>I use Zotero as an organiser and sandbox for all of my research.
+Typically I organise future research projects in thematic collections
+and subcollections, meticulously attaching the PDF files of books or
+articles to their respective bibliographic entries. As much as Zotero is
+central to my reading and writing workflow, the add-on <a href="http://zotfile.com/">ZotFile</a> is central to my use of Zotero.
+ZotFile I use to send a PDF file
+(<code>right-click on the item -&gt; Manage Attachments -&gt; Send to Tablet</code>)
+to a cloud directory that I sync with my tablet for reading. I then
+read, highlight and annotate the file on my tablet, using the <a href="https://www.moondownload.com/">Moon+ Reader Pro</a> (not a free
+software, but works excellent with a large number of digital formats,
+including <code>.pdf</code>, <code>.mobi</code>, <code>.epub</code> and
+<code>.md</code>, and is more than worth spending $5 on it). Once I have
+recorded the edited file in the synced cloud folder, I use ZotFile to
+retrieve it back into Zotero
+(<code>right-click on the item -&gt; Manage Attachments -&gt; Get from Tablet</code>).
+ZotFile automatically extracts all the annotations, which it stores in a
+note, and retains the highlights you have made in the attached PDF. This
+is a superb feature that allows me to quickly parse the highlights and
+quote the text at any point later. To set up the ZotFile add-on, you
+need to define in ZotFile preferences the local path on your computer to
+the folder you sync with your cloud and tablet.</p>
+<p>Another important add-on for my Zotero workflow is <a href="https://retorque.re/zotero-better-bibtex/">Better BibTeX</a>.
+Better BibTeX automatically generates bitlatex <code>.bib</code> file(s)
+that contain reference-lists of items from the entire library or any
+(sub-)collection and assigns to each item a unique citation key. The
+citation keys I can then use to reference works when entering citations
+in the texts I write in Markdown (see the following section). When
+converting a Markdown text into a formatted text, I only need to specify
+the citation style, and that citation key will automatically be rendered
+into a properly formatted reference for that citation style using my
+<code>.bib</code> file. To set up Better BibTeX, you need to define the
+format of the citation key in the Better BibTeX tab of Zotero
+preferences. I use the following pattern:</p>
 <pre><code>
 auth.fold.lower.condense(_)+"_"+Title.nopunct.skipwords.select(1,1).lower+"_"+origyear
 </code></pre>
-<p>For Karl Marx’s <em>Capital, vol. 1</em>, published as volume 35 of Marx and Engel’s Collected Works in 2010, but originally printed 1867, the citation key reads <code>marx_capital_1867</code> and renders into an inline citation as <code>Marx ([1967], 2010)</code>. Note that my citation key indicates the original year of publication, which I enter in Zotero metadata under the Extra field as <code>{:original date: 1867}</code>. Also, while you’re in BibTex preferences tab, it is advisable to instruct Better BibTeX to do automatic export when idle as indexing large libraries whenever you make an edit in your library can slow down your Zotero.</p>
-<p>Some journals require that you include DOI links in the references. <a href="https://github.com/bwiernik/zotero-shortdoi/releases/tag/v1.3.8">Zotero DOI Manager</a> add-on can verify if those exist and add them to your library items.</p>
+<p>For Karl Marx’s <em>Capital, vol. 1</em>, published as volume 35 of
+Marx and Engel’s Collected Works in 2010, but originally printed 1867,
+the citation key reads <code>marx_capital_1867</code> and renders into
+an inline citation as <code>Marx ([1967], 2010)</code>. Note that my
+citation key indicates the original year of publication, which I enter
+in Zotero metadata under the Extra field as
+<code>{:original date: 1867}</code>. Also, while you’re in BibTex
+preferences tab, it is advisable to instruct Better BibTeX to do
+automatic export when idle as indexing large libraries whenever you make
+an edit in your library can slow down your Zotero.</p>
+<p>Some journals require that you include DOI links in the references.
+<a href="https://github.com/bwiernik/zotero-shortdoi/releases/tag/v1.3.8">Zotero
+DOI Manager</a> add-on can verify if those exist and add them to your
+library items.</p>
 <h4 id="diigo-and-hypothesis">Diigo and Hypothesis</h4>
-<p>Zotero was created primarily with journal articles and books in mind. However, you can’t easily annotate webpages in Zotero. While I still use Zotero to reference webpages, to annotate them I use the social bookmarking service <a href="https://www.diigo.com">Diigo</a>. Diigo annotations I add manually as a note to their respective Zotero references. I use Diigo also to bookmark websites from my phone for later reading. Similar functionality is offered by <a href="https://getpocket.com/">Pocket</a> and <a href="https://www.instapaper.com/">Instapaper</a>.</p>
-<p><a href="https://web.hypothes.is/">Hypothesis</a> is a tool that can be used to a layer of collective annotation and public debate on top of any webpage, as well as on any online or local PDF. To see it in action, go to the retractable shelf in the upper right corner of this webpage. It will reveal annotations and notes related to this webpage made on Hypothesis. If you are logged in on Hypothesis, selecting a section of a webpage will bring up a tool menu allowing you to either annotate or highlight the section. You can also enter a URL of any webpage after https://hyothes.is to open a Hypothesis thread on that webpage. The tool is particularly useful for reading groups and collective learning processes. However, I find it less convenient than Diigo to extract annotations for storing in Zotero. With either you can read and annotate <em>online</em> texts both on your computer and your mobile devices.</p>
+<p>Zotero was created primarily with journal articles and books in mind.
+However, you can’t easily annotate webpages in Zotero. While I still use
+Zotero to reference webpages, to annotate them I use the social
+bookmarking service <a href="https://www.diigo.com">Diigo</a>. Diigo
+annotations I add manually as a note to their respective Zotero
+references. I use Diigo also to bookmark websites from my phone for
+later reading. Similar functionality is offered by <a href="https://getpocket.com/">Pocket</a> and <a href="https://www.instapaper.com/">Instapaper</a>.</p>
+<p><a href="https://web.hypothes.is/">Hypothesis</a> is a tool that can
+be used to a layer of collective annotation and public debate on top of
+any webpage, as well as on any online or local PDF. To see it in action,
+go to the retractable shelf in the upper right corner of this webpage.
+It will reveal annotations and notes related to this webpage made on
+Hypothesis. If you are logged in on Hypothesis, selecting a section of a
+webpage will bring up a tool menu allowing you to either annotate or
+highlight the section. You can also enter a URL of any webpage after
+https://hyothes.is to open a Hypothesis thread on that webpage. The tool
+is particularly useful for reading groups and collective learning
+processes. However, I find it less convenient than Diigo to extract
+annotations for storing in Zotero. With either you can read and annotate
+<em>online</em> texts both on your computer and your mobile devices.</p>
 <h4 id="annotated-bibliography">Annotated bibliography</h4>
-<p>In order to have an overview of key arguments in a vast amount of texts you use in your research and their particular relevance for your research, it is advisable to maintain an annotated bibliography. An annotated bibliography typically consists of a list of sources with short description and evaluation for each source. Some universities may require students to keep an annotated bibliography and submit it for progress review panels, but it is generally a useful building block in creating a literature review. <a href="https://student.unsw.edu.au/annotated-bibliography">University of New South Wales</a> provides a good overview of the purpose of an annotated bibliography and structure of annotations.</p>
-<p>I follow <a href="https://guides.libraries.emory.edu/c.php?g=49913&amp;p=323628">Emory University’s helpful guide</a> on how to create annotated bibliographies in Zotero. It recommends to use either “abstract” or “extra” fields in a bibliographic item, and then generate an annotated bibliography with the adequate annotated bibliography citation styles downloaded from the Zotero repository.</p>
+<p>In order to have an overview of key arguments in a vast amount of
+texts you use in your research and their particular relevance for your
+research, it is advisable to maintain an annotated bibliography. An
+annotated bibliography typically consists of a list of sources with
+short description and evaluation for each source. Some universities may
+require students to keep an annotated bibliography and submit it for
+progress review panels, but it is generally a useful building block in
+creating a literature review. <a href="https://student.unsw.edu.au/annotated-bibliography">University of
+New South Wales</a> provides a good overview of the purpose of an
+annotated bibliography and structure of annotations.</p>
+<p>I follow <a href="https://guides.libraries.emory.edu/c.php?g=49913&amp;p=323628">Emory
+University’s helpful guide</a> on how to create annotated bibliographies
+in Zotero. It recommends to use either “abstract” or “extra” fields in a
+bibliographic item, and then generate an annotated bibliography with the
+adequate annotated bibliography citation styles downloaded from the
+Zotero repository.</p>
 <h2 id="writing">3) Writing</h2>
-<p>When I started my PhD, I faced the challenge of how to organise writing, formatting and revising of my texts. Chapter drafts typically have to be revised over and over, creating versions upon versions, potentially creating a labyrinth of ever more complicated file names. Formatting, citations styles and front matter frequently have to be changed for each publication a text is submitted to. A text written for a publication should eventually appear on my own website, but then it involves a lot of formatting work. All these complications led me to adopt and adapt a writing workflow based on <a href="https://daringfireball.net/projects/markdown/">Markdown</a> plain text syntax and <a href="https://pandoc.org/">Pandoc</a> document converter. Using Pandoc a plain text in Markdown can, with little or no tweaking, be matched with different citation styles and output into different file formats. A single text can thus be easily re-formatted and re-used for different publication venues, slide presentations or website pages. Markdown files are small, can be easily stored, and their revisions kept track of on software development repositories by means of <a href="https://git-scm.com/">Git</a> version control system. Elements of this one-text-many-output-formats workflow are covered in the rest of this document.</p>
+<p>When I started my PhD, I faced the challenge of how to organise
+writing, formatting and revising of my texts. Chapter drafts typically
+have to be revised over and over, creating versions upon versions,
+potentially creating a labyrinth of ever more complicated file names.
+Formatting, citations styles and front matter frequently have to be
+changed for each publication a text is submitted to. A text written for
+a publication should eventually appear on my own website, but then it
+involves a lot of formatting work. All these complications led me to
+adopt and adapt a writing workflow based on <a href="https://daringfireball.net/projects/markdown/">Markdown</a> plain
+text syntax and <a href="https://pandoc.org/">Pandoc</a> document
+converter. Using Pandoc a plain text in Markdown can, with little or no
+tweaking, be matched with different citation styles and output into
+different file formats. A single text can thus be easily re-formatted
+and re-used for different publication venues, slide presentations or
+website pages. Markdown files are small, can be easily stored, and their
+revisions kept track of on software development repositories by means of
+<a href="https://git-scm.com/">Git</a> version control system. Elements
+of this one-text-many-output-formats workflow are covered in the rest of
+this document.</p>
 <h4 id="markdown">Markdown</h4>
-<p>Markdown is a markup language with a syntax extending the old email formatting conventions. Single asterisks <code>*</code>spanning words<code>*</code> indicates <em>italics</em>, double asterisks <code>**</code> <strong>bold</strong>. Single hashtag <code>#</code> indicates heading 1, double hashtag <code>##</code> heading 2. Syntax in Markdown indicates semantic structure (italics is a single emphasis, bold is a double emphasis, heading 1 is a first level heading, heading 2 is a level two subheading, etc.) that can be later rendered into a formatted text with any selection of style and formatting. Markdown was initially developed by <a href="https://en.wikipedia.org/wiki/John_Gruber">John Gruber</a> in collaboration with <a href="https://en.wikipedia.org/wiki/Aaron_Swartz">Aaron Swartz</a> with the intent of making with its minimalist syntax the marked-up text readable to regular mortals who have little clue about computer languages. Here is a <a href="https://www.markdowntutorial.com/">helpful tutorial</a> to get you started, here a <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#images">handy cheat sheet</a> with an overview of Markdown syntax.</p>
+<p>Markdown is a markup language with a syntax extending the old email
+formatting conventions. Single asterisks <code>*</code>spanning
+words<code>*</code> indicates <em>italics</em>, double asterisks
+<code>**</code> <strong>bold</strong>. Single hashtag <code>#</code>
+indicates heading 1, double hashtag <code>##</code> heading 2. Syntax in
+Markdown indicates semantic structure (italics is a single emphasis,
+bold is a double emphasis, heading 1 is a first level heading, heading 2
+is a level two subheading, etc.) that can be later rendered into a
+formatted text with any selection of style and formatting. Markdown was
+initially developed by <a href="https://en.wikipedia.org/wiki/John_Gruber">John Gruber</a> in
+collaboration with <a href="https://en.wikipedia.org/wiki/Aaron_Swartz">Aaron Swartz</a> with
+the intent of making with its minimalist syntax the marked-up text
+readable to regular mortals who have little clue about computer
+languages. Here is a <a href="https://www.markdowntutorial.com/">helpful
+tutorial</a> to get you started, here a <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#images">handy
+cheat sheet</a> with an overview of Markdown syntax.</p>
 <h4 id="atom">Atom</h4>
-<p>While written in a markup syntax and with an <code>.md</code> extension, Markdown files are not nothing but plain text files and can be created using the simplest of text editors such as <a href="https://www.nano-editor.org/">nano</a> on *nix systems, <a href="https://support.apple.com/guide/textedit/welcome/mac">TextEdit</a> on OSX, or <a href="https://git-scm.com/">NotePad</a> on Windows. However, advanced text editors such as <a href="https://www.gnu.org/software/emacs/">Emacs</a> or <a href="https://www.vim.org/">Vim</a> can add a lot of functionality. I use <a href="https://atom.io/">Atom</a>, a free software text editor developed by GitHub, and available for all major operating systems.</p>
-<p>Atom with its packages provides a lot of support for Markdown writing and integrates well with Zotero.</p>
+<p>While written in a markup syntax and with an <code>.md</code>
+extension, Markdown files are not nothing but plain text files and can
+be created using the simplest of text editors such as <a href="https://www.nano-editor.org/">nano</a> on *nix systems, <a href="https://support.apple.com/guide/textedit/welcome/mac">TextEdit</a>
+on OSX, or <a href="https://git-scm.com/">NotePad</a> on Windows.
+However, advanced text editors such as <a href="https://www.gnu.org/software/emacs/">Emacs</a> or <a href="https://www.vim.org/">Vim</a> can add a lot of functionality. I
+use <a href="https://atom.io/">Atom</a>, a free software text editor
+developed by GitHub, and available for all major operating systems.</p>
+<p>Atom with its packages provides a lot of support for Markdown writing
+and integrates well with Zotero.</p>
 <p>To improve the usability of Atom as a writing tool, I use:</p>
 <ul>
 <li>
-<a href="https://atom.io/packages/typewriter">TypeWriter</a> for centred layout;</li>
+<a href="https://atom.io/packages/typewriter">TypeWriter</a> for
+centred layout;</li>
 <li>
-<a href="https://atom.io/packages/wordcount">Wordcount</a> for displaying word and character count.</li>
+<a href="https://atom.io/packages/wordcount">Wordcount</a> for
+displaying word and character count.</li>
 </ul>
 <p>To improve Markdown writing experience, I use:</p>
 <ul>
 <li>
-<a href="https://atom.io/packages/markdown-writer">Markdown Writer</a> for syntax assistance;</li>
+<a href="https://atom.io/packages/markdown-writer">Markdown
+Writer</a> for syntax assistance;</li>
 <li>
-<a href="https://atom.io/packages/markdown-preview-enhanced">Markdown Preview Enhanced</a> for previewing the document rendered in Pandoc (make sure you have ticked ‘Use Pandoc Parser’ and set the path to Pandoc executable and command-line arguments such as biblatex <code>.bib</code> file and citation style <code>.csl</code> file locations in its settings).</li>
+<a href="https://atom.io/packages/markdown-preview-enhanced">Markdown
+Preview Enhanced</a> for previewing the document rendered in Pandoc
+(make sure you have ticked ‘Use Pandoc Parser’ and set the path to
+Pandoc executable and command-line arguments such as biblatex
+<code>.bib</code> file and citation style <code>.csl</code> file
+locations in its settings).</li>
 </ul>
-<p>To integrate Atom with Zotero using a biblatex file generated by BetterBibTex add-on in Zotero, I use:</p>
+<p>To integrate Atom with Zotero using a biblatex file generated by
+BetterBibTex add-on in Zotero, I use:</p>
 <ul>
 <li>
-<a href="https://atom.io/packages/autocomplete-bibtex">Autocomplete-bibtex</a>. To set up the Autocomplete-bibtex you need to enter in its settings a path to the <code>.bib</code> file of your Zotero library. Markdown already comes with a syntax for citation in the form <code>[@id]</code>. If you type in <code>@</code> followed by the first letters of an author’s name or title, Autocomplete-bibtext will bring up a drop-down menu offering you to select items from your Zotero library matching those letters. By selecting an item, a citation key for that item will be inserted into the text, resulting in an entry such as <code>@tenen_plain_2017</code>. A similar way to integrate Atom and Zotero is provided by <a href="https://atom.io/packages/zotero-picker">Zotero-picker</a> that emulates the search bar in the LibreOffice, MS Word and Google Docs plugins.</li>
+<a href="https://atom.io/packages/autocomplete-bibtex">Autocomplete-bibtex</a>.
+To set up the Autocomplete-bibtex you need to enter in its settings a
+path to the <code>.bib</code> file of your Zotero library. Markdown
+already comes with a syntax for citation in the form <code>[@id]</code>.
+If you type in <code>@</code> followed by the first letters of an
+author’s name or title, Autocomplete-bibtext will bring up a drop-down
+menu offering you to select items from your Zotero library matching
+those letters. By selecting an item, a citation key for that item will
+be inserted into the text, resulting in an entry such as
+<code>@tenen_plain_2017</code>. A similar way to integrate Atom and
+Zotero is provided by <a href="https://atom.io/packages/zotero-picker">Zotero-picker</a> that
+emulates the search bar in the LibreOffice, MS Word and Google Docs
+plugins.</li>
 </ul>
-<h4 id="spell-checking-grammar-and-style">Spell-checking, grammar and style</h4>
-<p>As a native speaker of a minor language, my writing in English often has rough edges. To weed out spelling errors when writing in Atom, I use the <a href="https://atom.io/packages/linter-spell">Linter-spell</a> package, which depends on hunspell or aspell for spell-checking. Linter-spell allows parallel spell-checking in multiple languages, which you need to specify in the settings in the Default languages field. In my case, those are: <code>en-GB, hr-HR</code>. Make sure you have hunspell or aspell language files installed on your system.</p>
-<p>For issues of English grammar and style, several online services provide assistance well beyond what the built-in spelling-checkers in text processors such as LibreOffice, MS Word and Google Docs, or Linter-spell in Atom can offer. My assistant of choice is <a href="https://grammarly.com">Grammarly</a>. Grammarly both integrates with browsers as an add-on and has a dedicated page to paste in a text for correction. Already as a free service, it offers many suggestions related to grammar and style, and as a subscription service plenty more. The jury is still out as to whether the subscription is worth its money.</p>
+<h4 id="spell-checking-grammar-and-style">Spell-checking, grammar and
+style</h4>
+<p>As a native speaker of a minor language, my writing in English often
+has rough edges. To weed out spelling errors when writing in Atom, I use
+the <a href="https://atom.io/packages/linter-spell">Linter-spell</a>
+package, which depends on hunspell or aspell for spell-checking.
+Linter-spell allows parallel spell-checking in multiple languages, which
+you need to specify in the settings in the Default languages field. In
+my case, those are: <code>en-GB, hr-HR</code>. Make sure you have
+hunspell or aspell language files installed on your system.</p>
+<p>For issues of English grammar and style, several online services
+provide assistance well beyond what the built-in spelling-checkers in
+text processors such as LibreOffice, MS Word and Google Docs, or
+Linter-spell in Atom can offer. My assistant of choice is <a href="https://grammarly.com">Grammarly</a>. Grammarly both integrates
+with browsers as an add-on and has a dedicated page to paste in a text
+for correction. Already as a free service, it offers many suggestions
+related to grammar and style, and as a subscription service plenty more.
+The jury is still out as to whether the subscription is worth its
+money.</p>
 <h2 id="formatting-and-publishing">4) Formatting and publishing</h2>
-<p>A text written in Markdown plain text can be converted into a variety of formats using Pandoc. I use Markdown and Pandoc to write my PhD chapters, a book project, submissions for academic journals, texts for media, slide presentations and pages for this website. All these various kinds of venues have different requirements on how the texts need to be formatted: different citation styles, different text layouts, different front matter, different file formats. Writing a semantically structured text in Markdown syntax and rendering it into formatted text with Pandoc gives me maximum flexibility and reusability for my texts.</p>
+<p>A text written in Markdown plain text can be converted into a variety
+of formats using Pandoc. I use Markdown and Pandoc to write my PhD
+chapters, a book project, submissions for academic journals, texts for
+media, slide presentations and pages for this website. All these various
+kinds of venues have different requirements on how the texts need to be
+formatted: different citation styles, different text layouts, different
+front matter, different file formats. Writing a semantically structured
+text in Markdown syntax and rendering it into formatted text with Pandoc
+gives me maximum flexibility and reusability for my texts.</p>
 <h4 id="pandoc">Pandoc</h4>
-<p><a href="https://pandoc.org/">Pandoc</a>, a free software tool developed by the philosopher of science <a href="https://johnmacfarlane.net/">John MacFarlane</a>, is a universal document converter that can translate between a large number of formats, including from Markdown plain text to fully formatted <code>.html</code>, <code>.docx</code> or <code>.pdf</code> documents – and back to Markdown. Pandoc can read syntax for front matter metadata, links, footnotes, tables, ordered lists, mathematical formulas and many other structural elements, and render them into beautifully styled documents. It also includes the <a href="http://hackage.haskell.org/package/pandoc-citeproc">pandoc-citeproc library</a>, which can automatically generate citations and a bibliography in Pandoc-rendered documents using the Citation Style Language (CSL) files.</p>
-<p><a href="https://pandoc.org/MANUAL.html">Pandoc manual</a> provides a detailed guide on how to use Pandoc. My baseline Pandoc command for conversion from an <code>.md</code> file to <code>.docx</code> file has the following structure:</p>
+<p><a href="https://pandoc.org/">Pandoc</a>, a free software tool
+developed by the philosopher of science <a href="https://johnmacfarlane.net/">John MacFarlane</a>, is a universal
+document converter that can translate between a large number of formats,
+including from Markdown plain text to fully formatted
+<code>.html</code>, <code>.docx</code> or <code>.pdf</code> documents –
+and back to Markdown. Pandoc can read syntax for front matter metadata,
+links, footnotes, tables, ordered lists, mathematical formulas and many
+other structural elements, and render them into beautifully styled
+documents. It also includes the <a href="http://hackage.haskell.org/package/pandoc-citeproc">pandoc-citeproc
+library</a>, which can automatically generate citations and a
+bibliography in Pandoc-rendered documents using the Citation Style
+Language (CSL) files.</p>
+<p><a href="https://pandoc.org/MANUAL.html">Pandoc manual</a> provides a
+detailed guide on how to use Pandoc. My baseline Pandoc command for
+conversion from an <code>.md</code> file to <code>.docx</code> file has
+the following structure:</p>
 <pre><code>
 pandoc &lt;document&gt;.md --metadata-file "/path/to/metadata.yml" --bibliography "/path/to/zotero_library.bib" --csl "/path/to/harvard.csl" -M lang:en --reference-doc "/home/&lt;user&gt;/.pandoc/custom-reference.docx" -s -o &lt;document&gt;.docx
 </code></pre>
-<p>This will convert the <code>document.md</code> file, using my metadata YAML file, my Zotero library <code>.bib</code> file, Harvard referencing style file and <code>custom-reference.docx</code> template, into a <code>.docx</code> file (make sure to replace placeholder paths to files and file names with your own). Flag -s (or –standalone) produces an output that includes an appropriate header and footer, but the header and footer is already automatically included for some formats (including <code>.pdf</code>, <code>.docx</code> and <code>.odt</code>) and not for others (including HTML, LaTeX or <code>.rtf</code>). Flag -o indicates the output file. The filter <code>-M lang:en</code> defines the metadata for the language locale that will be used by pandoc-citeproc in rendering references. As I write in two languages, the rules for capital letters in titles or phrases such as “edited by” change from language to language. The metadata filter sorts this, provided the CSL file you use supports the language that you need.</p>
-<p>A separate YAML metadata file is a relatively recent feature and might not work in older versions of Pandoc. Instead, you can write a YAML metadata block at the top of your text Markdown file. In fact, this is what I tend to do. In a YAML block, you can define many items, such as the font family, <code>.csl</code> style file and <code>.bib</code> file that will be used with the document. I tend to include only the front matter and retain flexibility with format elements by specifying them only when outputting in Pandoc. A typical YAML block of my article has the following structure:</p>
+<p>This will convert the <code>document.md</code> file, using my
+metadata YAML file, my Zotero library <code>.bib</code> file, Harvard
+referencing style file and <code>custom-reference.docx</code> template,
+into a <code>.docx</code> file (make sure to replace placeholder paths
+to files and file names with your own). Flag -s (or –standalone)
+produces an output that includes an appropriate header and footer, but
+the header and footer is already automatically included for some formats
+(including <code>.pdf</code>, <code>.docx</code> and <code>.odt</code>)
+and not for others (including HTML, LaTeX or <code>.rtf</code>). Flag -o
+indicates the output file. The filter <code>-M lang:en</code> defines
+the metadata for the language locale that will be used by
+pandoc-citeproc in rendering references. As I write in two languages,
+the rules for capital letters in titles or phrases such as “edited by”
+change from language to language. The metadata filter sorts this,
+provided the CSL file you use supports the language that you need.</p>
+<p>A separate YAML metadata file is a relatively recent feature and
+might not work in older versions of Pandoc. Instead, you can write a
+YAML metadata block at the top of your text Markdown file. In fact, this
+is what I tend to do. In a YAML block, you can define many items, such
+as the font family, <code>.csl</code> style file and <code>.bib</code>
+file that will be used with the document. I tend to include only the
+front matter and retain flexibility with format elements by specifying
+them only when outputting in Pandoc. A typical YAML block of my article
+has the following structure:</p>
 <pre><code>---
 title: 'The Postdigital Condition and the Accelerated Technocapitalism'
 subtitle: 'Accelerated Instrumental Rationality and the Three Responses of the Far-Right'
@@ -233,97 +568,277 @@ date: June 26th, 2019
 abstract: |
   **Abstract**: The article argues that the postdigital condition can be understood from the changing global economic and political context that was conducive to digital network technologies becoming ubiquitous...
 ...</code></pre>
-<p>Pandoc Manual has a more detailed explanation of <a href="https://pandoc.org/MANUAL.html#metadata-blocks">metadata blocks</a> and <a href="https://pandoc.org/MANUAL.html#extension-yaml_metadata_block">YAML metadata block</a>.</p>
-<p>Custom-reference.docx template file generated by Pandoc has a number of predefined styles to render your metadata, text structure and references. I have combined examples and tweaks I found online to create a .docx template that suits my needs. You can download it from <a href="../../custom-reference.docx">here</a>. If you want to add a style that is not already defined by Pandoc and the template file, you need to edit a text in that custom style in your template file and then use the HTML style span tag around the relevant segment of text in your .md file to match that style. For example, for a custom style for keywords, I had to span the keywords in my Markdown text in the following way:</p>
+<p>Pandoc Manual has a more detailed explanation of <a href="https://pandoc.org/MANUAL.html#metadata-blocks">metadata
+blocks</a> and <a href="https://pandoc.org/MANUAL.html#extension-yaml_metadata_block">YAML
+metadata block</a>.</p>
+<p>Custom-reference.docx template file generated by Pandoc has a number
+of predefined styles to render your metadata, text structure and
+references. I have combined examples and tweaks I found online to create
+a .docx template that suits my needs. You can download it from <a href="../../custom-reference.docx">here</a>. If you want to add a style that
+is not already defined by Pandoc and the template file, you need to edit
+a text in that custom style in your template file and then use the HTML
+style span tag around the relevant segment of text in your .md file to
+match that style. For example, for a custom style for keywords, I had to
+span the keywords in my Markdown text in the following way:</p>
 <pre><code>
 &lt;span custom-style="Keywords"&gt;**Keywords:** postdigital, digital economy, technocapitalism, liberal capitalist hegemony, the far-right&lt;/span&gt;
 </code></pre>
-<p>This defines a “character style” called “Keywords”. To define a “paragraph style”, you can use divs:</p>
+<p>This defines a “character style” called “Keywords”. To define a
+“paragraph style”, you can use divs:</p>
 <pre><code>
 &lt;div custom-style="Sidenote"&gt;This entire paragraph will be set to a custom paragraph style called "Sidenote".&lt;/div&gt;
 </code></pre>
-<p>In LibreOffice’s “Style” dialog (View -&gt; Styles), these two are distinct and found in separate tabs controlled by the icons on top of the dialog. Note that custom styles currently seem to be exported only to OOXML (.docx) documents; they will be ignored if exporting into OpenDocument (.ods).</p>
-<p>Pandoc generates PDF files using LaTeX and depends on a PDF engine installed on your system. The default LaTeX template produces beautiful PDFs. Plain HTML output, however, will be bare-bones and will require CSS or HTML5 templates to define the layout of the webpage. For more complex documents and uses, a good starting point is a repository with <a href="https://github.com/jgm/pandoc/wiki/User-contributed-templates">user-contributed Pandoc templates</a>.</p>
-<h4 id="pandoc-graphic-user-interface">Pandoc graphic user interface</h4>
-<p>Pandoc is a command line tool. However, very few computer users nowadays know their way around command line. To make Pandoc to a wider range of users <a href="https://github.com/jgm/pandoc/wiki/Pandoc-wrappers-and-interfaces">a number of GUIs for Pandoc</a> were developed.</p>
-<h4 id="citation-style-language-files">Citation style language files</h4>
-<p>Markdown syntax for citation is <code>[@citationkey]</code>. Pandoc-citeproc will use the specified <code>.bib</code> file and citation format file to output citations and a bibliography in the desired form. Almost 10.000 <code>.csl</code> files for various referencing standards and publications-specific styles can be downloaded from the <a href="https://www.zotero.org/styles">Zotero Style Repository</a>. If your book or journal editor doesn’t have a <code>.csl</code> file, you can try to detect what style the publication uses at the <a href="https://editor.citationstyles.org/">Citation Style Language project</a>. If it only approximates a style, you can edit an existing style to build a <code>.csl</code> file that matches a publication’s style.</p>
+<p>In LibreOffice’s “Style” dialog (View -&gt; Styles), these two are
+distinct and found in separate tabs controlled by the icons on top of
+the dialog. Note that custom styles currently seem to be exported only
+to OOXML (.docx) documents; they will be ignored if exporting into
+OpenDocument (.ods).</p>
+<p>Pandoc generates PDF files using LaTeX and depends on a PDF engine
+installed on your system. The default LaTeX template produces beautiful
+PDFs. Plain HTML output, however, will be bare-bones and will require
+CSS or HTML5 templates to define the layout of the webpage. For more
+complex documents and uses, a good starting point is a repository with
+<a href="https://github.com/jgm/pandoc/wiki/User-contributed-templates">user-contributed
+Pandoc templates</a>.</p>
+<h4 id="pandoc-graphic-user-interface">Pandoc graphic user
+interface</h4>
+<p>Pandoc is a command line tool. However, very few computer users
+nowadays know their way around command line. To make Pandoc to a wider
+range of users <a href="https://github.com/jgm/pandoc/wiki/Pandoc-wrappers-and-interfaces">a
+number of GUIs for Pandoc</a> were developed.</p>
+<h4 id="citation-style-language-files">Citation style language
+files</h4>
+<p>Markdown syntax for citation is <code>[@citationkey]</code>.
+Pandoc-citeproc will use the specified <code>.bib</code> file and
+citation format file to output citations and a bibliography in the
+desired form. Almost 10.000 <code>.csl</code> files for various
+referencing standards and publications-specific styles can be downloaded
+from the <a href="https://www.zotero.org/styles">Zotero Style
+Repository</a>. If your book or journal editor doesn’t have a
+<code>.csl</code> file, you can try to detect what style the publication
+uses at the <a href="https://editor.citationstyles.org/">Citation Style
+Language project</a>. If it only approximates a style, you can edit an
+existing style to build a <code>.csl</code> file that matches a
+publication’s style.</p>
 <h2 id="revising">5) Revising</h2>
-<p>The downside of Markdown plain text and Pandoc workflow is that tracking changes and comments between versions cannot be practically done in a document as it can be done in LibreOffice, MS Word or Google Docs files. If you receive suggestions and comments in a <code>.docx</code> format, you can use Pandoc to convert a <code>.docx</code> version of your document back into <code>.md</code>, using the following command:</p>
+<p>The downside of Markdown plain text and Pandoc workflow is that
+tracking changes and comments between versions cannot be practically
+done in a document as it can be done in LibreOffice, MS Word or Google
+Docs files. If you receive suggestions and comments in a
+<code>.docx</code> format, you can use Pandoc to convert a
+<code>.docx</code> version of your document back into <code>.md</code>,
+using the following command:</p>
 <pre><code>
 pandoc -s &lt;commented-document&gt;.docx --wrap=none --track-changes=all --atx-headers -o &lt;commented-document&gt;.md
 </code></pre>
-<p>Option <code>--track-changes</code> can have three values: accept, reject and all. If we use ‘all’ to include all deletions, insertions and comments, thus replicating the ‘show changes’ function of a MS Word or LibreOffice, the results are underwhelming - there is so much noise from added inline code that it renders the Markdown document unreadable while also breaking a part of the syntax such as citation keys.</p>
-<p>One course of action is to go through the suggested changes in the received <code>.docx</code> file and manually enter them into the original Markdown document. Another course of action is to run Pandoc conversion with the ‘accept’ option and then compare differences, merge them or edit the original with a tool such as <a href="https://meldmerge.org/">Meld</a> or, if you use git (see the following section), edit them on a versioning system.</p>
-<p>If your supervisors or editors want to see the changes you have made between two drafts, you can always output two versions of your <code>.md</code> file to a <code>.docx</code> or <code>.odt</code> and create a track-changes file with LibreOffice’s <a href="https://help.libreoffice.org/Common/Comparing_Versions_of_a_Document">‘compare document’ function</a>.</p>
-<h2 id="assembling-the-thesis-in-thesisdown">6) Assembling the thesis in thesisdown</h2>
-<p>Chapters of my PhD thesis I have written separately. To submit the thesis, I have to assemble them into a single document, structured to my university’s requirements.</p>
+<p>Option <code>--track-changes</code> can have three values: accept,
+reject and all. If we use ‘all’ to include all deletions, insertions and
+comments, thus replicating the ‘show changes’ function of a MS Word or
+LibreOffice, the results are underwhelming - there is so much noise from
+added inline code that it renders the Markdown document unreadable while
+also breaking a part of the syntax such as citation keys.</p>
+<p>One course of action is to go through the suggested changes in the
+received <code>.docx</code> file and manually enter them into the
+original Markdown document. Another course of action is to run Pandoc
+conversion with the ‘accept’ option and then compare differences, merge
+them or edit the original with a tool such as <a href="https://meldmerge.org/">Meld</a> or, if you use git (see the
+following section), edit them on a versioning system.</p>
+<p>If your supervisors or editors want to see the changes you have made
+between two drafts, you can always output two versions of your
+<code>.md</code> file to a <code>.docx</code> or <code>.odt</code> and
+create a track-changes file with LibreOffice’s <a href="https://help.libreoffice.org/Common/Comparing_Versions_of_a_Document">‘compare
+document’ function</a>.</p>
+<h2 id="assembling-the-thesis-in-thesisdown">6) Assembling the thesis in
+thesisdown</h2>
+<p>Chapters of my PhD thesis I have written separately. To submit the
+thesis, I have to assemble them into a single document, structured to my
+university’s requirements.</p>
 <h4 id="merging-chapters-with-pandoc">Merging chapters with pandoc</h4>
-<p>To assemble the thesis, with pandoc I could use the following command:</p>
+<p>To assemble the thesis, with pandoc I could use the following
+command:</p>
 <pre><code>
 pandoc --latex-engine=xelatex -V fontsize=12pt -V documentclass:book -V papersize:a4paper --number-sections --bibliography "/path/to/zotero_library.bib" --csl "/path/to/harvard.csl" -M lang:en "/path/to/title_page.md" ""/path/to/summary.md" "/path/to/acknowledgements.md" "/path/to/toc.md" "/path/to/introduction.md" "/path/to/chapter_1.md" "/path/to/chapter_2.md" "/path/to/chapter_3.md" ""/path/to/chapter_4.md" "/path/to/chapter_5.md" /path/to/conclusion.md" "/path/to/appendix_1.md" -H "/path/to/appendix_2.pdf" -o chapter_thesis.pdf
 </code></pre>
-<p>Here Xelatex engine is used to allow Unicode characters from input files, <code>-V</code> flags are used to set LaTeX variables, <code>--number-sections</code> flag is used to set numbering for all the headings and <code>-H</code> flag is used to include a PDF document. However, for my PhD thesis, I wanted to have an extended set of features such as in-text citations that link to references, a list of figures, chapter-level tables-of-contents.</p>
-<h4 id="adapting-oxforddown-for-coventry-university">Adapting oxforddown for Coventry University</h4>
-<p>Therefore, I have decided to assemble my thesis using Yihui Xie’s <a href="https://bookdown.org/">bookdown</a>, that is, its <a href="https://github.com/ulyngs/oxforddown">oxforddown</a> version developed by Ulrik Lyngs and inspired by Chester Ismay’s <a href="https://github.com/ismayc/thesisdown">thesisdown</a>. Bookdown is an open-source R package for writing books in RMarkdown and can automate the export of publications to <code>.pdf</code>, <code>.docx</code>, <code>.epub</code> or <code>.html</code> formats. The HTML GibBook format is directly styled for GitHub Pages.</p>
-<p>I have selected oxfordown because Oxford University uses a <a href="https://github.com/mcmanigle/OxThesis">LaTeX thesis template</a> that is similar to Coventry University’s thesis structure. The creator of oxforddown, Ulrik Lyngs, has a series of <a href="https://www.youtube.com/watch?v=LBHxcuCMjnk&amp;list=PLkIUogDmN_nA6f3UJ0tWHlxGITUjbuldE">video tutorials on YouTube</a> documenting how to build a thesis using oxforddown.</p>
-<p>All the tweakes to oxforddown, formatted to Coventry University’s standards, I have uploaded to my GitHub account, titled as <a href="https://github.com/tomislavmedak/coventrydown">coventrydown</a>. To build a Coventry University thesis using coventrydown template, do the following:</p>
+<p>Here Xelatex engine is used to allow Unicode characters from input
+files, <code>-V</code> flags are used to set LaTeX variables,
+<code>--number-sections</code> flag is used to set numbering for all the
+headings and <code>-H</code> flag is used to include a PDF document.
+However, for my PhD thesis, I wanted to have an extended set of features
+such as in-text citations that link to references, a list of figures,
+chapter-level tables-of-contents.</p>
+<h4 id="adapting-oxforddown-for-coventry-university">Adapting oxforddown
+for Coventry University</h4>
+<p>Therefore, I have decided to assemble my thesis using Yihui Xie’s <a href="https://bookdown.org/">bookdown</a>, that is, its <a href="https://github.com/ulyngs/oxforddown">oxforddown</a> version
+developed by Ulrik Lyngs and inspired by Chester Ismay’s <a href="https://github.com/ismayc/thesisdown">thesisdown</a>. Bookdown is
+an open-source R package for writing books in RMarkdown and can automate
+the export of publications to <code>.pdf</code>, <code>.docx</code>,
+<code>.epub</code> or <code>.html</code> formats. The HTML GibBook
+format is directly styled for GitHub Pages.</p>
+<p>I have selected oxfordown because Oxford University uses a <a href="https://github.com/mcmanigle/OxThesis">LaTeX thesis template</a>
+that is similar to Coventry University’s thesis structure. The creator
+of oxforddown, Ulrik Lyngs, has a series of <a href="https://www.youtube.com/watch?v=LBHxcuCMjnk&amp;list=PLkIUogDmN_nA6f3UJ0tWHlxGITUjbuldE">video
+tutorials on YouTube</a> documenting how to build a thesis using
+oxforddown.</p>
+<p>All the tweakes to oxforddown, formatted to Coventry University’s
+standards, I have uploaded to my GitHub account, titled as <a href="https://github.com/tomislavmedak/coventrydown">coventrydown</a>.
+To build a Coventry University thesis using coventrydown template, do
+the following:</p>
 <ul>
-<li>download <a href="https://github.com/tomislavmedak/coventrydown">coventrydown</a> and open it in <a href="https://www.rstudio.com/products/rstudio/download/">RStudio</a>,</li>
+<li>download <a href="https://github.com/tomislavmedak/coventrydown">coventrydown</a>
+and open it in <a href="https://www.rstudio.com/products/rstudio/download/">RStudio</a>,</li>
 <li>replace my chapter <code>.Rmd</code> files with yours,</li>
-<li>if you have your chapter titles in YAML front matter, move them to the top-level headings and change all the lower-level headings,</li>
-<li>replace my figures and tables in the <code>figures</code> folder and change in your chapters the paths to files accordingly,</li>
-<li>replace my <code>bibliography.bib</code> files in the <code>bibliography</code> folder,</li>
-<li>add your citation style <code>.csl</code> file to the <code>bibliography</code> folder,</li>
-<li>replace my Declaration and Ethics forms in the <code>insert-PDFs</code> folder,</li>
-<li>edit <a href="https://github.com/tomislavmedak/coventrydown/blob/master/index.Rmd">index.Rmd</a> and <a href="https://github.com/tomislavmedak/coventrydown/blob/master/templates/template.tex">template.tex</a> accordingly.</li>
+<li>if you have your chapter titles in YAML front matter, move them to
+the top-level headings and change all the lower-level headings,</li>
+<li>replace my figures and tables in the <code>figures</code> folder and
+change in your chapters the paths to files accordingly,</li>
+<li>replace my <code>bibliography.bib</code> files in the
+<code>bibliography</code> folder,</li>
+<li>add your citation style <code>.csl</code> file to the
+<code>bibliography</code> folder,</li>
+<li>replace my Declaration and Ethics forms in the
+<code>insert-PDFs</code> folder,</li>
+<li>edit <a href="https://github.com/tomislavmedak/coventrydown/blob/master/index.Rmd">index.Rmd</a>
+and <a href="https://github.com/tomislavmedak/coventrydown/blob/master/templates/template.tex">template.tex</a>
+accordingly.</li>
 </ul>
-<p>Additionally, if you desire to have a list of figures, you need to transform the Markdown image links in your chapter files with the following R code:</p>
+<p>Additionally, if you desire to have a list of figures, you need to
+transform the Markdown image links in your chapter files with the
+following R code:</p>
 <pre><code>
 ```{r echo=FALSE, fig.cap="long caption under the figure", fig.scap="short caption used in the list of figures", out.width="100%"}
 
 knitr::include_graphics("./figures/&lt;filename&gt;.jpg")
 ```
 </code></pre>
-<p>For Coventry University’s pre-viva submission, I had to add the Candidate’s Declaration, Ethics Approval and a published article to the thesis, which are all separate, already existing PDFs. These PDFs are placed in the <code>inserted-PDFs</code> folder. As the Declaration and Ethics Approval should not be added to the table of contents, they are inserted into the thesis through the template.tex file before the title page, whereas the published article is included as an appendix through the <code>appendices.Rmd</code> file. To insert PDFs into the thesis use the following LaTeX code:</p>
+<p>For Coventry University’s pre-viva submission, I had to add the
+Candidate’s Declaration, Ethics Approval and a published article to the
+thesis, which are all separate, already existing PDFs. These PDFs are
+placed in the <code>inserted-PDFs</code> folder. As the Declaration and
+Ethics Approval should not be added to the table of contents, they are
+inserted into the thesis through the template.tex file before the title
+page, whereas the published article is included as an appendix through
+the <code>appendices.Rmd</code> file. To insert PDFs into the thesis use
+the following LaTeX code:</p>
 <pre><code>
 \includepdf[pages=-]{inserted-PDFs/&lt;filename&gt;.pdf}
 </code></pre>
-<p>To add a mini-ToC to chapters, add <code>\minitoc</code> after the chapter title and adapt the ToC-depth in the <code>index.Rmd</code> file.</p>
+<p>To add a mini-ToC to chapters, add <code>\minitoc</code> after the
+chapter title and adapt the ToC-depth in the <code>index.Rmd</code>
+file.</p>
 <p>To build the thesis, you simply knit <code>index.Rmd</code>.</p>
-<h2 id="naming-storing-and-backing-up-files">7) Naming, storing and backing-up files</h2>
-<p>To organise my scholarship files, I divide my projects between the ‘PhD’ directory that includes not only the thesis but everything related to my PhD study, ‘writing’ directory that includes not only my own writing but also my collaborative writing projects, ‘web’ directory that includes my static website, ‘presentations’ directory that includes my conference texts and slides, and ‘technocapitalism’ book project directory. Following useful advice of <a href="https://raoofphysics.github.io/phd-starter-kit/#directory-structure">Achintya Rao’s PhD Starter Kit</a>, I have adopted a heterogenous yet consistent nomenclature for my directories and files. Directories and sub-directories are named differently, depending on what works best for my recall and for search, sorting and command-line operations: short memorable titles, priority sorting using numeral prefixes <code>01_</code>, <code>02_</code>, <code>03_</code>,…, and chronology sorting using <a href="http://en.wikipedia.org/wiki/ISO_8601">ISO Date Format</a> prefix <code>YYYYMM_</code>.</p>
-<p>Naming versions of a text as it undergoes revisions can be a cause for confusion and frustration. There are always small edits that happen between major drafts, and there are always small edits that happen after the final submission. Adding suffixes ‘<code>_v.1</code>, <code>_v.2</code>, <code>_v.3</code>…’ or ’<code>_draft_1,</code> <code>_draft_2</code>, <code>_draft_3</code>… <code>_final</code> can easily get out of hand. For this reason, I use Git to version, store and backup my writing.</p>
+<h2 id="naming-storing-and-backing-up-files">7) Naming, storing and
+backing-up files</h2>
+<p>To organise my scholarship files, I divide my projects between the
+‘PhD’ directory that includes not only the thesis but everything related
+to my PhD study, ‘writing’ directory that includes not only my own
+writing but also my collaborative writing projects, ‘web’ directory that
+includes my static website, ‘presentations’ directory that includes my
+conference texts and slides, and ‘technocapitalism’ book project
+directory. Following useful advice of <a href="https://raoofphysics.github.io/phd-starter-kit/#directory-structure">Achintya
+Rao’s PhD Starter Kit</a>, I have adopted a heterogenous yet consistent
+nomenclature for my directories and files. Directories and
+sub-directories are named differently, depending on what works best for
+my recall and for search, sorting and command-line operations: short
+memorable titles, priority sorting using numeral prefixes
+<code>01_</code>, <code>02_</code>, <code>03_</code>,…, and chronology
+sorting using <a href="http://en.wikipedia.org/wiki/ISO_8601">ISO Date
+Format</a> prefix <code>YYYYMM_</code>.</p>
+<p>Naming versions of a text as it undergoes revisions can be a cause
+for confusion and frustration. There are always small edits that happen
+between major drafts, and there are always small edits that happen after
+the final submission. Adding suffixes ‘<code>_v.1</code>,
+<code>_v.2</code>, <code>_v.3</code>…’ or ’<code>_draft_1,</code>
+<code>_draft_2</code>, <code>_draft_3</code>… <code>_final</code> can
+easily get out of hand. For this reason, I use Git to version, store and
+backup my writing.</p>
 <h4 id="git-gitlab-and-sparkleshare">Git, Gitlab and SparkleShare</h4>
-<p><a href="https://git-scm.com/">Git</a>, a free software framework developed initially by Linus Torvalds, is a version control system for collaborative software development projects. Each of my five scholarship directories is a git directory that I keep synced with my online repository on <a href="https://gitlab.com/">GitLab</a> (<a href="https://github.com">GitHub</a> or <a href="https://bitbucket.org/">BitBucket</a> should serve you equally well). Extensive <a href="https://git-scm.com/docs">Git documentation</a> is available from the Git project, a <a href="https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf">handy quick overview of commands</a> from the GitHub.</p>
-<p>To initiate an existing project directory into a git directory, you have to execute the following sequence of commands:</p>
+<p><a href="https://git-scm.com/">Git</a>, a free software framework
+developed initially by Linus Torvalds, is a version control system for
+collaborative software development projects. Each of my five scholarship
+directories is a git directory that I keep synced with my online
+repository on <a href="https://gitlab.com/">GitLab</a> (<a href="https://github.com">GitHub</a> or <a href="https://bitbucket.org/">BitBucket</a> should serve you equally
+well). Extensive <a href="https://git-scm.com/docs">Git
+documentation</a> is available from the Git project, a <a href="https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf">handy
+quick overview of commands</a> from the GitHub.</p>
+<p>To initiate an existing project directory into a git directory, you
+have to execute the following sequence of commands:</p>
 <pre><code>cd &lt;localdir&gt;
 git init
 git add .
 git commit -m 'message'
 git remote add origin &lt;url&gt;
 git push -u origin master</code></pre>
-<p>Before you do <code>git commit</code>, you should probably exclude all large and sensitive directories or files by creating a ‘.gitignore’ file in the same directory, specifying in the file the path to documents you want to omit. The origin <url> you will obtain by creating a new project on GitLab (or GitHub if you use that).</url></p>
-<p>Once you have created a remote repository, you will be syncing the changes you have made locally by executing the following sequence of commands:</p>
+<p>Before you do <code>git commit</code>, you should probably exclude
+all large and sensitive directories or files by creating a ‘.gitignore’
+file in the same directory, specifying in the file the path to documents
+you want to omit. The origin <url> you will obtain by creating a new
+project on GitLab (or GitHub if you use that).</url></p>
+<p>Once you have created a remote repository, you will be syncing the
+changes you have made locally by executing the following sequence of
+commands:</p>
 <p><code>git add -all; git commit -m '&lt;message for this revision&gt;'; git push</code></p>
-<p>Changes in the remote repository that were made by your co-authors or collaborators you can sync to your local directory by doing:</p>
+<p>Changes in the remote repository that were made by your co-authors or
+collaborators you can sync to your local directory by doing:</p>
 <p><code>git pull</code></p>
-<p>The directory synced and backed up on your remote repository can always be copied to another computer locally by doing:</p>
+<p>The directory synced and backed up on your remote repository can
+always be copied to another computer locally by doing:</p>
 <pre><code>mkdir &lt;localdirectory&gt;
 git clone https://gitlab.com/USERNAME/PROJECT-NAME.git</code></pre>
-<p>You can automate this process by using <a href="https://www.sparkleshare.org/">SparkleShare</a>, a git-based file-sharing application, that acts in a similar way to cloud storage applications like Dropbox or Google Drive, but uses a version repository of your choice for storage. After you have set up <a href="https://opensource.com/article/19/4/file-sharing-git">SparkleShare</a>, it runs as a daemon in your system tray keeping your .git directories synced locally and remotely. Note that version repositories are not good for storing large files and directories, but plain text and image files that I use in my work are small enough.</p>
-<h4 id="backing-up-the-zotero-library">Backing-up the Zotero library</h4>
-<p>Zotero is central to my reading workflow, and the Zotero library directory contains annotated PDFs of almost everything I read. Its directory is both large and precious to me. Zotero.org account will back-up your references, but given the limited amount of storage offered by Zotero.org (300mb for free, up to 6GB under an inexpensive payment plan), I store a back-up of my Zotero library in the cloud using <a href="https://rclone.org/">rclone</a>, a command-line tool that lets you sync your local files and directories with a remote cloud destination. Although rclone has excellent documentation and assists in the setup through command line dialogues, there’s also the <a href="https://martins.ninja/RcloneBrowser/">RcloneBrowser</a> that provides a graphical frontend for rclone. On *nix systems you can also schedule a regular backup as a cron job.</p>
+<p>You can automate this process by using <a href="https://www.sparkleshare.org/">SparkleShare</a>, a git-based
+file-sharing application, that acts in a similar way to cloud storage
+applications like Dropbox or Google Drive, but uses a version repository
+of your choice for storage. After you have set up <a href="https://opensource.com/article/19/4/file-sharing-git">SparkleShare</a>,
+it runs as a daemon in your system tray keeping your .git directories
+synced locally and remotely. Note that version repositories are not good
+for storing large files and directories, but plain text and image files
+that I use in my work are small enough.</p>
+<h4 id="backing-up-the-zotero-library">Backing-up the Zotero
+library</h4>
+<p>Zotero is central to my reading workflow, and the Zotero library
+directory contains annotated PDFs of almost everything I read. Its
+directory is both large and precious to me. Zotero.org account will
+back-up your references, but given the limited amount of storage offered
+by Zotero.org (300mb for free, up to 6GB under an inexpensive payment
+plan), I store a back-up of my Zotero library in the cloud using <a href="https://rclone.org/">rclone</a>, a command-line tool that lets you
+sync your local files and directories with a remote cloud destination.
+Although rclone has excellent documentation and assists in the setup
+through command line dialogues, there’s also the <a href="https://martins.ninja/RcloneBrowser/">RcloneBrowser</a> that
+provides a graphical frontend for rclone. On *nix systems you can also
+schedule a regular backup as a cron job.</p>
 <h2 id="presentations-and-website">8) Presentations and website</h2>
-<p>To create slide presentations with Markdown, I use <a href="https://github.com/webpro/reveal-md">reveal-md</a> – a Markdown-oriented fork of <a href="https://github.com/hakimel/reveal.js/">Reveal.js</a>. Reveal.js is a highly capable framework for creating presentations in HTML, developed initially by <a href="https://hakim.se/">Hakim el Hattab</a>, and offering slick features such as nested slides, fragments, speaker notes and PDF export. To create my website with Markdown, I use <a href="https://getnikola.com/">Nikola</a> static web generator, developed by Roberto Alsina.</p>
+<p>To create slide presentations with Markdown, I use <a href="https://github.com/webpro/reveal-md">reveal-md</a> – a
+Markdown-oriented fork of <a href="https://github.com/hakimel/reveal.js/">Reveal.js</a>. Reveal.js is
+a highly capable framework for creating presentations in HTML, developed
+initially by <a href="https://hakim.se/">Hakim el Hattab</a>, and
+offering slick features such as nested slides, fragments, speaker notes
+and PDF export. To create my website with Markdown, I use <a href="https://getnikola.com/">Nikola</a> static web generator, developed
+by Roberto Alsina.</p>
 <h4 id="reveal.js-and-reveal-md">Reveal.js and reveal-md</h4>
-<p>You can download and install Reveal.js from its <a href="https://github.com/hakimel/reveal.js/">GitHub repository</a>. Reveal.js slides can be written directly into the <code>index.html</code> file, either using HTML markup or Markdown. However, Reveal.js can load external Markdown files, a feature I find much more convenient for my workflow. It allows me to quickly transform the text of my talk that I have already written in Markdown into a slide show or conversely write my text as slide notes.</p>
-<p>Reveal-md streamlines the integration of Reveal.js and external Markdown files. To install reveal-md follow the instructions on its <a href="https://github.com/webpro/reveal-md">Github page</a>. To create a presentation from my Markdown presentation document, I typically execute the following line from the folder in which I have my Markdown presentation file, the images it links to and my custom style-sheet files:</p>
+<p>You can download and install Reveal.js from its <a href="https://github.com/hakimel/reveal.js/">GitHub repository</a>.
+Reveal.js slides can be written directly into the
+<code>index.html</code> file, either using HTML markup or Markdown.
+However, Reveal.js can load external Markdown files, a feature I find
+much more convenient for my workflow. It allows me to quickly transform
+the text of my talk that I have already written in Markdown into a slide
+show or conversely write my text as slide notes.</p>
+<p>Reveal-md streamlines the integration of Reveal.js and external
+Markdown files. To install reveal-md follow the instructions on its <a href="https://github.com/webpro/reveal-md">Github page</a>. To create a
+presentation from my Markdown presentation document, I typically execute
+the following line from the folder in which I have my Markdown
+presentation file, the images it links to and my custom style-sheet
+files:</p>
 <pre><code>
 reveal-md technologies_and_eclogical_transition.md --vertical-separator "\n----\n" --css black_custom.css
 </code></pre>
-<p>By defining a vertical separator (in my case, four line breaks around two dashes), I enable nested slides. I also indicate a custom CSS file built from one of Reveal.js themes, but if you omit this option, it will use the default black theme – or you can use the option <code>--theme</code> to chose one of the other themes provided in the installation.</p>
-<p>My presentation I have written in the <code>technologies_and_eclogical_transition.md</code> file. A typical slide segment has the following structure:</p>
+<p>By defining a vertical separator (in my case, four line breaks around
+two dashes), I enable nested slides. I also indicate a custom CSS file
+built from one of Reveal.js themes, but if you omit this option, it will
+use the default black theme – or you can use the option
+<code>--theme</code> to chose one of the other themes provided in the
+installation.</p>
+<p>My presentation I have written in the
+<code>technologies_and_eclogical_transition.md</code> file. A typical
+slide segment has the following structure:</p>
 <pre><code>
 ---
 
@@ -341,24 +856,74 @@ All economic processes are drawing on living matter, materials and energy from n
 
 ----
 </code></pre>
-<p>Here <code>---</code> surrounded by line breaks is the default separator for horizontal slides and <code>--</code> surrounded by line breaks for vertical, i.e. nested slides. <code>#</code> is a heading, <code>&lt;aside class="notes"&gt;</code> my slide note. Slide segments typically combine Markdown and HTML syntax, particularly when better control over the size of fonts and images is called for.</p>
+<p>Here <code>---</code> surrounded by line breaks is the default
+separator for horizontal slides and <code>--</code> surrounded by line
+breaks for vertical, i.e. nested slides. <code>#</code> is a heading,
+<code>&lt;aside class="notes"&gt;</code> my slide note. Slide segments
+typically combine Markdown and HTML syntax, particularly when better
+control over the size of fonts and images is called for.</p>
 <p>Reveal-md can also print slides to PDF:</p>
 <pre><code>
 reveal-md technologies_and_eclogical_transition.md --vertical-separator "\n--\n" --css black_custom.css --print /tmp/test.pdf
 </code></pre>
-<p>Reveal-md can be run from a Docker, generate a static website, and do a number of other things that are best explored on its <a href="https://github.com/webpro/reveal-md">Github page</a>.</p>
+<p>Reveal-md can be run from a Docker, generate a static website, and do
+a number of other things that are best explored on its <a href="https://github.com/webpro/reveal-md">Github page</a>.</p>
 <h4 id="nikola">Nikola</h4>
-<p><a href="https://getnikola.com/">Nikola</a> (named after Nikola Tesla) is a static website generator comparable to <a href="https://jekyllrb.com/">Jekyll</a> or <a href="https://gohugo.io/">Hugo</a>. Most of the online publishing frameworks such as Wordpress or Mediawiki use databases to generate webpages for each visitor dynamically. Yet most of the content we publish on our websites is, in fact, meant to be static - every visitor is supposed to see the same content. Static website generators emerged in response to this mismatch. With static websites, you generate the website locally and then upload it to the server. What goes in is Markdown, HTML and CSS, what goes on the server are only HTML files and the linked images and documents. This has substantial advantages: software updates by your online hosting service will not obsolete your website even if you stop updating it, websites are safer from attacks, they are far less resource hungry, they don’t lock you in with a vendor. You can always move your HTML files to another server, no matter how big or small, no matter its setup. Static websites provide you with autonomy from platforms and lock-ins, while offering everything you might expect from a modern website: themes, blogs, tags, comments, RSS/Atom feeds or social media integration.</p>
-<p><a href="https://getnikola.com/getting-started.html">Nikola</a> is easy to install across all major operating systems. Once you’ve installed Nikola, you can initialise your website locally. A Nikola website can behave as primarily a blog or as a pages-based website. Nikola has an extensive <a href="https://getnikola.com/handbook.html">handbook</a> providing you with all the ins and the outs of installing Nikola, using the framework and defining the behaviour of your website.</p>
-<p>I host my website on GitHub Pages, <a href="https://help.github.com/en/articles/using-a-custom-domain-with-github-pages">using my domain</a>, which costs me altogether the price of a domain registration. This allows me to use Git to update the changes to my website. This is done with a single line of code run from my local Nikola website directory:</p>
+<p><a href="https://getnikola.com/">Nikola</a> (named after Nikola
+Tesla) is a static website generator comparable to <a href="https://jekyllrb.com/">Jekyll</a> or <a href="https://gohugo.io/">Hugo</a>. Most of the online publishing
+frameworks such as Wordpress or Mediawiki use databases to generate
+webpages for each visitor dynamically. Yet most of the content we
+publish on our websites is, in fact, meant to be static - every visitor
+is supposed to see the same content. Static website generators emerged
+in response to this mismatch. With static websites, you generate the
+website locally and then upload it to the server. What goes in is
+Markdown, HTML and CSS, what goes on the server are only HTML files and
+the linked images and documents. This has substantial advantages:
+software updates by your online hosting service will not obsolete your
+website even if you stop updating it, websites are safer from attacks,
+they are far less resource hungry, they don’t lock you in with a vendor.
+You can always move your HTML files to another server, no matter how big
+or small, no matter its setup. Static websites provide you with autonomy
+from platforms and lock-ins, while offering everything you might expect
+from a modern website: themes, blogs, tags, comments, RSS/Atom feeds or
+social media integration.</p>
+<p><a href="https://getnikola.com/getting-started.html">Nikola</a> is
+easy to install across all major operating systems. Once you’ve
+installed Nikola, you can initialise your website locally. A Nikola
+website can behave as primarily a blog or as a pages-based website.
+Nikola has an extensive <a href="https://getnikola.com/handbook.html">handbook</a> providing you
+with all the ins and the outs of installing Nikola, using the framework
+and defining the behaviour of your website.</p>
+<p>I host my website on GitHub Pages, <a href="https://help.github.com/en/articles/using-a-custom-domain-with-github-pages">using
+my domain</a>, which costs me altogether the price of a domain
+registration. This allows me to use Git to update the changes to my
+website. This is done with a single line of code run from my local
+Nikola website directory:</p>
 <p><code>nikola build; git add --all; git commit -m "`date`"; git push</code></p>
-<p>However, should GitHub ever terminate the service, I can always transfer the website elsewhere and use another protocol, as basic as FTP, to keep it online.</p>
-<p>Essential for my purposes is that Nikola can use Pandoc to compile HTML. To use Pandoc as the compiler, go to the <code>conf.py</code> file located in the local Nikola website directory, uncomment the [following line in the list of compilers] (https://getnikola.com/listings/conf.py.html#listingsconfpy-305) and set the <a href="https://getnikola.com/listings/conf.py.html#listingsconfpy-1085">PANDOC_OPTIONS</a>. The options in my case read:</p>
+<p>However, should GitHub ever terminate the service, I can always
+transfer the website elsewhere and use another protocol, as basic as
+FTP, to keep it online.</p>
+<p>Essential for my purposes is that Nikola can use Pandoc to compile
+HTML. To use Pandoc as the compiler, go to the <code>conf.py</code> file
+located in the local Nikola website directory, uncomment the [following
+line in the list of compilers]
+(https://getnikola.com/listings/conf.py.html#listingsconfpy-305) and set
+the <a href="https://getnikola.com/listings/conf.py.html#listingsconfpy-1085">PANDOC_OPTIONS</a>.
+The options in my case read:</p>
 <pre><code>
 PANDOC_OPTIONS = ['--toc', '--template=/home/&lt;user&gt;/.pandoc/templates/html_nikola.template', '-t', 'html5', '--filter', 'pandoc-citeproc', '--bibliography=/home/&lt;user&gt;/.pandoc/bibliography/zotero_library.bib', '--csl=/home/&lt;user&gt;/.pandoc/csl/harvard-coventry-university.csl' ]
 </code></pre>
-<p>Pandoc here uses a custom template created by my collaborator Marcell Mars to deal with some of my additional front matter. Nikola already offers a number of <a href="https://getnikola.com/handbook.html#id18">metadata entries</a>. By default, it uses reST comments, but you can <a href="https://getnikola.com/listings/conf.py.html#listingsconfpy-317">easily change that setting into YAML</a> in the <code>conf.py</code> file. My template file adds to the existing metadata elements additional entries for author affiliation, article abstract, and article lead. The file is available <a href="../../html_nikola.template">here</a>.</p>
-<p>On some of the pages on my website, including this one, I have Hypothesis installed. To add Hypothesis script to a page, you need to add the following code after your metadata entry:</p>
+<p>Pandoc here uses a custom template created by my collaborator Marcell
+Mars to deal with some of my additional front matter. Nikola already
+offers a number of <a href="https://getnikola.com/handbook.html#id18">metadata entries</a>. By
+default, it uses reST comments, but you can <a href="https://getnikola.com/listings/conf.py.html#listingsconfpy-317">easily
+change that setting into YAML</a> in the <code>conf.py</code> file. My
+template file adds to the existing metadata elements additional entries
+for author affiliation, article abstract, and article lead. The file is
+available <a href="../../html_nikola.template">here</a>.</p>
+<p>On some of the pages on my website, including this one, I have
+Hypothesis installed. To add Hypothesis script to a page, you need to
+add the following code after your metadata entry:</p>
 <pre><code>
 &lt;script type="application/json" class="js-hypothesis-config"&gt;
 
@@ -368,9 +933,21 @@ PANDOC_OPTIONS = ['--toc', '--template=/home/&lt;user&gt;/.pandoc/templates/html
 
 &lt;script src="https://hypothes.is/embed.js" async&gt;&lt;/script&gt;
 </code></pre>
-<p>To improve how pages and posts are shared on Facebook or Twitter, it is necessary to include a preview image. This is done by placing an image of optimal size and use the ‘previewimage’ metadata element with the relative path to the image file (e.g <code>previewimage:/images/&lt;filename&gt;.jpg</code>). Before you share, it’s best to go to Facebook’s <a href="https://developers.facebook.com/tools/debug/">Sharing Debugger</a> to test if the preview image works as expected.</p>
-<p>To improve discoverability and ranking of your pages and posts on search engines, add in the ‘description’ metadata element of each Nikola page or blog post a short description of its content that best matches potential searches.</p>
-<p>Finally, to add Google Analytics to your Nikola, you have to uncomment the <a href="https://getnikola.com/listings/conf.py.html#listingsconfpy-1270">BODY_END line</a> in you <code>conf.py</code> file and enter the following code:</p>
+<p>To improve how pages and posts are shared on Facebook or Twitter, it
+is necessary to include a preview image. This is done by placing an
+image of optimal size and use the ‘previewimage’ metadata element with
+the relative path to the image file (e.g
+<code>previewimage:/images/&lt;filename&gt;.jpg</code>). Before you
+share, it’s best to go to Facebook’s <a href="https://developers.facebook.com/tools/debug/">Sharing Debugger</a>
+to test if the preview image works as expected.</p>
+<p>To improve discoverability and ranking of your pages and posts on
+search engines, add in the ‘description’ metadata element of each Nikola
+page or blog post a short description of its content that best matches
+potential searches.</p>
+<p>Finally, to add Google Analytics to your Nikola, you have to
+uncomment the <a href="https://getnikola.com/listings/conf.py.html#listingsconfpy-1270">BODY_END
+line</a> in you <code>conf.py</code> file and enter the following
+code:</p>
 <pre><code>
 BODY_END = """
 &lt;!-- Global site tag (gtag.js) - Google Analytics --&gt;
@@ -384,23 +961,56 @@ BODY_END = """
 &lt;/script&gt;
 """
 </code></pre>
-<p>For more customisations and tweaks, <a href="https://getnikola.com/documentation.html">Nikola docmentation</a> offers a plenitude of resources, but you can also find on the web examples of Nikola-powered website customisations such as this highly resourceful <a href="http://louistiao.me/posts/how-i-customized-my-nikola-powered-site/">Lois Tiao’s blog post</a>.</p>
-<h2 id="automating-a-curriculum-vitae">9) Automating a curriculum vitae</h2>
-<p>Creating and updating CVs is tedium. If you ignore it for a while, it explodes into an endless forensic task of reconstructing from across your inboxes, folders and the Internet what did you do or publish when and where exactly. To make that a bit simpler, I have decided to use Christophe-Marie Duquesne and Mark Szepieniec’s <a href="https://mszep.github.io/pandoc_resume/">resume framework</a> to automate the generation of my CV every time I deploy changes to my Nikola website. Their CSS and LaTeX styles and bash script file create a nicely looking resume using Pandoc in a number of formats (<code>.rtf</code>, <code>.docx</code>, <code>.html</code>, <code>.tex</code> and <code>.pdf</code>).</p>
-<p>Using their Markdown template, I have created an extensive academic resume that I output to PDF. To avoid having to layout the document to look nice every time I make a new entry, I have separated the categories changing rarely (contacts, education, skills or affiliations) from categories changing frequently (publications, talks and presentations, grants and organising work) using the LaTeX <code>\pagebreak</code> command. The markdown file you can download <a href="../../CV_TMedak.md">here</a> and the resulting PDF file <a href="../../CV_TMedak.pdf">here</a>.</p>
-<p>Changes I still have to enter into the Markdown file manually. But, to automate the creation and upload of the resume in PDF to my website, I have added commands to the <code>DEPLOY_COMMANDS</code> section of Nikola’s <code>conf.py</code> that change directory to my pandoc_resume folder, execute <code>make</code>, copy newly created PDF to Nikola files folder and then proceed to my regular Nikola deploy set of commands.</p>
+<p>For more customisations and tweaks, <a href="https://getnikola.com/documentation.html">Nikola docmentation</a>
+offers a plenitude of resources, but you can also find on the web
+examples of Nikola-powered website customisations such as this highly
+resourceful <a href="http://louistiao.me/posts/how-i-customized-my-nikola-powered-site/">Lois
+Tiao’s blog post</a>.</p>
+<h2 id="automating-a-curriculum-vitae">9) Automating a curriculum
+vitae</h2>
+<p>Creating and updating CVs is tedium. If you ignore it for a while, it
+explodes into an endless forensic task of reconstructing from across
+your inboxes, folders and the Internet what did you do or publish when
+and where exactly. To make that a bit simpler, I have decided to use
+Christophe-Marie Duquesne and Mark Szepieniec’s <a href="https://mszep.github.io/pandoc_resume/">resume framework</a> to
+automate the generation of my CV every time I deploy changes to my
+Nikola website. Their CSS and LaTeX styles and bash script file create a
+nicely looking resume using Pandoc in a number of formats
+(<code>.rtf</code>, <code>.docx</code>, <code>.html</code>,
+<code>.tex</code> and <code>.pdf</code>).</p>
+<p>Using their Markdown template, I have created an extensive academic
+resume that I output to PDF. To avoid having to layout the document to
+look nice every time I make a new entry, I have separated the categories
+changing rarely (contacts, education, skills or affiliations) from
+categories changing frequently (publications, talks and presentations,
+grants and organising work) using the LaTeX <code>\pagebreak</code>
+command. The markdown file you can download <a href="../../CV_TMedak.md">here</a> and the resulting PDF file <a href="../../CV_TMedak.pdf">here</a>.</p>
+<p>Changes I still have to enter into the Markdown file manually. But,
+to automate the creation and upload of the resume in PDF to my website,
+I have added commands to the <code>DEPLOY_COMMANDS</code> section of
+Nikola’s <code>conf.py</code> that change directory to my pandoc_resume
+folder, execute <code>make</code>, copy newly created PDF to Nikola
+files folder and then proceed to my regular Nikola deploy set of
+commands.</p>
 <pre><code>
 'cd /home/&lt;user&gt;/Documents/vita/pandoc_resume/; make;'
 'cp /home/&lt;user&gt;/Documents/vita/pandoc_resume/output/CV_TMedak.pdf /home/coyu3/Documents/web/nikola/files/CV_TMedak.pdf',
 </code></pre>
-<p>To keep abreast of my activities, now every time I add new items to the list of publications on my website, I do so also in my Markdown resume file. So every time I deploy the website, my CV is updated too.</p>
+<p>To keep abreast of my activities, now every time I add new items to
+the list of publications on my website, I do so also in my Markdown
+resume file. So every time I deploy the website, my CV is updated
+too.</p>
 <p><strong>Further reading:</strong></p>
-<div id="refs" class="references">
-<div id="ref-healy_plain_2018">
-<p>Healy, Kieran. 2018. “The Plain Person’s Guide to Plain Text Social Science.” 2018. <a href="https://kieranhealy.org/publications/plain-person-text/">https://kieranhealy.org/publications/plain-person-text/</a>.</p>
+<div id="refs" class="references csl-bib-body hanging-indent" role="list">
+<div id="ref-healy_plain_2018" class="csl-entry" role="listitem">
+Healy, Kieran. 2018. <span>“The <span>Plain Person</span>’s
+<span>Guide</span> to <span>Plain Text Social Science</span>.”</span>
+2018. <a href="https://kieranhealy.org/publications/plain-person-text/">https://kieranhealy.org/publications/plain-person-text/</a>.
 </div>
-<div id="ref-tenen_plain_2017">
-<p>Tenen, Dennis. 2017. <em>Plain Text: The Poetics of Computation</em>. Stanford, CA: Stanford University Press.</p>
+<div id="ref-tenen_plain_2017" class="csl-entry" role="listitem">
+Tenen, Dennis. 2017. <em>Plain <span>Text</span>: <span>The
+Poetics</span> of <span>Computation</span></em>. Stanford, CA: Stanford
+University Press.
 </div>
 </div>
     </div>
