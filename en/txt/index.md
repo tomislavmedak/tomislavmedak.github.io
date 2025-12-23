@@ -82,17 +82,18 @@ Contemporary Art Rijeka, 2016, pp. 228–35.
 
 ‘Death and Survival of Dead Labor’. *Schlosspost*, 8 Jan. 2016. [🔗](https://schloss-post.com/death-survival-dead-labor/)
 
-[‘Hacking’](/en/hacking). *Truth Is Concrete: A Handbook for Artistic Strategies in Real Politics*, edited by Florian Malzacher, Sternberg Press, 2014, pp.
-267–68.
+[‘Hacking’](/en/hacking). *Truth Is Concrete: A Handbook for Artistic Strategies in Real Politics*, edited by Florian Malzacher, Sternberg Press, 2014, pp. 267–68.
 
 ‘Open Source Paradigm in the Arts’. *The Theatre*, International
 Festival / Steirischer Herbst, 2007, pp. 87–89.
 
 „System.Hack(1, “Broadcasting”,“Orson Welles - War of the Worlds”)“.
-*System.Hack() - Table of Contents*, Multimedia Institute, 2006, str.
+*System.Hack() - Table of Contents*, Multimedia Institute, 2006, pp.
 49–54.
 
 ### Theatre, art, cultural activism
+
+'Passed up and Relinquished: Irreversible and Irreparable?', in *A record of the Present State: River, Railway, Street*, a monograph by Melita Čavlović and Marko Ercegović, edited by Iva Prosoli, 177-185, Muzej za umjetnost i obrt, 2025, pp. 177-185.
 
 ‘In Praise of Bureaucracy’. *L.P,* Marko Ercegović / Office for
 Photography, 2017, pp. 55–58.

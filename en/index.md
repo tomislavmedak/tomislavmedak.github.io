@@ -21,6 +21,8 @@ In these pages you will find my writings, information on my artistic work, my bi
 
 ## Recent writing
 
+'Passed up and Relinquished: Irreversible and Irreparable?', in *A record of the Present State: River, Railway, Street*, a monograph by Melita Čavlović and Marko Ercegović, edited by Iva Prosoli, 177-185, Muzej za umjetnost i obrt, 2025.
+
 *Pirate Care: Acts against the Criminalization of Solidarity*, co-authored with Valeria Graziano and Marcell Mars, Pluto Press, 2025.
 
 *Figure It Out: The Art of Living through Systems Failures*, co-edited with Mara Ferreri, Valeria Graziano, Marcell Mars, and Davor Mišković, Drugo more, 2024.
@@ -28,7 +30,5 @@ In these pages you will find my writings, information on my artistic work, my bi
 'Choreographing Abstractions', in *Published on the Occasion of Tomos Savić-Gecan's Representation of Croatia in the 59th International Art Exhibition — La Biennale di Venezia*, edited by Elena Filipović, 76-83, Sternberg Press and Kontejner, 2022.
 
 ['Local Maximum: On Popular Technical Pedagogy'](/Graziano_Mars_Medak_2022_Local_Maximum.pdf), co-authored with Valeria Graziano and Marcell Mars, in *Artistic Ecologies: New Compasses and Tools*, edited by Emily Pethick, Pablo Martinez, and What, How & For Whom/WHW, 118–31, Sternberg Press / What, How & for Whom/WHW, 2022.
-
-['When care needs piracy: the case for disobedience in struggles against imperial property regimes'](https://lwbooks.co.uk/product/when-care-needs-piracy-the-case-for-disobedience-in-struggles-against-imperial-property-regimes), co-authored with Valeria Graziano and Marcell Mars, *Soundings*, 2021, vol. 77, pp. 55–70.
 
 [‘Degrowth’](http://www.sciencedirect.com/science/article/pii/B9780124095489120810), co-authored with Mladen Domazet and Andro Rilović, in *Encyclopedia of the World's Biomes*, Elsevier, 2020, vol. 5, pp. 287-295.

@@ -42,52 +42,54 @@ Zajedno s Marcellom Marsom: *System.hack()*. Multimedijalni institut,
 
 ### Tehnologija, ekologija, kapitalizam
 
-[„Estetizacija tehnopolitike“](http://library.memoryoftheworld.org/#/book/369db1a9-d6f7-4d7e-8c92-0b4f4c37682c). U *Filozofija je ženskog roda : Zbornik u čast Nadeždi Čačinovič*, uredila Ankica Čakardić, Filozofski fakultete Sveučilišta u Zagrebu, 2019, str. 67–87.
+["Estetizacija tehnopolitike"](http://library.memoryoftheworld.org/#/book/369db1a9-d6f7-4d7e-8c92-0b4f4c37682c). U *Filozofija je ženskog roda : Zbornik u čast Nadeždi Čačinovič*, uredila Ankica Čakardić, Filozofski fakultete Sveučilišta u Zagrebu, 2019, str. 67–87.
 
 Zajedno s Marcellom Marsom: ["Amazon.com: anatomija jedne dominacije"](https://www.bilten.org/?p=28562), *Bilten*, 31. srpnja 2019.
 
 Zajedno s Mladenom Domazetom: ["Povijest koja nam diše za vratom", pogovor hrvatskom prijevodu knjige Andreasa Malma *Fosilni kapital*, Fraktura, Zagreb, 2018.](http://ipe.hr/aktivnosti/povijest-koja-nam-dise-za-vratom/)
 
-„O čemu pričamo kada pričamo o bitcoinu?“, *Bilten*, 25. siječanj 2018. [🔗](http://www.bilten.org/?p=21983)
+"O čemu pričamo kada pričamo o bitcoinu?", *Bilten*, 25. siječanj 2018. [🔗](http://www.bilten.org/?p=21983)
 
-[„Od ekonomije dijeljenja do dijeljene eksploatacije“](/hr/eksploatacija/). *Bilten*, 24. ožujak 2017. [🔗](http://www.bilten.org/?p=17570)
+["Od ekonomije dijeljenja do dijeljene eksploatacije"](/hr/eksploatacija/). *Bilten*, 24. ožujak 2017. [🔗](http://www.bilten.org/?p=17570)
 
-„Pa pa proleteri...: automatizacija i kriza rada“. *Kulturpunkt*,
+"Pa pa proleteri...: automatizacija i kriza rada". *Kulturpunkt*,
 ožujak 2017. [🔗](http://www.kulturpunkt.hr/content/pa-pa-proleteri-automatizacija-i-kriza-rada)
 
-„Pa pa proleteri...: politička kriza i tehnološki razvoj“.
+"Pa pa proleteri...: politička kriza i tehnološki razvoj".
 *Kulturpunkt*, travanj 2017. [🔗](http://www.kulturpunkt.hr/content/pa-pa-proleteri-politicka-kriza-i-tehnoloski-razvoj)
 
-„Neutralnost interneta: što se to mene tiče?“, *Bilten*, 23. studeni
+"Neutralnost interneta: što se to mene tiče?", *Bilten*, 23. studeni
 2015. [🔗](http://www.bilten.org/?p=10225)
 
 "Novi mediji, stari kapitalizam", *Bilten*. 18. travanj 2014. [🔗](http://www.bilten.org/?p=514)
 
 ### Knjižnice iz sjene, dostupnost znanja, haktivizam
 
-[„Budućnosti iz knjižnice: Radikalne geste UbuWeba i Monoskopa“](/hr/ubu_monoskop/). *Javna knjižnica*, Što, kako i za koga/WHW & Multimedijalni institut, 2015, str. 51–66. [🔗 PDF na Memory of the World](http://library.memoryoftheworld.org/#/book/4779b288-9ea0-415a-bc93-faf03065538c)
+["Budućnosti iz knjižnice: Radikalne geste UbuWeba i Monoskopa"](/hr/ubu_monoskop/). *Javna knjižnica*, Što, kako i za koga/WHW & Multimedijalni institut, 2015, str. 51–66. [🔗 PDF na Memory of the World](http://library.memoryoftheworld.org/#/book/4779b288-9ea0-415a-bc93-faf03065538c)
 
-„System.hack(1,“elektronski mediji”,“Orson Welles - Rat svjetova”)“.
+"System.hack(1,"elektronski mediji”,"Orson Welles - Rat svjetova”)".
 *System.hack()*, Multimedijalni institut, 2006, str. 3–8. [🔗 PDF na Monoskopu](https://monoskop.org/images/f/fd/System.hack_catalogue.pdf/)
 
 ### Umjetnost, kultura, kulturni aktivizam
 
+"Propušteno i prepušteno, nepovratno i nepopravljivo?", u *Snimak postojećeg stanja: rijeka, pruga, ulica*, monografija Melite Čavlović i Marka Ercegovića, uredila Iva Prosoli, Muzej za umjetnost i obrt, 2025, str. 177-185.
+
 ["Kultura kao zajedničko dobro"](https://www.kulturpunkt.hr/content/kultura-kao-zajednicko-dobro-0), *Kulturpunkt*, 22. veljače 2021.
 
-[„Narušeni ritam i analitička opsesija“](/hr/ritam/). *BADco.: Ispravci ritma (programska knjiga predstave)*, uredila Ivana Ivković, Hrvatsko narodno kazalište, 2017, str. 30–33. [🔗 PDF na stranicama BADco.](http://badco.hr/media/uploads/ispravci_ritma_tomislav_medak.pdf)
+["Narušeni ritam i analitička opsesija"](/hr/ritam/). *BADco.: Ispravci ritma (programska knjiga predstave)*, uredila Ivana Ivković, Hrvatsko narodno kazalište, 2017, str. 30–33. [🔗 PDF na stranicama BADco.](http://badco.hr/media/uploads/ispravci_ritma_tomislav_medak.pdf)
 
-„Pohvala birokracije“. *L.p,* Marko Ercegović / Ured za fotografiju,
+"Pohvala birokracije". *L.p,* Marko Ercegović / Ured za fotografiju,
 2017, str. 9–19.
 
-„Work Every Day - Izvod o plesu i radu“. *O plesu i iz(a) plesa*, uredio
+"Work Every Day - Izvod o plesu i radu". *O plesu i iz(a) plesa*, uredio
 Andrej Mirčev, Sodaberg koreografski laboratorij, 2016, str. 183–91. [🔗 PDF na Monoskopu](https://monoskop.org/images/9/99/Mircev_Andrej_Krajac_Marjana_Toth_Valentina_eds_O_plesu_i_iza_plesa_2016.pdf)
 
-„Politički teatar i društveni totalitet“. *Pobunjena estetika? - Četiri
-reakcije iz Hrvatske na izlaganje „Estetika pobune? Novi društveni
-pokreti između politike i umjetnosti“ Hansa-Thiesa Lehmanna*, uredila
+"Politički teatar i društveni totalitet". *Pobunjena estetika? - Četiri
+reakcije iz Hrvatske na izlaganje "Estetika pobune? Novi društveni
+pokreti između politike i umjetnosti" Hansa-Thiesa Lehmanna*, uredila
 Mirand Jakiša, Drugo more, 2013, str. 44–50.
 
-„Otvorene institucije i reforma kulturnog sistema“. *Frakcija -
+"Otvorene institucije i reforma kulturnog sistema". *Frakcija -
 Performing Arts Journal*, izd. 60–61, prosinac 2011., str. 50–54.
 
 ### Društvo, društveni pokreti, politika

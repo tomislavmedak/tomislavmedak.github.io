@@ -17,11 +17,13 @@ Na ovim stranicama naći ćete moje tekstove, informacije o minulom radu, profes
 
 **Recentne publikacije**
 
+"Propušteno i prepušteno, nepovratno i nepopravljivo?", u *Snimak postojećeg stanja: rijeka, pruga, ulica*, monografija Melite Čavlović and Marka Ercegovića, uredila Iva Prosoli, 177-185, Muzej za umjetnost i obrt, 2025.
+
 Autorski s Valerijom Graziano i Marcellom Marsom: *Pirate Care: Acts against the Criminalization of Solidarity*, Pluto Press, 2025.
 
 Urednički s Marom Ferreri, Valerijom Graizano, Marcellom Marsom i Davorom Miškovićem: *Figure It Out: The Art of Living through Systems Failures*, Drugo more, 2024.
 
-'Choreographing Abstractions', in *Published on the Occasion of Tomos Savić-Gecan's Representation of Croatia in the 59th International Art Exhibition — La Biennale di Venezia*, edited by Elena Filipović, 76-83, Sternberg Press and Kontejner, 2022.
+"Choreographing Abstractions", u *Published on the Occasion of Tomos Savić-Gecan's Representation of Croatia in the 59th International Art Exhibition — La Biennale di Venezia*, uredila Elena Filipović, 76-83, Sternberg Press and Kontejner, 2022.
 
 Zajedno s Valerijom Graziano i Marcellom Marsom: "Local Maximum: On Popular Technical Pedagogy", u *Artistic Ecologies: New Compasses and Tools*, uredili Emily Pethick, Pablo Martinez i What, How & For Whom/WHW, 118–31, Sternberg Press / What, How & for Whom/WHW, 2022.
 
