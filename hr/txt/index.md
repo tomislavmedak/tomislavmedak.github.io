@@ -102,6 +102,8 @@ Performing Arts Journal*, izd. 60–61, prosinac 2011., str. 50–54.
 
 ## Intervjui
 
+["Ne zazirati od tehnologije"](https://kritika-hdp.hr/tomislav-medak-ne-zazirati-od-tehnologije/), intervju za *Kritika h,d,p - portal za književnost i kritiku*, intervjuirao Filip Kučeković, 22. listopada 2025.
+
 Zajedno s Valerijom Graziano i Marcellom Marsom: ["Njegovati bezuvjetnu solidarnost"](https://kulturpunkt.hr/content/njegovati-bezuvjetnu-solidarnost). Intervjuirala Hana Sirovica, 6. ožujka 2020. *Kulturpunkt.hr*.
 Medak, Tomislav.
 
