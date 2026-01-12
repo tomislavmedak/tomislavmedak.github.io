@@ -5,13 +5,13 @@
 .. description: This is Tomislav Medak's website. Here you'll find his writing, artistic work, biography, blog and contact.
 -->
 
-I am a researcher with a PhD on technopolitics and planetary environmental crisis from Coventry Unversity's [Centre for Postdigital Cultures](https://www.coventry.ac.uk/research/areas-of-research/postdigital-cultures/). Over the last couple of years, with Valeria Graziano and Marcell Mars, I have initiated of the [Pirate Care](https://pirate.care) project. I am politically active as a policy coordinator for the Croatian green-left party [Možemo!](https://mozemo.hr/)
+I am a researcher with a PhD on technopolitics and planetary environmental crisis from Coventry Unversity's [Centre for Postdigital Cultures](https://www.coventry.ac.uk/research/areas-of-research/postdigital-cultures/). Over the last couple of years, I have been working with Valeria Graziano and Marcell Mars on the [Pirate Care](https://pirate.care) project. I am also politically active as a policy coordinator for the Croatian green-left party [Možemo!](https://mozemo.hr/)
 
-My research interests are in care, ecology, technology and capitalist development, with a particular focus on the commons and the disability. Sometimes I also write on theatre, dance, disability and politics.
+My research interests are in care, ecology, technology and capitalist development, with a particular focus on disability and the commons. Sometimes I also write on theatre, dance, disability and politics.
 
-Formelry, I was a member of the theory and publishing team of [Multimedia Institute/MAMA](https://www.mi2.hr/en/) and a theatre maker with the now dissolved performing arts collective [BADco](http://badco.hr/en/home/).
+Formerly, I was a member of the theory and publishing team of [Multimedia Institute/MAMA](https://www.mi2.hr/en/) and a theatre maker with the now dissolved performing arts collective [BADco](http://badco.hr/en/home/).
 
-In these pages you will find my writings, information on my artistic work, my biography and my blog. Links in the sidebar will lead you there, but the most relevant and recent is selected below.
+In these pages you will find my writing, information on my earlier artistic work, my biography and my blog. Links in the sidebar will lead you there, but the most relevant and recent is selected below.
 
 <br>
 

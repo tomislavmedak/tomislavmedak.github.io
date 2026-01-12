@@ -6,13 +6,13 @@
 .. description: Short bio, curriculum vitae (CV) and photo of Tomislav Medak.
 -->
 
-Tomislav Medak is a researcher with a PhD on technopolitics and planetary environmental crisis from Coventry Unversity's [Centre for Postdigital Cultures](http://www.coventry.ac.uk/research/areas-of-research/postdigital-cultures/). Over the last couple of years, he has worked with Valeria Graziano and Marcell Mars as one the co-initiators of the [Pirate Care](https://pirate.care) project and a policy coordinator for the green-left political platform Možemo! in Croatia.
+Tomislav Medak is a researcher with a PhD on technopolitics and planetary environmental crisis from Coventry Unversity's [Centre for Postdigital Cultures](http://www.coventry.ac.uk/research/areas-of-research/postdigital-cultures/). Over the last couple of years, he has been working with Valeria Graziano and Marcell Mars as one the co-initiators of the [Pirate Care](https://pirate.care) project. He is also politically active as a policy coordinator for the green-left party political platform [Možemo!](https://mozemo.hr/) in Croatia.
 
-His own research interests are in care, ecology, technology and capitalist development, with a particular focus on the commons and the disability. At times, he also writes on theatre, dance and politics.
+His own research interests are in care, ecology, technology and capitalist development, with a particular focus on disability and the commons. Sometimes he also writes on theatre, dance and politics.
 
-Formerly he was a member of the theory and publishing team of the [Multimedia Institute/MAMA](http://www.mi2.hr/en/) in Zagreb and an artist in the performing arts collective [BADco.](http://badco.hr/)
+Formerly, he was a member of the theory and publishing team of the [Multimedia Institute/MAMA](http://www.mi2.hr/en/) in Zagreb and an artist in the performing arts collective [BADco.](http://badco.hr/)
 
-At Multimedia Institute, with his colleagues, he was organising talks, conferences and exhibitions, and edited publications in political economy, tactical media and the commons.
+At Multimedia Institute/MAMA, with his colleagues, he was organising talks, conferences and exhibitions, and edited publications in political economy, tactical media and the commons.
 
 He authored two short books: *The Hard Matter of Abstraction* – *A Guidebook to Domination by Abstraction* (V_____erlag für Handbücher, 2016) and *Shit Tech for A Shitty World* (Aksioma, 2015). He also co-authored several edited volumes: together with Marcell Mars *Public Library* (WHW/Multimedia Institute, 2015) and *Guerrilla Open Access* (Post-office Press, 2018), with Petar Milat *The Idea of Radical Media* (Multimedia Institute/Arkzin, 2014) and with Goran Sergej Pristaš *Time and (In)Completion: Images and Performances of Time in Late Capitalism* (BADco., 2014).
 
